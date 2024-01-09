@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Title: add
+! Version: 2023/11/30
+ddys.*##+js(set, Object.prototype.ads, null)
+||ddrk.me/vjs-plugins/videojs.das.min.js
+##.dplayer-logo
+##.llqplayer-logo
+##.leleplayer-logo
+max.book118.com##div.re.webpreview-recommend
+data.avuejs.com##.el-dialog__wrapper,.v-modal

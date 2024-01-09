@@ -152,6 +152,7 @@
     "https://yiyan.baidu.com/" 文心一言
     "https://tongyi.aliyun.com/qianwen/ 通义千问
     "https://www.doubao.com/" 豆包
+    "https://wukong.com/tool" 小悟空
     "https://chatglm.cn/" 智谱清言
     "https://xinghuo.xfyun.cn/" 讯飞星火
     "https://kimi.moonshot.cn/" Kimi Chat
@@ -174,6 +175,8 @@
     "https://gezhe.com/" 歌者 PPT            
 ## AI网站导航
     "https://hao.shenyecg.com/AI" AI导航
+    "http://www.ainav.cn/" AI导航网
+    "https://www.aigc.cn/" AIGC工具导航
     "https://ai.tboxn.com/" 图钉AI导航网
     "https://www.yjpoo.com/" 映技派
     "https://www.aiwht.com/" AI万花筒
@@ -193,7 +196,6 @@
     "https://www.tuidog.com/" GPT商店
     "https://www.aitoolhunt.com/" Best AI Tools
     "https://feizhuke.com/" 非猪ai导航
-    "https://www.xue8nav.com/" 学吧导航
     "https://www.shandiandh.com/" 闪电导航
     "https://qinggongju.com/" 轻工具
 ## GPT链接汇总            

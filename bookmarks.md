@@ -167,7 +167,6 @@
     "https://chat-gtp.co/" CHATGTP - Unlimited Free Use
     "https://chat18.aichatos.xyz/#/chat/1703491930414" AIchatOS
     "https://www.yuxin-ai.com/" AI智能中台
-    "https://chat.aidaohang.me/index.php" Ai降临派ChatBot PRO
     "https://ai27.gptforlove.com/#/chat" ChatGPT Web
 ## AIPPT
     "https://www.mindshow.fun/#/home" MindShow

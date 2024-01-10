@@ -24,7 +24,6 @@
     "http://ss.pythonic.life/" 免费ShadowSocks账号分享
 ## Google play安装包下载
     "https://apps.evozi.com/apk-downloader/" APK Downloader
-    "https://www.magicalsearch.top/main" 奇妙搜索
 ## Windows & office & UWP软件下载
     "https://hellowindows.cn/" HelloWindows
     "https://bbs.pcbeta.com/" 微软极客社区
@@ -81,7 +80,6 @@
     "https://www.baiten.cn/" 佰腾网查专利
     "http://www.soopat.com/" SooPAT 专利搜索
 ## 论文检索
-    "https://github.com/jaywcjlove/reference" 为开发人员分享快速参考备忘清单(速查表)
     "https://scholar.xmsoushu.com/##/" 熊猫学术搜索
     "https://panda985.com/" 熊猫学术
     "https://gfsoso.99lb.net/" 谷粉学术
@@ -121,6 +119,8 @@
     "https://www.jiumodiary.com/" 鸠摩搜索
     "https://z-lib.id/" z-lib
     "https://zlib.app/" 基于zlib安卓客户端的检索接口
+## 开发资料
+    "https://github.com/jaywcjlove/reference" 为开发人员分享快速参考备忘清单(速查表)
 ## 前端设计参考
     "https://www.runoob.com/cssref/css-selectors.html" CSS 选择器
     "https://www.w3school.com.cn/cssref/css_selectors.asp" CSS 选择器参考手册

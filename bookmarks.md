@@ -61,6 +61,8 @@
     "https://bz.zzzmh.cn/" 极简壁纸
     "https://qingbizhi.com/" 轻壁纸
 ## PPT模板资源
+    "https://www.heiniaokeji.com/"黑鸟科技技术库
+    "https://qinggongju.com/" 轻工具
     "https://www.1ppt.com/" 第一PPT
 ## 视频剪辑模板资源
     "https://www.tukuppt.com/" 熊猫办公
@@ -102,7 +104,6 @@
     "http://gjj.nanjing.gov.cn/wsbsdt/" 南京住房公积金管理中心
 ## 翻译
     "https://www.deepl.com/translator" DeepL翻译
-    "https://www.deepl.com/write/" DeepL Write
     "https://yi.qq.com/zh-CN/index" 腾讯交互翻译TranSmart
     "https://www.onlinedoctranslator.com/" 在线文档翻译器
     "https://dogetranslator.com/" Doge Translator
@@ -148,14 +149,15 @@
     "http://worksatlas.com/#/index" 工程随身宝
 ## 国内大模型
     "https://search.tiangong.cn/" 天工AI搜索
-    "https://effidit.qq.com/demo" Effidit
     "https://yiyan.baidu.com/" 文心一言
     "https://tongyi.aliyun.com/qianwen/ 通义千问
     "https://www.doubao.com/" 豆包
     "https://wukong.com/tool" 小悟空
+    "https://effidit.qq.com/demo" Effidit    
     "https://chatglm.cn/" 智谱清言
     "https://xinghuo.xfyun.cn/" 讯飞星火
     "https://kimi.moonshot.cn/" Kimi Chat
+## 大模型整合平台
     "https://www.gnomic.cn/agentCenter/index" Gnomic-智能体平台
     "https://www.coze.com/" Coze
 ## ChatGPT镜像            
@@ -163,9 +165,9 @@
     "https://googlegemini.co/try-google-gemini-for-free" Use Google Gemini Pro for Free
     "https://codenews.cc/chatgpt" CodeNews
     "http://124.220.104.235/web/chatgpt" 公益chatgpt导航
-    "https://www.just2chat.cn/#/chat" 智能助手4.0
     "https://chat-gtp.co/" CHATGTP - Unlimited Free Use
-    "https://chat18.aichatos.xyz/#/chat/1703491930414" AIchatOS
+    "https://chat18.aichatos.xyz/#/chat" AIchatOS
+    "https://www.just2chat.cn/#/chat" 智能助手4.0
     "https://www.yuxin-ai.com/" AI智能中台
     "https://ai27.gptforlove.com/#/chat" ChatGPT Web
 ## AIPPT
@@ -173,30 +175,29 @@
     "https://ppt.sankki.com/#/intro" 闪击PPT
     "https://gezhe.com/" 歌者 PPT            
 ## AI网站导航
-    "https://hao.shenyecg.com/AI" AI导航
-    "http://www.ainav.cn/" AI导航网
+    "https://study.163.com/topics/ai-tooling-collection?from=AIChat" 网易云课堂AI工具集
+    "https://ai-bot.cn/" AI工具集导航
+    "https://www.dongaiapp.com/" 懂AI
     "https://www.aigc.cn/" AIGC工具导航
+    "https://feizhuke.com/" 非猪ai导航
+    "https://hao.shenyecg.com/AI" AI导航
+    "https://blog.91aitools.cn/" 91aitools
+    "http://www.ainav.cn/" AI导航网
     "https://ai.tboxn.com/" 图钉AI导航网
     "https://www.yjpoo.com/" 映技派
     "https://www.aiwht.com/" AI万花筒
     "https://ai-apps.com.cn/" AI Apps软件导航
-    "https://www.dongaiapp.com/" 懂AI
-    "https://toolsdar.cn/" 工具达人
     "https://www.fsl123.com/" AI123导航
     "https://www.amz123.com/ai" AMZ123跨境导航
     "https://www.aitoolist.cn/" AI工具集合
     "https://www.aihub.cn/" AIHub
     "https://www.aiyjs.com/" AI研究所
     "https://www.hiailand.com/" 人工智能岛
-    "https://ai-bot.cn/" AI工具集导航
-    "https://www.phpcms9.com/ai/aistudy?from=phpcms9.com" AI工具箱
-    "http://opensystem.com.cn/" AI工具集与提示工程
-    "https://study.163.com/topics/ai-tooling-collection?from=AIChat" AI工具集
+    "https://www.phpcms9.com/" AI工具箱
+    "https://zhishi.cool/" AI工具集与提示工程
+    "https://www.aijlp.com/" AI降临派
     "https://www.tuidog.com/" GPT商店
     "https://www.aitoolhunt.com/" Best AI Tools
-    "https://feizhuke.com/" 非猪ai导航
-    "https://www.shandiandh.com/" 闪电导航
-    "https://qinggongju.com/" 轻工具
 ## GPT链接汇总            
     "https://github.com/LiLittleCat/awesome-free-chatgpt" awesome-free-chatgpt
     "https://www.zhihu.com/question/605912032/answer/3102305397" 国内可以使用的AI助手那个比较好？ - 知乎

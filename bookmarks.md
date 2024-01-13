@@ -137,6 +137,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3NDg4OTc3NA==&mid=2247483689&idx=1&sn=d0d5507b526927da7791ef043fe4898a&chksm=cec89668f9bf1f7ec19ccacef66bec1eacaf7056a35eaf72a802e47f5f2b6755b1d446892f64&scene=21#wechat_redirect" 让GPT成为产品助理，帮你写产品文档（功能模块篇）
     "https://zhuanlan.zhihu.com/p/638647515" 初入行的产品如何快速上手Axure原型设计？ - 知乎
     "https://hiplot.cn/?lang=zh_cn" Hiplot (ORG)
+    "https://www.uxmap.cn/page/#/uxmap/home" Uxmap
+    "https://www.uisdc.com" 优设网
 ## 标准规范
     "https://std.samr.gov.cn/" 全国标准信息公共服务平台
     "http://www.bzfxw.com/biaozhun.html" 标准规范免费下载网

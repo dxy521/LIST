@@ -160,6 +160,8 @@
     "https://chatglm.cn/" 智谱清言
     "https://xinghuo.xfyun.cn/" 讯飞星火
     "https://kimi.moonshot.cn/" Kimi Chat
+## AI成图
+    "https://www.capcut.cn/ai-tool/platform" 剪映Dreamina
 ## 大模型整合平台
     "https://www.gnomic.cn/agentCenter/index" Gnomic-智能体平台
     "https://www.coze.com/" Coze

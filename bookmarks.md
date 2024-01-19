@@ -1,3 +1,20 @@
+## 原型图设计
+    "https://www.remove.bg/zh" 在线抠图软件
+    "https://www.iconfont.cn/" iconfont矢量图标库
+    "https://data.avuejs.com/" avue-data数据大屏
+    "https://www.isqqw.com/" 图表集isqqw.com
+    "https://datav.aliyun.com/portal/school/atlas/area_selector#&lat=33.521903996156105&lng=104.29849999999999&zoom=4" DataV.GeoAtlas地理小工具系列
+    "https://www.jianshu.com/nb/21224989" Axure RP 9实用教程
+    "https://www.zhihu.com/question/46504680?sort=created" axure元件库哪里可以下载？ - 知乎
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NDg4OTc3NA==&mid=2247483689&idx=1&sn=d0d5507b526927da7791ef043fe4898a&chksm=cec89668f9bf1f7ec19ccacef66bec1eacaf7056a35eaf72a802e47f5f2b6755b1d446892f64&scene=21#wechat_redirect" 让GPT成为产品助理，帮你写产品文档（功能模块篇）
+    "https://zhuanlan.zhihu.com/p/638647515" 初入行的产品如何快速上手Axure原型设计？ - 知乎
+    "https://hiplot.cn/?lang=zh_cn" Hiplot (ORG)
+    "https://www.uxmap.cn/page/#/uxmap/home" Uxmap
+    "https://www.uisdc.com" 优设网
+    "https://boardmix.cn/community/" boardmix模板社区
+    "https://v3.processon.com/diagrams/new#template" 模板首页 - ProcessOn
+    "https://www.edrawmax.cn/templates/" 亿图图示模板社区
+    "https://js.design/community?category=explore" 探索 - 即时设计
 ## 实用软件开源地址
     "https://gitee.com/wanglifree/tianruoocr-cl" tianruoocr-cl: 天若ocr开源版本的本地版
     "https://github.com/hiroi-sora/Umi-OCR" hiroi-sora/Umi-OCR: OCR图片转文字识别软件
@@ -11,7 +28,7 @@
     "https://greasyfork.org/zh-CN" Greasy Fork
     "https://sleazyfork.org/zh-CN/" Sleazy Fork
 ## 网盘直链解析
-    "https://baidu.kinh.cc/?Type=LinkParsing" 百度云盘在线解析
+    "https://kinhdown.kinh.cc/" 百度云盘在线解析
     "https://189.ly93.cc/" 天翼云直链解析 - 涟漪
     "https://ctfile.qinlili.bid/" 城通网盘解析器
 ## GitHub 文件加速
@@ -122,23 +139,12 @@
     "https://zlib.app/" 基于zlib安卓客户端的检索接口
 ## 开发资料
     "https://github.com/jaywcjlove/reference" 为开发人员分享快速参考备忘清单(速查表)
+    "http://www.ip33.com/crc.html" CRC在线计算
+    "https://www.23bei.com/tool/59.html" MODBUS校验码在线计算器
 ## 前端设计参考
     "https://www.runoob.com/cssref/css-selectors.html" CSS 选择器
     "https://www.w3school.com.cn/cssref/css_selectors.asp" CSS 选择器参考手册
     "https://element.eleme.cn/#/zh-CN" Element-网站快速成型  
-## 原型图设计
-    "https://www.remove.bg/zh" 在线抠图软件
-    "https://www.iconfont.cn/" iconfont矢量图标库
-    "https://data.avuejs.com/" avue-data数据大屏
-    "https://www.isqqw.com/" 图表集isqqw.com
-    "https://datav.aliyun.com/portal/school/atlas/area_selector#&lat=33.521903996156105&lng=104.29849999999999&zoom=4" DataV.GeoAtlas地理小工具系列
-    "https://www.jianshu.com/nb/21224989" Axure RP 9实用教程
-    "https://www.zhihu.com/question/46504680?sort=created" axure元件库哪里可以下载？ - 知乎
-    "https://mp.weixin.qq.com/s?__biz=Mzg3NDg4OTc3NA==&mid=2247483689&idx=1&sn=d0d5507b526927da7791ef043fe4898a&chksm=cec89668f9bf1f7ec19ccacef66bec1eacaf7056a35eaf72a802e47f5f2b6755b1d446892f64&scene=21#wechat_redirect" 让GPT成为产品助理，帮你写产品文档（功能模块篇）
-    "https://zhuanlan.zhihu.com/p/638647515" 初入行的产品如何快速上手Axure原型设计？ - 知乎
-    "https://hiplot.cn/?lang=zh_cn" Hiplot (ORG)
-    "https://www.uxmap.cn/page/#/uxmap/home" Uxmap
-    "https://www.uisdc.com" 优设网
 ## 标准规范
     "https://std.samr.gov.cn/" 全国标准信息公共服务平台
     "http://www.bzfxw.com/biaozhun.html" 标准规范免费下载网
@@ -167,10 +173,10 @@
     "https://www.coze.com/" Coze
 ## ChatGPT镜像            
     "https://liaobots.work/" Liaobots UI
-    "https://googlegemini.co/try-google-gemini-for-free" Use Google Gemini Pro for Free
+    "https://googlegemini.co/try-google-gemini-for-free" Gemini
     "https://codenews.cc/chatgpt" CodeNews
     "http://124.220.104.235/web/chatgpt" 公益chatgpt导航
-    "https://chat-gtp.co/" CHATGTP - Unlimited Free Use
+    "https://chat-gtp.co/" CHATGTP
     "https://chat18.aichatos.xyz/#/chat" AIchatOS
     "https://www.just2chat.cn/#/chat" 智能助手4.0
     "https://www.yuxin-ai.com/" AI智能中台

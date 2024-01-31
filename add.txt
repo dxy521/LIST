@@ -8,3 +8,5 @@ ddys.*##+js(set, Object.prototype.ads, null)
 ##.leleplayer-logo
 max.book118.com##div.re.webpreview-recommend
 data.avuejs.com##.el-dialog__wrapper,.v-modal
+s.weibo.com##.card-pic-a.card
+www.mvcat.com##.wxfollow

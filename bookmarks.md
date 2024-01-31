@@ -15,6 +15,26 @@
     "https://v3.processon.com/diagrams/new#template" 模板首页 - ProcessOn
     "https://www.edrawmax.cn/templates/" 亿图图示模板社区
     "https://js.design/community?category=explore" 探索 - 即时设计
+    "https://www.template.net/" Template.net
+    "https://axurehub.com/" AxureHub产品经理原型资源站
+    "https://zhuanlan.zhihu.com/p/79765994" 超全面原型资源大礼包~ - 知乎
+    "https://www.xiaopiu.com/square" 精选广场-即时原型
+    "https://www.nbcharts.com/index.php" NB Charts for Figma
+    "https://www.nbcharts.com/map/map.php" NB Map
+    "https://dp.alibaba.com/product/quickbi/activity?spm=a2c4g.11174283.0.0.16f82b5eJxBI55" Quick BI 数据可视化分析平台
+## 标准规范
+    "https://std.samr.gov.cn/" 全国标准信息公共服务平台
+    "http://www.bzfxw.com/biaozhun.html" 标准规范免费下载网
+    "http://www.upbz.net/StandardInfo.htm" UPBZ免费标准下载网
+    "https://www.biaozhun.org/" 标准网
+    "http://www.bzmfxz.com/" 建筑工程资料范本
+    "http://www.bzxzk.net/" 标准下载库
+    "http://www.bzko.com/" 标准库
+    "http://gb99.cn/" 国标久久
+    "http://chadoc.com/" 茶豆文库
+    "http://worksatlas.com/#/index" 工程随身宝
+    "https://www.wdfxw.net/" WDFXW文档分享网
+    "https://zhuanlan.zhihu.com/p/617767903" 查阅标准的21个网站推荐及免费下载方法总结 - 知乎
 ## 实用软件开源地址
     "https://gitee.com/wanglifree/tianruoocr-cl" tianruoocr-cl: 天若ocr开源版本的本地版
     "https://github.com/hiroi-sora/Umi-OCR" hiroi-sora/Umi-OCR: OCR图片转文字识别软件
@@ -22,6 +42,7 @@
     "https://github.com/lucinhu/bili_you" lucinhu/bili_you: 第三方B站客户端
     "https://github.com/sunhanaix/dedup_files" sunhanaix/dedup_files: 文件去重
     "https://github.com/fork-maintainers/iceraven-browser" fork-maintainers/iceraven-browser
+    "https://github.com/robotze/GithubDesktopZhTool" robotze/GithubDesktopZhTool
 ## 浏览器扩展包下载
     "https://www.crxsoso.com/" Crx搜搜
 ## 浏览器脚本下载
@@ -145,17 +166,6 @@
     "https://www.runoob.com/cssref/css-selectors.html" CSS 选择器
     "https://www.w3school.com.cn/cssref/css_selectors.asp" CSS 选择器参考手册
     "https://element.eleme.cn/#/zh-CN" Element-网站快速成型  
-## 标准规范
-    "https://std.samr.gov.cn/" 全国标准信息公共服务平台
-    "http://www.bzfxw.com/biaozhun.html" 标准规范免费下载网
-    "http://www.upbz.net/StandardInfo.htm" UPBZ免费标准下载网
-    "https://www.biaozhun.org/" 标准网
-    "http://www.bzmfxz.com/" 建筑工程资料范本
-    "http://www.bzxzk.net/" 标准下载库
-    "http://www.bzko.com/" 标准库
-    "http://gb99.cn/" 国标久久
-    "http://chadoc.com/" 茶豆文库
-    "http://worksatlas.com/#/index" 工程随身宝
 ## 国内大模型
     "https://search.tiangong.cn/" 天工AI搜索
     "https://yiyan.baidu.com/" 文心一言
@@ -171,16 +181,16 @@
 ## 大模型整合平台
     "https://www.gnomic.cn/agentCenter/index" Gnomic-智能体平台
     "https://www.coze.com/" Coze
-## ChatGPT镜像            
+## ChatGPT镜像
+    "http://124.220.104.235/web/chatgpt" 公益chatgpt导航            
     "https://liaobots.work/" Liaobots UI
-    "https://googlegemini.co/try-google-gemini-for-free" Gemini
+    "https://chat.googlegemini.co/" Gemini
     "https://codenews.cc/chatgpt" CodeNews
-    "http://124.220.104.235/web/chatgpt" 公益chatgpt导航
-    "https://chat-gtp.co/" CHATGTP
-    "https://chat18.aichatos.xyz/#/chat" AIchatOS
-    "https://www.just2chat.cn/#/chat" 智能助手4.0
-    "https://www.yuxin-ai.com/" AI智能中台
     "https://ai27.gptforlove.com/#/chat" ChatGPT Web
+    "https://chat18.aichatos.xyz/#/chat" AIchatOS
+    "https://chat-gtp.co/" CHATGTP
+    "https://www.yuxin-ai.com/" AI智能中台
+    "https://www.just2chat.cn/#/chat" 智能助手4.0
 ## AIPPT
     "https://www.mindshow.fun/#/home" MindShow
     "https://ppt.sankki.com/#/intro" 闪击PPT

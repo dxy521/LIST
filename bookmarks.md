@@ -1,27 +1,64 @@
-## 原型图设计
-    "https://www.remove.bg/zh" 在线抠图软件
+## 原型图设计资源下载
     "https://www.iconfont.cn/" iconfont矢量图标库
-    "https://data.avuejs.com/" avue-data数据大屏
     "https://www.isqqw.com/" 图表集isqqw.com
-    "https://datav.aliyun.com/portal/school/atlas/area_selector#&lat=33.521903996156105&lng=104.29849999999999&zoom=4" DataV.GeoAtlas地理小工具系列
+    "https://axhub.im/maps/" Axure 全国SVG 地图元件库
+    "https://datav.aliyun.com/portal/school/atlas/area_selector" DataV.GeoAtlas地理小工具系列
+    "https://chartcube.alipay.com/" ChartCube - 在线图表制作工具
+    "https://hiplot.cn/?lang=zh_cn" Hiplot (ORG) | 生物医学数据
+    "https://flourish.studio/" Flourish
+    "https://www.pslkzs.com/chart/charts.php" NB 3D Charts
+    "https://www.bic.ac.cn/#/" BIC - Bioinfo Intelligent Cloud
+    "http://www.bic.ac.cn/#/" BIC - Bioinfo Intelligent Cloud
+    "https://axurehub.com/" AxureHub产品经理原型资源站
+    "https://www.youzhifang.net/" 优职坊
+    "https://www.axured.cn/" Axure工坊
+    "https://www.axureux.com/home/default.html" AxureUX
+    "https://axhub.im/" Axhub
+    "https://www.xiangtianchi.com/" 产品经理素材网站_象天尺官网
+    "https://axure6.com/" 匠心原型
+    "http://www.iaxure.com/" iaxure.com
+    "https://www.axureshop.com/all-price" AxureShop产品原型网
+    "https://axured.cn/" Axure工坊
+    "http://daisyaxure.com/index.html" Daisy Axure高保真原型网
+## 画图设计参考
     "https://www.jianshu.com/nb/21224989" Axure RP 9实用教程
-    "https://www.zhihu.com/question/46504680?sort=created" axure元件库哪里可以下载？ - 知乎
-    "https://mp.weixin.qq.com/s?__biz=Mzg3NDg4OTc3NA==&mid=2247483689&idx=1&sn=d0d5507b526927da7791ef043fe4898a&chksm=cec89668f9bf1f7ec19ccacef66bec1eacaf7056a35eaf72a802e47f5f2b6755b1d446892f64&scene=21#wechat_redirect" 让GPT成为产品助理，帮你写产品文档（功能模块篇）
-    "https://zhuanlan.zhihu.com/p/638647515" 初入行的产品如何快速上手Axure原型设计？ - 知乎
-    "https://hiplot.cn/?lang=zh_cn" Hiplot (ORG)
-    "https://www.uxmap.cn/page/#/uxmap/home" Uxmap
-    "https://www.uisdc.com" 优设网
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NDg4OTc3NA==&mid=2247483689&idx=1&sn=d0d5507b526927da7791ef043fe4898achksm=cec89668f9bf1f7ec19ccacef66bec1eacaf7056a35eaf72a802e47f5f2b6755b1d446892f64&scene=21#wechat_redirect" 让GPT成为产品助理，帮你写产品文档（功能模块篇）
+    "https://www.woshipm.com/" 人人都是产品经理
+    "http://www.pexue.com/" 陪学产品经理
+    "https://data.avuejs.com/" avue-data数据大屏
+    "https://dp.alibaba.com/product/quickbi/activity?spm=a2c4g.11174283.0.0.16f82b5eJxBI55" Quick BI 数据可视化分析平台
+    "http://www.hiaxure.com/" Axure中文社区
+    "https://www.xiaopiu.com/square" 精选广场-即时原型
     "https://boardmix.cn/community/" boardmix模板社区
     "https://v3.processon.com/diagrams/new#template" 模板首页 - ProcessOn
+    "https://pixso.cn/community/home/" Pixso资源社区
     "https://www.edrawmax.cn/templates/" 亿图图示模板社区
+    "https://www.uxmap.cn/page/#/uxmap/home" AI工具导航、设计导航|Uxmap
+    "https://www.uisdc.com/" 优设网官网 - UISDC - 国内专业设计师平台
     "https://js.design/community?category=explore" 探索 - 即时设计
+    "https://www.iviewui.com/store" 物料市场 - View Design
+    "https://tdesign.tencent.com/" TDesign
     "https://www.template.net/" Template.net
-    "https://axurehub.com/" AxureHub产品经理原型资源站
-    "https://zhuanlan.zhihu.com/p/79765994" 超全面原型资源大礼包~ - 知乎
-    "https://www.xiaopiu.com/square" 精选广场-即时原型
-    "https://www.nbcharts.com/index.php" NB Charts for Figma
-    "https://www.nbcharts.com/map/map.php" NB Map
-    "https://dp.alibaba.com/product/quickbi/activity?spm=a2c4g.11174283.0.0.16f82b5eJxBI55" Quick BI 数据可视化分析平台
+    "https://www.mockplus.cn/example/rp" 精美的原型模版和设计例子 - 摹客
+    "https://www.uimaker.com/" Uimaker-专注于UI设计
+    "https://www.zcool.com.cn/" 站酷ZCOOL-设计师互动平台
+    "https://axureziyuan.com/" Axure资源小站 
+    "https://www.axure.com.cn/" Axure中文学习网
+    "http://www.cssmoban.com/cssthemes/" 模板之家
+    "https://www.ui.net.cn/" UI素材网
+    "https://mobbin.com/browse/ios/apps" Discover iOS Apps | Mobbin
+    "https://refero.design/" Refero
+    "https://wwit.design/" What Was IT
+    "https://dribbble.com/" Dribbble
+## 在线抠图网站
+    "https://www.remove.bg/zh" remove.bg
+    "https://www.miankoutupian.com/" 免抠图片网
+    "https://bgsub.cn/webapp/" BgSub
+    "https://pixian.ai/" Pixian.AI
+## SVG在线编辑
+    "https://editor.method.ac" Method Draw Vector Editor
+    "https://unpkg.com/svgedit@7.3.3/dist/editor/index.html" SVG-edit
+    "https://svgedit.netlify.app/editor/index.html" remove.bg
 ## 标准规范
     "https://std.samr.gov.cn/" 全国标准信息公共服务平台
     "http://www.bzfxw.com/biaozhun.html" 标准规范免费下载网
@@ -43,11 +80,14 @@
     "https://github.com/sunhanaix/dedup_files" sunhanaix/dedup_files: 文件去重
     "https://github.com/fork-maintainers/iceraven-browser" fork-maintainers/iceraven-browser
     "https://github.com/robotze/GithubDesktopZhTool" robotze/GithubDesktopZhTool
+    "https://github.com/ant-design/ant-design/releases/resource/" Releases · ant-design/ant-design
+    "https://gitee.com/bosenger" bosenger (bosenger) - Gitee.com
 ## 浏览器扩展包下载
     "https://www.crxsoso.com/" Crx搜搜
 ## 浏览器脚本下载
     "https://greasyfork.org/zh-CN" Greasy Fork
     "https://sleazyfork.org/zh-CN/" Sleazy Fork
+    "https://scriptcat.org/zh-CN/" ScriptCat
 ## 网盘直链解析
     "https://kinhdown.kinh.cc/" 百度云盘在线解析
     "https://189.ly93.cc/" 天翼云直链解析 - 涟漪
@@ -55,6 +95,7 @@
 ## GitHub 文件加速
     "http://gh.ddlc.top/" GitHub 文件加速
     "https://gh.kkdy.link/" GitHub 文件加速
+    "https://gitmirror.com/" GitMirror | Services
 ## 翻墙ssr分享
     "https://freefq.com/free-ssr/" 免费ssr节点分享
     "https://www.youneed.win/free-ssr" 免费SSR
@@ -119,6 +160,7 @@
     "https://www.patent9.com/" Patent9专利在线
     "https://www.baiten.cn/" 佰腾网查专利
     "http://www.soopat.com/" SooPAT 专利搜索
+    "https://lib.cqvip.com/" 【维普期刊官网】- 中文期刊服务平台
 ## 论文检索
     "https://scholar.xmsoushu.com/##/" 熊猫学术搜索
     "https://panda985.com/" 熊猫学术
@@ -165,22 +207,23 @@
 ## 前端设计参考
     "https://www.runoob.com/cssref/css-selectors.html" CSS 选择器
     "https://www.w3school.com.cn/cssref/css_selectors.asp" CSS 选择器参考手册
-    "https://element.eleme.cn/#/zh-CN" Element-网站快速成型  
-## 国内大模型
+    "https://element.eleme.cn/#/zh-CN" Element-网站快速成型 
+    "https://ant.design/index-cn" Ant Design
+    "https://ant-design.antgroup.com/index-cn" Ant Design镜像
+## 国内AI大模型
     "https://search.tiangong.cn/" 天工AI搜索
     "https://yiyan.baidu.com/" 文心一言
     "https://tongyi.aliyun.com/qianwen/ 通义千问
     "https://www.doubao.com/" 豆包
     "https://wukong.com/tool" 小悟空
+    "https://www.coze.cn/" 扣子
+    "https://www.coze.com/" Coze
     "https://effidit.qq.com/demo" Effidit    
     "https://chatglm.cn/" 智谱清言
     "https://xinghuo.xfyun.cn/" 讯飞星火
     "https://kimi.moonshot.cn/" Kimi Chat
 ## AI成图
     "https://www.capcut.cn/ai-tool/platform" 剪映Dreamina
-## 大模型整合平台
-    "https://www.gnomic.cn/agentCenter/index" Gnomic-智能体平台
-    "https://www.coze.com/" Coze
 ## ChatGPT镜像
     "http://124.220.104.235/web/chatgpt" 公益chatgpt导航            
     "https://liaobots.work/" Liaobots UI

@@ -211,8 +211,8 @@
     "https://ant.design/index-cn" Ant Design
     "https://ant-design.antgroup.com/index-cn" Ant Design镜像
 ## 国内AI大模型
-    "https://search.tiangong.cn/" 天工AI搜索
     "https://yiyan.baidu.com/" 文心一言
+    "https://chat.baidu.com/" 搜索AI伙伴
     "https://tongyi.aliyun.com/qianwen/ 通义千问
     "https://www.doubao.com/" 豆包
     "https://wukong.com/tool" 小悟空
@@ -222,6 +222,10 @@
     "https://chatglm.cn/" 智谱清言
     "https://xinghuo.xfyun.cn/" 讯飞星火
     "https://kimi.moonshot.cn/" Kimi Chat
+## AI搜索
+    "https://search.tiangong.cn/" 天工AI搜索
+    "https://so.360.com/" 360AI搜索
+    "https://metaso.cn/" 秘塔AI搜索
 ## AI成图
     "https://www.capcut.cn/ai-tool/platform" 剪映Dreamina
 ## ChatGPT镜像

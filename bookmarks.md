@@ -121,8 +121,34 @@
     "https://www.sosoyunpan.com" SOSO云盘搜索导航
     "https://www.dashengpan.com/#/main/search" 大圣盘
     "https://www.yunso.net/" 小云搜索
-    "" 
-    "" 
+    "https://www.xiaobaipan.com/" 小白盘
+    "https://www.sousuopan.com/" 搜索盘
+    "https://feiyu100.cn/" 飞鱼盘搜
+    "https://www.panothers.com/" 盘他一下
+    "https://www.cuppaso.com/" 咔帕搜索
+    "https://yapan.io/" YaPan
+    "https://www.niceso.net/" 奈斯搜索
+    "http://miemieyang2dcq.one/apps/index.html" 咩咩盘搜
+    "https://s.6miu.com/" 6miu盘搜
+    "https://www.sobaidupan.com/" 搜BaiDu盘
+    "https://www.pansearch.me/" PanSearch
+    "https://panyq.com/" 盘友圈
+    "https://www.iizhi.cn/" 毕方铺    
+    "https://www.pikaso.top/" 皮卡搜索
+    "https://kkxz.vip/" 夸克网盘小站
+    "https://pan.funletu.com/#/" 趣盘搜
+    "https://ssgo.app/" SearchSearchGo
+    "http://xiongbeng.com/" 熊崩搜索
+    "https://www.alipansou.com/" 猫狸盘搜
+    "https://www.codelicence.cn/" 云盘4K
+    "https://www.xuebapan.com/" 学霸盘
+    "https://yiso.fun/" 易搜
+    "https://pan.qianfan.app/" 千帆搜索
+    "http://www.upyunso.com/" UP云搜
+    "http://www.repanso.com/" 热盘搜
+    "https://miaosou.fun/" 秒搜
+    "http://haokan.kxsou.net/" 影视搜索
+    "https://ywop114bokb.feishu.cn/docx/SrD2dJKu9oWMUHxN8E5cYM5anrd" 群内专属搜盘
 ## 网络视频下载
     "https://youtube.online-downloader.com/index-Chinese" YouTube视频下载器
 ## 远程工具下载

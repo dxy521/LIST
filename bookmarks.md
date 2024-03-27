@@ -1,15 +1,4 @@
 ## 原型图设计资源下载
-    "https://mycolor.space" ColorSpace
-    "https://color.adobe.com/zh/" Adobe Color
-    "https://www.isqqw.com/" 图表集isqqw.com
-    "https://axhub.im/maps/" Axure 全国SVG 地图元件库
-    "https://datav.aliyun.com/portal/school/atlas/area_selector" DataV.GeoAtlas地理小工具系列
-    "https://chartcube.alipay.com/" ChartCube - 在线图表制作工具
-    "https://hiplot.cn/?lang=zh_cn" Hiplot (ORG) | 生物医学数据
-    "https://flourish.studio/" Flourish
-    "https://www.pslkzs.com/chart/charts.php" NB 3D Charts
-    "https://www.bic.ac.cn/#/" BIC - Bioinfo Intelligent Cloud
-    "http://www.bic.ac.cn/#/" BIC - Bioinfo Intelligent Cloud
     "https://axurehub.com/" AxureHub产品经理原型资源站
     "https://www.youzhifang.net/" 优职坊
     "https://www.axured.cn/" Axure工坊
@@ -21,6 +10,22 @@
     "https://www.axureshop.com/all-price" AxureShop产品原型网
     "https://axured.cn/" Axure工坊
     "http://daisyaxure.com/index.html" Daisy Axure高保真原型网
+## 图表在线编辑
+    "https://www.isqqw.com/" 图表集isqqw.com
+    "https://hiplot.cn/?lang=zh_cn" Hiplot (ORG) | 生物医学数据
+    "https://flourish.studio/" Flourish
+    "https://www.bic.ac.cn/#/" BIC - Bioinfo Intelligent Cloud
+    "http://www.bic.ac.cn/#/" BIC - Bioinfo Intelligent Cloud
+    "https://chartcube.alipay.com/" ChartCube - 在线图表制作工具
+    "https://www.pslkzs.com/chart/charts.php" NB 3D Charts
+    "https://echarts.apache.org/zh/index.html" Apache ECharts
+    "https://antv.antgroup.com/" AntV | 蚂蚁数据可视化
+## 设计调色盘
+    "https://mycolor.space" ColorSpace
+    "https://color.adobe.com/zh/" Adobe Color
+## 地图在线编辑
+    "https://axhub.im/maps/" Axure 全国SVG 地图元件库
+    "https://datav.aliyun.com/portal/school/atlas/area_selector" DataV.GeoAtlas地理小工具系列
 ## 图标资源下载
     "https://www.iconfont.cn/" iconfont矢量图标库
     "https://qingicon.com/" QingIcon
@@ -95,6 +100,7 @@
     "https://gitee.com/bosenger" bosenger (bosenger) - Gitee.com
 ## 浏览器扩展包下载
     "https://www.crxsoso.com/" Crx搜搜
+    "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home/" Edge 加载项
 ## 浏览器脚本下载
     "https://greasyfork.org/zh-CN" Greasy Fork
     "https://sleazyfork.org/zh-CN/" Sleazy Fork

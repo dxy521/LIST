@@ -1,5 +1,4 @@
 ## 原型图设计资源下载
-    "https://www.iconfont.cn/" iconfont矢量图标库
     "https://www.isqqw.com/" 图表集isqqw.com
     "https://axhub.im/maps/" Axure 全国SVG 地图元件库
     "https://datav.aliyun.com/portal/school/atlas/area_selector" DataV.GeoAtlas地理小工具系列
@@ -20,6 +19,16 @@
     "https://www.axureshop.com/all-price" AxureShop产品原型网
     "https://axured.cn/" Axure工坊
     "http://daisyaxure.com/index.html" Daisy Axure高保真原型网
+## 图标资源下载
+    "https://www.iconfont.cn/" iconfont矢量图标库
+    "https://qingicon.com/" QingIcon
+    "https://www.remixicon.com/" Remix Icon
+    "https://heroicons.com/" Heroicons
+    "https://www.streamlinehq.com/" Streamline Icons
+    "https://lineicons.com/" Lineicons
+    "https://pikaicons.com/" Pikaicons
+    "https://fontawesome.com/" Font Awesome
+    "https://lordicon.com/" Lordicon
 ## 画图设计参考
     "https://www.jianshu.com/nb/21224989" Axure RP 9实用教程
     "https://mp.weixin.qq.com/s?__biz=Mzg3NDg4OTc3NA==&mid=2247483689&idx=1&sn=d0d5507b526927da7791ef043fe4898achksm=cec89668f9bf1f7ec19ccacef66bec1eacaf7056a35eaf72a802e47f5f2b6755b1d446892f64&scene=21#wechat_redirect" 让GPT成为产品助理，帮你写产品文档（功能模块篇）

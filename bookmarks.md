@@ -112,6 +112,17 @@
     "https://www.ghxi.com/" 果核剥壳
     "http://www.sixyin.com/" 六音软件
     "https://www.bianshengruanjian.com/" 入梦资源站
+    "https://blog.ruancang.net" 软仓
+## 网盘资源下载
+    "https://hunhepan.com" 混合盘搜索
+    "https://www.xiaomapan.com/#/main/search?restype=1" 小马盘
+    "https://pansoso.com" 盘搜搜
+    "https://www.lingfengyun.com" 凌风云
+    "https://www.sosoyunpan.com" SOSO云盘搜索导航
+    "https://www.dashengpan.com/#/main/search" 大圣盘
+    "http://www.aichunjing.com/" 爱纯净
+    "http://www.aichunjing.com/" 爱纯净
+    "http://www.aichunjing.com/" 爱纯净
 ## 网络视频下载
     "https://youtube.online-downloader.com/index-Chinese" YouTube视频下载器
 ## 远程工具下载
@@ -194,6 +205,7 @@
     "https://convertio.co/zh/" Convertio文件转换
     "https://caj2pdf.cn/" Caj在线格式转换
     "https://www.pdfgear.com/all-features/" All PDF Features of PDFgear
+    "https://www.67tool.com/" 即时工具
 ## 在线OFD文件阅读器
     "https://fp.scofd.com/" OFD阅读器（免费版）
 ## 电子书网站

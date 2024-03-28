@@ -36,6 +36,10 @@
     "https://pikaicons.com/" Pikaicons
     "https://fontawesome.com/" Font Awesome
     "https://lordicon.com/" Lordicon
+    "https://feathericons.com/" Feather
+    "https://iconmonstr.com/" iconmonstr
+    "https://icons.bootcss.com/" Bootstrap 图标库
+    "https://iconpark.oceanengine.com/home" ByteDance IconPark
 ## 画图设计参考
     "https://www.jianshu.com/nb/21224989" Axure RP 9实用教程
     "https://mp.weixin.qq.com/s?__biz=Mzg3NDg4OTc3NA==&mid=2247483689&idx=1&sn=d0d5507b526927da7791ef043fe4898achksm=cec89668f9bf1f7ec19ccacef66bec1eacaf7056a35eaf72a802e47f5f2b6755b1d446892f64&scene=21#wechat_redirect" 让GPT成为产品助理，帮你写产品文档（功能模块篇）

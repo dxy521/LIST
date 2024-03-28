@@ -1,15 +1,3 @@
-## 原型图设计资源下载
-    "https://axurehub.com/" AxureHub产品经理原型资源站
-    "https://www.youzhifang.net/" 优职坊
-    "https://www.axured.cn/" Axure工坊
-    "https://www.axureux.com/home/default.html" AxureUX
-    "https://axhub.im/" Axhub
-    "https://www.xiangtianchi.com/" 产品经理素材网站_象天尺官网
-    "https://axure6.com/" 匠心原型
-    "http://www.iaxure.com/" iaxure.com
-    "https://www.axureshop.com/all-price" AxureShop产品原型网
-    "https://axured.cn/" Axure工坊
-    "http://daisyaxure.com/index.html" Daisy Axure高保真原型网
 ## 图表在线编辑
     "https://www.isqqw.com/" 图表集isqqw.com
     "https://hiplot.cn/?lang=zh_cn" Hiplot (ORG) | 生物医学数据
@@ -41,35 +29,47 @@
     "https://icons.bootcss.com/" Bootstrap 图标库
     "https://iconpark.oceanengine.com/home" ByteDance IconPark
 ## 画图设计参考
-    "https://www.jianshu.com/nb/21224989" Axure RP 9实用教程
-    "https://mp.weixin.qq.com/s?__biz=Mzg3NDg4OTc3NA==&mid=2247483689&idx=1&sn=d0d5507b526927da7791ef043fe4898achksm=cec89668f9bf1f7ec19ccacef66bec1eacaf7056a35eaf72a802e47f5f2b6755b1d446892f64&scene=21#wechat_redirect" 让GPT成为产品助理，帮你写产品文档（功能模块篇）
-    "https://www.woshipm.com/" 人人都是产品经理
-    "http://www.pexue.com/" 陪学产品经理
     "https://data.avuejs.com/" avue-data数据大屏
     "https://dp.alibaba.com/product/quickbi/activity?spm=a2c4g.11174283.0.0.16f82b5eJxBI55" Quick BI 数据可视化分析平台
-    "http://www.hiaxure.com/" Axure中文社区
+    "https://www.figma.cool/" Figma 中文社区
+    "https://oursketch.com/" OurSketch
+    "http://www.sketchcn.com/" Sketch中文网
+    "https://modao.cc/community?source=nav&page=1&category=project_basic" 素材广场-墨刀
     "https://www.xiaopiu.com/square" 精选广场-即时原型
+    "https://www.mockplus.cn/example/rp" 精美的原型模版和设计例子 - 摹客
+    "https://pixso.cn/community/home/" Pixso资源社区
+    "https://js.design/community?category=explore" 探索 - 即时设计
+    "https://mastergo.com/community/" MasterGo资源社区
     "https://boardmix.cn/community/" boardmix模板社区
     "https://v3.processon.com/diagrams/new#template" 模板首页 - ProcessOn
-    "https://pixso.cn/community/home/" Pixso资源社区
     "https://www.edrawmax.cn/templates/" 亿图图示模板社区
-    "https://www.uxmap.cn/page/#/uxmap/home" AI工具导航、设计导航|Uxmap
-    "https://www.uisdc.com/" 优设网官网 - UISDC - 国内专业设计师平台
-    "https://js.design/community?category=explore" 探索 - 即时设计
-    "https://www.iviewui.com/store" 物料市场 - View Design
-    "https://tdesign.tencent.com/" TDesign
-    "https://www.template.net/" Template.net
-    "https://www.mockplus.cn/example/rp" 精美的原型模版和设计例子 - 摹客
-    "https://www.uimaker.com/" Uimaker-专注于UI设计
-    "https://www.zcool.com.cn/" 站酷ZCOOL-设计师互动平台
-    "https://axureziyuan.com/" Axure资源小站 
-    "https://www.axure.com.cn/" Axure中文学习网
-    "http://www.cssmoban.com/cssthemes/" 模板之家
+    "https://shuffle.dev/" Shuffle
     "https://www.ui.net.cn/" UI素材网
-    "https://mobbin.com/browse/ios/apps" Discover iOS Apps | Mobbin
-    "https://refero.design/" Refero
-    "https://wwit.design/" What Was IT
-    "https://dribbble.com/" Dribbble
+    "https://axmax.cn/" Axmax
+    "http://daisyaxure.com/index.html" Daisy Axure高保真原型网
+    "https://axure6.com/" 匠心原型
+    "https://www.youzhifang.net/" 优职坊
+    "https://axured.cn/" Axure工坊
+    "http://axured.cn/" Axure工坊
+    "https://axurehub.com/" AxureHub产品经理原型资源站
+    "https://www.axureux.com/home/default.html" AxureUX
+    "https://axhub.im/" Axhub
+    "https://www.axureshop.com/all-price" AxureShop产品原型网
+    "https://www.xiangtianchi.com/" 象天尺官网
+    "https://www.axure9.com/" Axure模板网
+    "http://www.demojishi.com/" Demo集市
+    "http://www.xmsumi.com/" 苏米客XMSUMI
+    "https://axhub.im/ax9/2706bd78f450eaed/#p=可视化长图模板（深色系）&id=d99wnc&g=1" 可视化长图模板（深色系）
+    "https://cdn7.axureshop.com/demo/1061921/#g=1&p=蓝色清新登录注册页面模板" 蓝色清新登录注册页面模板
+    "https://www.axureux.com/demo/Templates027/%E7%B3%BB%E7%BB%9F%E6%A1%86%E6%9E%B610.html" Axure大屏原型模板 - AxureUX
+    "https://www.toutiao.com/article/7337568775220675084/?app=news_article&timestamp=1708425629&use_new_style=1&req_id=20240220184028306A2E4B08C7BFB3E116&group_id=7337568775220675084&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=9ce45321-d484-452c-a6e0-7a0d3ceed93a&source=m_redirect&wid=1708478032847" 实时监测电力系统-今日头条
+    "https://www.meiye.art/" 美叶
+    "https://www.uisdc.com/" 优设网官网
+    "https://www.uimaker.com/" Uimaker
+    "https://www.zcool.com.cn/" 站酷ZCOOL
+    "http://www.cssmoban.com/cssthemes/" 模板之家
+    "https://ilovemockup.club/" 交互设计汁源小站
+    "https://www.psd.cn/" PSD素材网
 ## 在线抠图网站
     "https://www.remove.bg/zh" remove.bg
     "https://www.miankoutupian.com/" 免抠图片网

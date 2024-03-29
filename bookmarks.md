@@ -303,6 +303,7 @@
     "https://gezhe.com/" 歌者 PPT            
 ## AI网站导航
     "https://study.163.com/topics/ai-tooling-collection?from=AIChat" 网易云课堂AI工具集
+    "https://ai.hao.360.com" 360AI导航
     "https://ai-bot.cn/" AI工具集导航
     "https://www.dongaiapp.com/" 懂AI
     "https://www.aigc.cn/" AIGC工具导航

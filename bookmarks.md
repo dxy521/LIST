@@ -8,6 +8,8 @@
     "https://www.pslkzs.com/chart/charts.php" NB 3D Charts
     "https://echarts.apache.org/zh/index.html" Apache ECharts
     "https://antv.antgroup.com/" AntV | 蚂蚁数据可视化
+    "https://g2.antv.antgroup.com/examples" 所有图表 | G2 - AntV
+    "https://www.hcharts.cn/demo/highcharts#hc-others" Highcharts 演示 | Highcharts
 ## 设计调色盘
     "https://mycolor.space" ColorSpace
     "https://color.adobe.com/zh/" Adobe Color
@@ -32,6 +34,7 @@
     "https://data.avuejs.com/" avue-data数据大屏
     "https://dp.alibaba.com/product/quickbi/activity?spm=a2c4g.11174283.0.0.16f82b5eJxBI55" Quick BI 数据可视化分析平台
     "https://www.figma.cool/" Figma 中文社区
+    "https://figmachina.com/" FigmaChina
     "https://oursketch.com/" OurSketch
     "http://www.sketchcn.com/" Sketch中文网
     "https://modao.cc/community?source=nav&page=1&category=project_basic" 素材广场-墨刀
@@ -70,6 +73,13 @@
     "http://www.cssmoban.com/cssthemes/" 模板之家
     "https://ilovemockup.club/" 交互设计汁源小站
     "https://www.psd.cn/" PSD素材网
+    "https://uiverse.io/" uiverse.io
+    "https://50projects50days.com/" Traversy Media
+    "https://htmlrev.com/" HTMLrev
+    "https://www.recraft.ai/" Recraft
+    "https://coverpaint.xiaole.site/zh" Cover Paint
+    "http://demo.bigemap.com/" BIGEMAP项目展示
+    "https://www.xiongze.net/viewdata/index.html" 可视化大数据展示中心
 ## 在线抠图网站
     "https://www.remove.bg/zh" remove.bg
     "https://www.miankoutupian.com/" 免抠图片网
@@ -136,6 +146,7 @@
     "https://blog.ruancang.net" 软仓
 ## 网盘资源下载
     "https://hunhepan.com" 混合盘搜索
+    "https://ssgo.app/" SearchSearchGo
     "https://www.xiaomapan.com/#/main/search?restype=1" 小马盘
     "https://pansoso.com" 盘搜搜
     "https://www.lingfengyun.com" 凌风云
@@ -285,6 +296,8 @@
     "https://search.tiangong.cn/" 天工AI搜索
     "https://so.360.com/" 360AI搜索
     "https://metaso.cn/" 秘塔AI搜索
+    "https://iask.ai/" iAsk.Ai
+    "https://search.lepton.run/" Lepton Search
 ## AI成图
     "https://www.capcut.cn/ai-tool/platform" 剪映Dreamina
 ## ChatGPT镜像

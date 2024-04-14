@@ -256,6 +256,7 @@
     "https://yi.qq.com/zh-CN/index" 腾讯交互翻译TranSmart
     "https://www.onlinedoctranslator.com/" 在线文档翻译器
     "https://dogetranslator.com/" Doge Translator
+    "https://fanyi.pdf365.cn/" 福昕翻译
 ## pdf工具网站
     "https://tool.browser.qq.com/" 帮小忙
     "https://www.ilovepdf.com/zh-cn" iLovePDF
@@ -264,8 +265,9 @@
     "https://caj2pdf.cn/" Caj在线格式转换
     "https://www.pdfgear.com/all-features/" All PDF Features of PDFgear
     "https://www.67tool.com/" 即时工具
-## 在线OFD文件阅读器
+## 在线文档处理
     "https://fp.scofd.com/" OFD阅读器（免费版）
+    "https://tools.mounui.com/wenku" 文档下载助手
 ## 电子书网站
     "https://www.jiumodiary.com/" 鸠摩搜索
     "https://z-lib.id/" z-lib

@@ -267,7 +267,7 @@
     "https://www.67tool.com/" 即时工具
 ## 在线文档处理
     "https://fp.scofd.com/" OFD阅读器（免费版）
-    "https://tools.mounui.com/wenku" 文档下载助手
+    "https://doc.idjams.top/" 文档下载助手
 ## 电子书网站
     "https://www.jiumodiary.com/" 鸠摩搜索
     "https://z-lib.id/" z-lib

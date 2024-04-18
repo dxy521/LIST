@@ -10,3 +10,6 @@ max.book118.com##div.re.webpreview-recommend
 data.avuejs.com##.el-dialog__wrapper,.v-modal
 s.weibo.com##.card-pic-a.card
 www.mvcat.com##.wxfollow
+https://m.2shuquge.net/static/88ds/ttss.js
+mail.163.com##[title="企业邮箱"]
+mail.163.com##.txt-info.tI0

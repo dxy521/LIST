@@ -46,6 +46,8 @@
     "https://boardmix.cn/community/" boardmix模板社区
     "https://v3.processon.com/diagrams/new#template" 模板首页 - ProcessOn
     "https://www.edrawmax.cn/templates/" 亿图图示模板社区
+    "https://www.zhixi.com/space" 免费思维导图模板大全_知犀官网
+    "https://zhimap.com/gallery" ZhiMap知识导图社区
     "https://shuffle.dev/" Shuffle
     "https://www.ui.net.cn/" UI素材网
     "https://axmax.cn/" Axmax

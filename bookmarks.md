@@ -145,6 +145,7 @@
     "http://www.sixyin.com/" 六音软件
     "https://www.bianshengruanjian.com/" 入梦资源站
     "https://blog.ruancang.net" 软仓
+    "http://ruanjianheji.top/" 点击软件名称下载即可，亲测可用
 ## 网盘资源下载
     "https://hunhepan.com" 混合盘搜索
     "https://ssgo.app/" SearchSearchGo

@@ -303,6 +303,7 @@
     "https://search.lepton.run/" Lepton Search
 ## AI成图
     "https://www.capcut.cn/ai-tool/platform" 剪映Dreamina
+    "https://www.canva.cn/" Canva中文官网
 ## ChatGPT镜像
     "http://124.220.104.235/web/chatgpt" 公益chatgpt导航            
     "https://liaobots.work/" Liaobots UI

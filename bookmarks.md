@@ -112,6 +112,7 @@
     "https://github.com/robotze/GithubDesktopZhTool" robotze/GithubDesktopZhTool
     "https://github.com/ant-design/ant-design/releases/resource/" Releases · ant-design/ant-design
     "https://gitee.com/bosenger" bosenger (bosenger) - Gitee.com
+    "https://lxmusic.toside.cn/download" 软件下载 | LX Music
 ## 浏览器扩展包下载
     "https://www.crxsoso.com/" Crx搜搜
     "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home/" Edge 加载项

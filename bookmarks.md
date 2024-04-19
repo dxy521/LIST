@@ -13,6 +13,11 @@
 ## 设计调色盘
     "https://mycolor.space" ColorSpace
     "https://color.adobe.com/zh/" Adobe Color
+    "https://likexia.gitee.io/tools/peise/index.html" 网页设计常用色彩搭配表 - 配色表
+    "https://webgradients.com/" Fresh Background Gradients
+    "https://www.webdesignrankings.com/resources/lolcolors/" LOL Colors
+    "http://colormind.io/" Colormind
+    "https://colorhunt.co/" Color Hunt
 ## 地图在线编辑
     "https://axhub.im/maps/" Axure 全国SVG 地图元件库
     "https://datav.aliyun.com/portal/school/atlas/area_selector" DataV.GeoAtlas地理小工具系列

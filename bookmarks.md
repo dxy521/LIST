@@ -94,6 +94,7 @@
     "https://pixian.ai/" Pixian.AI
     "https://cloudconvert.com/" CloudConvert
     "https://photokit.com/?lang=zh" 免费在线图片编辑器 -PhotoKit.com
+    "https://heicjpeg.com/cn" HEIC转JPG转换器– 100％免费
 ## SVG在线编辑
     "https://editor.method.ac" Method Draw Vector Editor
     "https://unpkg.com/svgedit@7.3.3/dist/editor/index.html" SVG-edit

@@ -313,6 +313,7 @@
     "https://metaso.cn/" 秘塔AI搜索
     "https://iask.ai/" iAsk.Ai
     "https://search.lepton.run/" Lepton Search
+    "https://thinkany.ai/" thinkany.ai
 ## AI成图
     "https://www.capcut.cn/ai-tool/platform" 剪映Dreamina
     "https://www.canva.cn/" Canva中文官网

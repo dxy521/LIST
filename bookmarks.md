@@ -341,7 +341,7 @@
     "https://www.mindshow.fun/#/home" MindShow
     "https://ppt.sankki.com/#/intro" 闪击PPT
     "https://gezhe.com/" 歌者 PPT            
-## AI网站导航
+## 网站导航
     "https://study.163.com/topics/ai-tooling-collection?from=AIChat" 网易云课堂AI工具集
     "https://ai.hao.360.com" 360AI导航
     "https://ai-bot.cn/" AI工具集导航
@@ -366,6 +366,10 @@
     "https://www.aijlp.com/" AI降临派
     "https://www.tuidog.com/" GPT商店
     "https://www.aitoolhunt.com/" Best AI Tools
+    "https://nav.cnxiaobai.com/" 网址导航 | 个人网址收藏
+    "https://adzhp.xyz/" 爱达杂货铺
+    "https://www.67tool.com/" 即时工具
+    "http://cxysite.com/" 程序员导航
 ## GPT链接汇总            
     "https://github.com/LiLittleCat/awesome-free-chatgpt" awesome-free-chatgpt
     "https://www.zhihu.com/question/605912032/answer/3102305397" 国内可以使用的AI助手那个比较好？ - 知乎

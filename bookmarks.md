@@ -147,9 +147,13 @@
 ## Google play安装包下载
     "https://apps.evozi.com/apk-downloader/" APK Downloader
 ## Windows & office & UWP软件下载
+    "https://github.com/massgravel/Microsoft-Activation-Scripts/releases" Microsoft-Activation-Scripts激活工具
+    "https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases" KMS_VL_ALL_AIO激活工具
     "https://hellowindows.cn/" HelloWindows
     "https://bbs.pcbeta.com/" 微软极客社区
     "https://store.rg-adguard.net/" Microsoft Store
+    "https://www.xitongku.com/" MSDN系统库
+    "https://msdn.sjjzm.com/" MSDN - 山己几子木
 ## 破解软件下载
     "http://www.aichunjing.com/" 爱纯净
     "https://www.ghxi.com/" 果核剥壳

@@ -288,6 +288,8 @@
     "https://caj2pdf.cn/" Caj在线格式转换
     "https://www.pdfgear.com/all-features/" All PDF Features of PDFgear
     "https://www.67tool.com/" 即时工具
+    "https://www.meijiecao.top/" 在线工具箱 - LAOYEE TOOL
+    "https://myzye.com/" LAOYEE
 ## 在线文档处理
     "https://fp.scofd.com/" OFD阅读器（免费版）
     "https://doc.idjams.top/" 文档下载助手

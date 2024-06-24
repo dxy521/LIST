@@ -202,8 +202,8 @@
     "https://www.lzpanx.com/" 懒盘搜索
     "https://www.xiongdipan.com/" 兄弟盘
     "https://www.qileso.com/" 奇乐搜
-    "https://panyq.com/" 盘友圈
     "https://qssily.com/" 趣导航
+    "http://www.xgsoso.com/" 西瓜搜搜
 ## 网络视频下载
     "https://youtube.online-downloader.com/index-Chinese" YouTube视频下载器
 ## 远程工具下载

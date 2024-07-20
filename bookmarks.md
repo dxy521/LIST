@@ -266,6 +266,7 @@
     "https://newsletter.x-mol.com/" X-MOL学术平台
     "https://pubmed.ncbi.nlm.nih.gov/" PubMed
     "https://pubscholar.cn/" PubScholar公益学术平台
+    "https://www.oalib.com/" Open Access Library (OALib)
 ## 注电考试
     "http://www.cpta.com.cn/index.html" 中国人事考试网
     "https://www.kaola100.com/resource/r/list?classId=22" 注电_考拉网校资源下载

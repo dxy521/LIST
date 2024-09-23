@@ -160,7 +160,9 @@
     "http://www.sixyin.com/" 六音软件
     "[https://www.bianshengruanjian.com/](https://rmsys.top/)" 入梦资源站
     "https://blog.ruancang.net" 软仓
-    "http://ruanjianheji.top/" 点击软件名称下载即可，亲测可用
+    "www.ziyuanshare.cc/?p=40" 小q轻创日记
+    "https://github.com/lyswhut/lx-music-desktop/issues/5" 音乐无法加载的问题
+    "https://tool.liumingye.cn/music/#" MyFreeMP3
 ## 网盘资源下载
     "https://hunhepan.com" 混合盘搜索
     "https://ssgo.app/" SearchSearchGo
@@ -253,6 +255,7 @@
     "https://www.baiten.cn/" 佰腾网查专利
     "http://www.soopat.com/" SooPAT 专利搜索
     "https://lib.cqvip.com/" 【维普期刊官网】- 中文期刊服务平台
+    "www.chinaqking.com/column-sort/news-list/search?value=配电线路行波故障测距方法与系统的研究应用" 期刊网
 ## 论文检索
     "https://scholar.xmsoushu.com/##/" 熊猫学术搜索
     "https://panda985.com/" 熊猫学术
@@ -286,7 +289,7 @@
     "https://www.ilovepdf.com/zh-cn" iLovePDF
     "https://smallpdf.com/cn/pdf-tools" Smallpdf
     "https://convertio.co/zh/" Convertio文件转换
-    "https://caj2pdf.cn/" Caj在线格式转换
+    "https://caj2pdf.cn/" GentleCAJ
     "https://www.pdfgear.com/all-features/" All PDF Features of PDFgear
     "https://www.67tool.com/" 即时工具
     "https://www.meijiecao.top/" 在线工具箱 - LAOYEE TOOL

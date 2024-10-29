@@ -1,14 +1,14 @@
 ## 图表在线编辑
     "https://www.isqqw.com/" 图表集isqqw.com
+    "https://echarts.apache.org/zh/index.html" Apache ECharts
+    "https://antv.antgroup.com/" AntV | 蚂蚁数据可视化
+    "https://g2.antv.antgroup.com/examples" 所有图表 | G2 - AntV
     "https://hiplot.cn/?lang=zh_cn" Hiplot (ORG) | 生物医学数据
     "https://flourish.studio/" Flourish
     "https://www.bic.ac.cn/#/" BIC - Bioinfo Intelligent Cloud
     "http://www.bic.ac.cn/#/" BIC - Bioinfo Intelligent Cloud
     "https://chartcube.alipay.com/" ChartCube - 在线图表制作工具
     "https://www.pslkzs.com/chart/charts.php" NB 3D Charts
-    "https://echarts.apache.org/zh/index.html" Apache ECharts
-    "https://antv.antgroup.com/" AntV | 蚂蚁数据可视化
-    "https://g2.antv.antgroup.com/examples" 所有图表 | G2 - AntV
     "https://www.hcharts.cn/demo/highcharts#hc-others" Highcharts 演示 | Highcharts
 ## 设计调色盘
     "https://mycolor.space" ColorSpace
@@ -20,7 +20,7 @@
     "https://colorhunt.co/" Color Hunt
     "https://www.radix-ui.com/colors" Radix Colors
 ## 地图在线编辑
-    "https://axhub.im/maps/" Axure 全国SVG 地图元件库
+    "https://axhub.im/maps/" Axure 全国SVG地图元件库
     "https://datav.aliyun.com/portal/school/atlas/area_selector" DataV.GeoAtlas地理小工具系列
 ## 图标资源下载
     "https://www.iconfont.cn/" iconfont矢量图标库
@@ -37,6 +37,8 @@
     "https://icons.bootcss.com/" Bootstrap 图标库
     "https://iconpark.oceanengine.com/home" ByteDance IconPark
 ## 画图设计参考
+    "https://www.figma.com/" Figma
+    "https://app.axure.cloud/app/fs/recents" Axure Cloud
     "https://data.avuejs.com/" avue-data数据大屏
     "https://dp.alibaba.com/product/quickbi/activity?spm=a2c4g.11174283.0.0.16f82b5eJxBI55" Quick BI 数据可视化分析平台
     "https://www.figma.cool/" Figma 中文社区
@@ -46,9 +48,29 @@
     "https://modao.cc/community?source=nav&page=1&category=project_basic" 素材广场-墨刀
     "https://www.xiaopiu.com/square" 精选广场-即时原型
     "https://www.mockplus.cn/example/rp" 精美的原型模版和设计例子 - 摹客
+    "https://mastergo.com/community/" MasterGo资源社区
+    "https://axure6.com/" 匠心原型
+    "https://www.axured.cn/" Axure工坊
+    "https://www.axureux.com/home/default.html" AxureUX
+    "https://axhub.im/" Axhub
+    "https://www.axureshop.com/all-price" AxureShop产品原型网
+    "https://www.xiangtianchi.com/" 象天尺官网
+    "https://www.axure9.com/" Axure模板网
+    "http://www.demojishi.com/" Demo集市
+    "https://axhub.im/ax9/2706bd78f450eaed/#p=可视化长图模板（深色系）&id=d99wnc&g=1" 可视化长图模板（深色系）
+    "https://cdn7.axureshop.com/demo/1061921/#g=1&p=蓝色清新登录注册页面模板" 蓝色清新登录注册页面模板
+    "https://www.uimaker.com/" Uimaker
+    "https://www.zcool.com.cn/" 站酷ZCOOL
+    "http://demo.bigemap.com/" BIGEMAP项目展示
+    "https://www.xiongze.net/viewdata/index.html" 可视化大数据展示中心
+    "https://www.toutiao.com/article/7337568775220675084/?app=news_article&timestamp=1708425629&use_new_style=1&req_id=20240220184028306A2E4B08C7BFB3E116&group_id=7337568775220675084&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=9ce45321-d484-452c-a6e0-7a0d3ceed93a&source=m_redirect&wid=1708478032847" 实时监测电力系统-今日头条
+    "https://www.toutiao.com/article/7277440394378478116/?app=news_article&timestamp=1695040494&use_new_style=1&req_id=2023091820345491B81A78DB43C12BE718&group_id=7277440394378478116&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=eba2cc44-e6d0-4598-bdc2-f61309511052&source=m_redirect&wid=1695040560615" 能源综合监控界面设计合集-今日头条
+    "https://rqzygyh38pg.feishu.cn/docx/UarLd3wtEoSKCdxWXShc626Hnch" 数据可视化+模板分享（帆软） - 飞书云文档
+    "https://3zkayd.axshare.com/#id=k5dls8&p=%E8%AE%BE%E8%AE%A1%E8%A7%84%E5%88%92" EMS智慧能源管理系统
+    "http://demo.iotopo.com/static/topv/public/portal/cases" 智能组态平台
+    "https://www.hightopo.com/demos/" 图扑软件
     "https://pixso.cn/community/home/" Pixso资源社区
     "https://js.design/community?category=explore" 探索 - 即时设计
-    "https://mastergo.com/community/" MasterGo资源社区
     "https://boardmix.cn/community/" boardmix模板社区
     "https://v3.processon.com/diagrams/new#template" 模板首页 - ProcessOn
     "https://www.edrawmax.cn/templates/" 亿图图示模板社区
@@ -58,26 +80,13 @@
     "https://www.ui.net.cn/" UI素材网
     "https://axmax.cn/" Axmax
     "http://daisyaxure.com/index.html" Daisy Axure高保真原型网
-    "https://axure6.com/" 匠心原型
     "https://www.youzhifang.net/" 优职坊
     "https://axured.cn/" Axure工坊
-    "http://axured.cn/" Axure工坊
     "https://axurehub.com/" AxureHub产品经理原型资源站
-    "https://www.axureux.com/home/default.html" AxureUX
-    "https://axhub.im/" Axhub
-    "https://www.axureshop.com/all-price" AxureShop产品原型网
-    "https://www.xiangtianchi.com/" 象天尺官网
-    "https://www.axure9.com/" Axure模板网
-    "http://www.demojishi.com/" Demo集市
     "http://www.xmsumi.com/" 苏米客XMSUMI
-    "https://axhub.im/ax9/2706bd78f450eaed/#p=可视化长图模板（深色系）&id=d99wnc&g=1" 可视化长图模板（深色系）
-    "https://cdn7.axureshop.com/demo/1061921/#g=1&p=蓝色清新登录注册页面模板" 蓝色清新登录注册页面模板
     "https://www.axureux.com/demo/Templates027/%E7%B3%BB%E7%BB%9F%E6%A1%86%E6%9E%B610.html" Axure大屏原型模板 - AxureUX
-    "https://www.toutiao.com/article/7337568775220675084/?app=news_article&timestamp=1708425629&use_new_style=1&req_id=20240220184028306A2E4B08C7BFB3E116&group_id=7337568775220675084&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=9ce45321-d484-452c-a6e0-7a0d3ceed93a&source=m_redirect&wid=1708478032847" 实时监测电力系统-今日头条
     "https://www.meiye.art/" 美叶
     "https://www.uisdc.com/" 优设网官网
-    "https://www.uimaker.com/" Uimaker
-    "https://www.zcool.com.cn/" 站酷ZCOOL
     "http://www.cssmoban.com/cssthemes/" 模板之家
     "https://ilovemockup.club/" 交互设计汁源小站
     "https://www.psd.cn/" PSD素材网
@@ -86,9 +95,8 @@
     "https://htmlrev.com/" HTMLrev
     "https://www.recraft.ai/" Recraft
     "https://coverpaint.xiaole.site/zh" Cover Paint
-    "http://demo.bigemap.com/" BIGEMAP项目展示
-    "https://www.xiongze.net/viewdata/index.html" 可视化大数据展示中心
 ## 在线抠图网站
+    "https://www.iloveimg.com/zh-cn/convert-to-jpg" 图像转JPG
     "https://www.remove.bg/zh" remove.bg
     "https://www.miankoutupian.com/" 免抠图片网
     "https://bgsub.cn/webapp/" BgSub
@@ -101,6 +109,9 @@
     "https://unpkg.com/svgedit@7.3.3/dist/editor/index.html" SVG-edit
     "https://svgedit.netlify.app/editor/index.html" remove.bg
 ## 标准规范
+    "http://www.epri.sgcc.com.cn/html/epri/gb/syjc/dzgg/index.shtml" 中国电科院-检测公告
+    "https://ecp.sgcc.com.cn/ecp2.0/portal/#/list/list-spe/2018032600289606_1_2018032700291334" 国网电商
+    "https://www.bidding.csg.cn/zbcg/index.jhtml" 南网供应链
     "https://std.samr.gov.cn/" 全国标准信息公共服务平台
     "http://www.bzfxw.com/biaozhun.html" 标准规范免费下载网
     "http://www.upbz.net/StandardInfo.htm" UPBZ免费标准下载网
@@ -112,7 +123,16 @@
     "http://chadoc.com/" 茶豆文库
     "http://worksatlas.com/#/index" 工程随身宝
     "https://www.wdfxw.net/" WDFXW文档分享网
-    "https://zhuanlan.zhihu.com/p/617767903" 查阅标准的21个网站推荐及免费下载方法总结 - 知乎
+    "https://scjgj.beijing.gov.cn/cxfw/" 查询服务_北京市市场监督管理局
+    "https://openstd.samr.gov.cn/bzgk/gb/" 国家标准全文公开
+    "http://www.csres.com/" 查标准上工标网
+    "http://www.standardcn.com/" 欢迎光临标准网
+    "https://www.cssn.net.cn/cssn/index" 中国标准服务网
+    "https://bz.zjamr.zj.gov.cn/" 浙江标准在线
+    "http://www.bzton.com/" 标准通
+    "http://www.rainsome.cn/" 标准百事通
+    "http://app.weboos.com/updateLog.shtml" 标准百事通
+    "https://www.kqqw.com/" 库七七
 ## 实用软件开源地址
     "https://gitee.com/wanglifree/tianruoocr-cl" tianruoocr-cl: 天若ocr开源版本的本地版
     "https://github.com/hiroi-sora/Umi-OCR" hiroi-sora/Umi-OCR: OCR图片转文字识别软件
@@ -127,6 +147,12 @@
 ## 浏览器扩展包下载
     "https://www.crxsoso.com/" Crx搜搜
     "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home/" Edge 加载项
+    "https://chrome.zzzmh.cn/index" 极简插件
+    "https://crxdl.com/" CrxDL
+    "https://www.crx4chrome.com/" Crx4Chrome
+    "https://www.kuozhanmi.com/" 扩展迷
+    "https://www.chajianxw.com/" 插件小屋
+    "https://huajiakeji.com/" 画夹
 ## 浏览器脚本下载
     "https://greasyfork.org/zh-CN" Greasy Fork
     "https://sleazyfork.org/zh-CN/" Sleazy Fork
@@ -208,6 +234,7 @@
     "http://www.xgsoso.com/" 西瓜搜搜
 ## 网络视频下载
     "https://youtube.online-downloader.com/index-Chinese" YouTube视频下载器
+    "https://tool.liumingye.cn/music/#" MyFreeMP3
 ## 远程工具下载
     "https://www.todesk.com/" ToDesk
     "https://anydesk.com/zhs" AnyDesk
@@ -256,6 +283,7 @@
     "http://www.soopat.com/" SooPAT 专利搜索
     "https://lib.cqvip.com/" 【维普期刊官网】- 中文期刊服务平台
     "www.chinaqking.com/column-sort/news-list/search?value=配电线路行波故障测距方法与系统的研究应用" 期刊网
+    "http://dl.cnki.net/" 电力科技创新知识服务平台
 ## 论文检索
     "https://scholar.xmsoushu.com/##/" 熊猫学术搜索
     "https://panda985.com/" 熊猫学术
@@ -311,11 +339,12 @@
     "https://element.eleme.cn/#/zh-CN" Element-网站快速成型 
     "https://ant.design/index-cn" Ant Design
     "https://ant-design.antgroup.com/index-cn" Ant Design镜像
-## 国内AI大模型
-    "https://yiyan.baidu.com/" 文心一言
-    "https://chat.baidu.com/" 搜索AI伙伴
+## 国内AI大模型  
     "https://tongyi.aliyun.com/qianwen/ 通义千问
+    "https://yiyan.baidu.com/" 文心一言
     "https://www.doubao.com/" 豆包
+    "https://yuanbao.tencent.com/chat" 腾讯元宝    
+    "https://chat.baidu.com/" 搜索AI伙伴
     "https://wukong.com/tool" 小悟空
     "https://www.coze.cn/" 扣子
     "https://www.coze.com/" Coze
@@ -323,10 +352,11 @@
     "https://chatglm.cn/" 智谱清言
     "https://xinghuo.xfyun.cn/" 讯飞星火
     "https://kimi.moonshot.cn/" Kimi Chat
+    "https://www.pm-ai.cn/prd" PM-AI
 ## AI搜索
-    "https://search.tiangong.cn/" 天工AI搜索
-    "https://so.360.com/" 360AI搜索
     "https://metaso.cn/" 秘塔AI搜索
+    "https://so.360.com/" 360AI搜索
+    "https://search.tiangong.cn/" 天工AI搜索
     "https://iask.ai/" iAsk.Ai
     "https://search.lepton.run/" Lepton Search
     "https://thinkany.ai/" thinkany.ai

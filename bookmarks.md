@@ -343,15 +343,15 @@
     "https://tongyi.aliyun.com/qianwen/ 通义千问
     "https://yiyan.baidu.com/" 文心一言
     "https://www.doubao.com/" 豆包
-    "https://yuanbao.tencent.com/chat" 腾讯元宝    
-    "https://chat.baidu.com/" 搜索AI伙伴
-    "https://wukong.com/tool" 小悟空
-    "https://www.coze.cn/" 扣子
-    "https://www.coze.com/" Coze
-    "https://effidit.qq.com/demo" Effidit    
     "https://chatglm.cn/" 智谱清言
     "https://xinghuo.xfyun.cn/" 讯飞星火
     "https://kimi.moonshot.cn/" Kimi Chat
+    "https://yuanbao.tencent.com/chat" 腾讯元宝 
+    "https://wukong.com/tool" 小悟空
+    "https://www.coze.cn/" 扣子
+    "https://www.coze.com/" Coze    
+    "https://chat.baidu.com/" 搜索AI伙伴    
+    "https://effidit.qq.com/demo" Effidit    
     "https://www.pm-ai.cn/prd" PM-AI
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
@@ -364,6 +364,7 @@
     "https://www.capcut.cn/ai-tool/platform" 剪映Dreamina
     "https://www.canva.cn/" Canva中文官网
 ## ChatGPT镜像
+    "https://ohmygpt-docs.apifox.cn/" ohmygpt
     "http://124.220.104.235/web/chatgpt" 公益chatgpt导航            
     "https://liaobots.work/" Liaobots UI
     "https://chat.googlegemini.co/" Gemini

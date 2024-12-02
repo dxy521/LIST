@@ -157,6 +157,13 @@
     "https://greasyfork.org/zh-CN" Greasy Fork
     "https://sleazyfork.org/zh-CN/" Sleazy Fork
     "https://scriptcat.org/zh-CN/" ScriptCat
+## 开源阅读app书源分享
+    "https://source.zgqinc.gq/" 各种源大型整合
+    "https://yuedu.miaogongzi.net/" 阅读书源
+    "https://www.yckceo.com/yuedu/shuyuans/index.html" 阅读 - 源仓库
+    "https://legado.aoaostar.com/" 阅读APP源 - AOAOSTAR
+    "https://shuyuan.yiove.com/normal" Yiove 书源合集
+    "https://github.com/liufuyou/read" 整理各大佬的阅读书源合集（自用）
 ## 网盘直链解析
     "https://kinhdown.kinh.cc/" 百度云盘在线解析
     "https://189.ly93.cc/" 天翼云直链解析 - 涟漪

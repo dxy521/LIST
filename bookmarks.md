@@ -170,6 +170,7 @@
     "https://www.youneed.win/free-ssr" 免费SSR
     "https://free-ssr.xyz/" free-ssr.xyz
     "http://ss.pythonic.life/" 免费ShadowSocks账号分享
+    "https://clashcn.com/" Clash中文网
 ## Google play安装包下载
     "https://apps.evozi.com/apk-downloader/" APK Downloader
 ## Windows & office & UWP软件下载
@@ -257,6 +258,8 @@
     "https://github.com/TigerVNC/tigervnc" GitHub - TigerVNC/tigervnc
     "https://www.teamviewer.cn/cn/" TeamViewer
     "https://wiki.x2go.org/doku.php" X2Go
+    "https://gv.163.com/" GameViewer远程
+    "https://www.asklink.com/" 连连控
 ## 壁纸下载
     "https://bz.zzzmh.cn/" 极简壁纸
     "https://qingbizhi.com/" 轻壁纸

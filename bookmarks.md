@@ -97,6 +97,8 @@
     "https://coverpaint.xiaole.site/zh" Cover Paint
 ## 在线抠图网站
     "https://www.iloveimg.com/zh-cn/convert-to-jpg" 图像转JPG
+    "https://arc.tencent.com/zh/ai-demos/faceRestoration" ARC官网
+    "https://www.hama.app/" AI 图像擦除器 - hama.app
     "https://www.remove.bg/zh" remove.bg
     "https://www.miankoutupian.com/" 免抠图片网
     "https://bgsub.cn/webapp/" BgSub
@@ -350,29 +352,29 @@
     "https://ant.design/index-cn" Ant Design
     "https://ant-design.antgroup.com/index-cn" Ant Design镜像
 ## 国内AI大模型  
+    "https://chat.qwenlm.ai/" Qwen2.5
+    "https://chat.deepseek.com/" DeepSeek
+    "https://kimi.moonshot.cn/" Kimi.ai
+    "https://chatglm.cn/main/guest?lang=zh" 智谱清言
+    "https://www.doubao.com/chat/" 豆包
     "https://tongyi.aliyun.com/qianwen/ 通义千问
     "https://yiyan.baidu.com/" 文心一言
-    "https://www.doubao.com/" 豆包
-    "https://chatglm.cn/" 智谱清言
-    "https://xinghuo.xfyun.cn/" 讯飞星火
-    "https://kimi.moonshot.cn/" Kimi Chat
-    "https://yuanbao.tencent.com/chat" 腾讯元宝 
+    "https://yuanbao.tencent.com/chat" 腾讯元宝
+    "https://chat.scnet.cn/#/home" SCNet人工智能助手
+    "https://xiaoyi.huawei.com/chat/" 华为小艺
+    "https://xinghuo.xfyun.cn/" 讯飞星火 
     "https://wukong.com/tool" 小悟空
     "https://www.coze.cn/" 扣子
-    "https://www.coze.com/" Coze    
-    "https://chat.baidu.com/" 搜索AI伙伴    
-    "https://effidit.qq.com/demo" Effidit    
-    "https://www.pm-ai.cn/prd" PM-AI
+    "https://www.coze.com/" Coze
+    "https://chat.baidu.com/" 搜索AI伙伴
+    "https://effidit.qq.com/demo" Effidit
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
-    "https://so.360.com/" 360AI搜索
-    "https://search.tiangong.cn/" 天工AI搜索
+    "https://www.n.cn/" 纳米AI搜索
+    "https://www.tiangong.cn/" 天工AI搜索
     "https://iask.ai/" iAsk.Ai
     "https://search.lepton.run/" Lepton Search
     "https://thinkany.ai/" thinkany.ai
-## AI成图
-    "https://www.capcut.cn/ai-tool/platform" 剪映Dreamina
-    "https://www.canva.cn/" Canva中文官网
 ## ChatGPT镜像
     "https://ohmygpt-docs.apifox.cn/" ohmygpt
     "http://124.220.104.235/web/chatgpt" 公益chatgpt导航            
@@ -384,12 +386,18 @@
     "https://chat-gtp.co/" CHATGTP
     "https://www.yuxin-ai.com/" AI智能中台
     "https://www.just2chat.cn/#/chat" 智能助手4.0
-## AIPPT
+## 功能性AI
     "https://www.mindshow.fun/#/home" MindShow
     "https://ppt.sankki.com/#/intro" 闪击PPT
-    "https://gezhe.com/" 歌者 PPT            
+    "https://gezhe.com/" 歌者 PPT
+    "https://www.pm-ai.cn/" PMAI—产品经理的AI助手
+    "https://aint.top/" 智简未来-AI简历创作
+    "https://ai.sohu.com/pc/home" 简单AI-AI绘图
+    "https://jimeng.jianying.com/ai-tool/home" 即梦AI
+    "https://klingai.kuaishou.com/" 可灵AI
+    "https://zenvideo.qq.com/" 腾讯智影
 ## 网站导航
-    "https://study.163.com/topics/ai-tooling-collection?from=AIChat" 网易云课堂AI工具集
+    "https://openi.cn/" OpenI - AI时代
     "https://ai.hao.360.com" 360AI导航
     "https://ai-bot.cn/" AI工具集导航
     "https://www.dongaiapp.com/" 懂AI

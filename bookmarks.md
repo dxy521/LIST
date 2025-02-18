@@ -399,8 +399,10 @@
     "https://jimeng.jianying.com/ai-tool/home" 即梦AI
     "https://klingai.kuaishou.com/" 可灵AI
     "https://zenvideo.qq.com/" 腾讯智影
+    "https://raphael.app/zh" Raphael AI-免费无限制 AI 图像生成器
 ## 网站导航
     "https://openi.cn/" OpenI - AI时代
+    "https://designnotes.cn/" Design Notes
     "https://ai.hao.360.com" 360AI导航
     "https://ai-bot.cn/" AI工具集导航
     "https://www.dongaiapp.com/" 懂AI

@@ -69,6 +69,7 @@
     "https://3zkayd.axshare.com/#id=k5dls8&p=%E8%AE%BE%E8%AE%A1%E8%A7%84%E5%88%92" EMS智慧能源管理系统
     "http://demo.iotopo.com/static/topv/public/portal/cases" 智能组态平台
     "https://www.hightopo.com/demos/" 图扑软件
+    "http://www.zkview.com/" WEB组态
     "https://pixso.cn/community/home/" Pixso资源社区
     "https://js.design/community?category=explore" 探索 - 即时设计
     "https://boardmix.cn/community/" boardmix模板社区
@@ -95,6 +96,10 @@
     "https://htmlrev.com/" HTMLrev
     "https://www.recraft.ai/" Recraft
     "https://coverpaint.xiaole.site/zh" Cover Paint
+    "https://www.figma.com/ai/" Figma AI
+    "https://mastergo.com/ai" MasterGo/莫高设计AI
+    "https://modao.cc/feature/ai.html" 墨刀AI
+    "https://jsai.cc/ai/create" 即时 AI
 ## 在线抠图网站
     "https://www.iloveimg.com/zh-cn/convert-to-jpg" 图像转JPG
     "https://arc.tencent.com/zh/ai-demos/faceRestoration" ARC官网

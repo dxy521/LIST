@@ -269,6 +269,7 @@
     "https://wiki.x2go.org/doku.php" X2Go
     "https://gv.163.com/" GameViewer远程
     "https://www.asklink.com/" 连连控
+    "https://github.com/luckjiawei/frpc-desktop" luckjiawei/frpc-desktop: frp跨平台桌面客户端
 ## 壁纸下载
     "https://bz.zzzmh.cn/" 极简壁纸
     "https://qingbizhi.com/" 轻壁纸
@@ -352,22 +353,19 @@
     "https://ant.design/index-cn" Ant Design
     "https://ant-design.antgroup.com/index-cn" Ant Design镜像
 ## 国内AI大模型  
-    "https://chat.qwenlm.ai/" Qwen2.5
     "https://chat.deepseek.com/" DeepSeek
     "https://kimi.moonshot.cn/" Kimi.ai
     "https://chatglm.cn/main/guest?lang=zh" 智谱清言
-    "https://www.doubao.com/chat/" 豆包
-    "https://tongyi.aliyun.com/qianwen/ 通义千问
-    "https://yiyan.baidu.com/" 文心一言
-    "https://yuanbao.tencent.com/chat" 腾讯元宝
-    "https://chat.scnet.cn/#/home" SCNet人工智能助手
-    "https://xiaoyi.huawei.com/chat/" 华为小艺
     "https://xinghuo.xfyun.cn/" 讯飞星火 
+    "https://tongyi.aliyun.com/qianwen/ 通义千问
+    "https://chat.qwenlm.ai/" Qwen2.5
+    "https://yiyan.baidu.com/" 文心一言
+    "https://www.doubao.com/chat/" 豆包
+    "https://yuanbao.tencent.com/chat" 腾讯元宝
+    "https://xiaoyi.huawei.com/chat/" 华为小艺
     "https://wukong.com/tool" 小悟空
     "https://www.coze.cn/" 扣子
-    "https://www.coze.com/" Coze
-    "https://chat.baidu.com/" 搜索AI伙伴
-    "https://effidit.qq.com/demo" Effidit
+    "https://chat.scnet.cn/#/home" 国家超算平台SCNet人工智能助手
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
     "https://www.n.cn/" 纳米AI搜索

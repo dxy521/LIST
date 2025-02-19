@@ -290,6 +290,8 @@
     "https://basic.smartedu.cn/" 国家中小学智慧教育平台
     "http://le.ouchn.cn/home" 终身教育平台
     "https://www.icourse163.org/" 中国大学MOOC(慕课)
+    "https://higher.smartedu.cn/" 国家高等教育智慧教育平台
+    "https://vocational.smartedu.cn/NationalHome" 国家职业教育智慧教育平台
 ## 知识产权官方网站
     "https://pss-system.cponline.cnipa.gov.cn/conventionalSearch" 专利检索及分析
     "https://register.ccopyright.com.cn/login.html?linkBackUrl="https://register.ccopyright.com.cn/manage.html" 软著

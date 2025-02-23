@@ -373,6 +373,7 @@
     "https://wukong.com/tool" 小悟空
     "https://www.coze.cn/" 扣子
     "https://chat.scnet.cn/#/home" 国家超算平台SCNet人工智能助手
+    "https://monica.cn/" Monica
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
     "https://www.n.cn/" 纳米AI搜索
@@ -404,6 +405,7 @@
     "https://raphael.app/zh" Raphael AI-免费无限制 AI 图像生成器
 ## 网站导航
     "https://openi.cn/" OpenI - AI时代
+    "https://www.faxianai.com/" 发现AI
     "https://designnotes.cn/" Design Notes
     "https://ai.hao.360.com" 360AI导航
     "https://ai-bot.cn/" AI工具集导航

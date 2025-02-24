@@ -379,6 +379,7 @@
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
     "https://www.n.cn/" 纳米AI搜索
+    "https://bot.n.cn/" 纳米AI
     "https://www.tiangong.cn/" 天工AI搜索
     "https://iask.ai/" iAsk.Ai
     "https://search.lepton.run/" Lepton Search

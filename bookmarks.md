@@ -374,6 +374,8 @@
     "https://yuewen.cn/chats/new" 跃问
     "https://wukong.com/tool" 小悟空
     "https://www.coze.cn/" 扣子
+    "https://www.wenxiaobai.com/chat/200006" 问小白
+## deepseek接入  
     "https://chat.scnet.cn/#/home" 国家超算平台SCNet人工智能助手
     "https://monica.cn/" Monica
 ## AI搜索
@@ -388,13 +390,9 @@
     "https://ohmygpt-docs.apifox.cn/" ohmygpt
     "http://124.220.104.235/web/chatgpt" 公益chatgpt导航            
     "https://liaobots.work/" Liaobots UI
-    "https://chat.googlegemini.co/" Gemini
+    "https://freegpt.tech/" 智能AI聊天
     "https://codenews.cc/chatgpt" CodeNews
-    "https://ai27.gptforlove.com/#/chat" ChatGPT Web
     "https://chat18.aichatos.xyz/#/chat" AIchatOS
-    "https://chat-gtp.co/" CHATGTP
-    "https://www.yuxin-ai.com/" AI智能中台
-    "https://www.just2chat.cn/#/chat" 智能助手4.0
 ## 功能性AI
     "https://www.mindshow.fun/#/home" MindShow
     "https://ppt.sankki.com/#/intro" 闪击PPT

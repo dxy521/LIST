@@ -365,15 +365,15 @@
     "https://tongyi.aliyun.com/qianwen/ 通义千问
     "https://chat.qwenlm.ai/" Qwen2.5
     "https://www.doubao.com/chat/" 豆包
-    "https://yuanbao.tencent.com/chat" 腾讯元宝
+    "https://wukong.com/tool" 小悟空
+    "https://www.coze.cn/" 扣子
     "https://yiyan.baidu.com/" 文心一言
     "https://xinghuo.xfyun.cn/" 讯飞星火
-    "https://chatglm.cn/main/guest?lang=zh" 智谱清言
+    "https://chatglm.cn/main/guest?lang=zh" 智谱清言   
+    "https://yuanbao.tencent.com/chat" 腾讯元宝
     "https://xiaoyi.huawei.com/chat/" 华为小艺
     "https://hailuoai.com/" 海螺AI
     "https://yuewen.cn/chats/new" 跃问
-    "https://wukong.com/tool" 小悟空
-    "https://www.coze.cn/" 扣子
     "https://www.wenxiaobai.com/chat/200006" 问小白
 ## deepseek接入  
     "https://chat.scnet.cn/#/home" 国家超算平台SCNet人工智能助手
@@ -397,6 +397,7 @@
     "https://www.mindshow.fun/#/home" MindShow
     "https://ppt.sankki.com/#/intro" 闪击PPT
     "https://gezhe.com/" 歌者 PPT
+    "https://www.aippt.cn/" AiPPT
     "https://www.pm-ai.cn/" PMAI—产品经理的AI助手
     "https://aint.top/" 智简未来-AI简历创作
     "https://ai.sohu.com/pc/home" 简单AI-AI绘图

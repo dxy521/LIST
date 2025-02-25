@@ -342,6 +342,8 @@
     "https://www.67tool.com/" 即时工具
     "https://www.meijiecao.top/" 在线工具箱 - LAOYEE TOOL
     "https://myzye.com/" LAOYEE
+    "https://adzhp.cc/" 爱达杂货铺
+    "https://nav.cnxiaobai.com/" 个人网址收藏
 ## 在线文档处理
     "https://fp.scofd.com/" OFD阅读器（免费版）
     "https://doc.idjams.top/" 文档下载助手
@@ -411,34 +413,13 @@
     "https://designnotes.cn/" Design Notes
     "https://ai.hao.360.com" 360AI导航
     "https://ai-bot.cn/" AI工具集导航
-    "https://www.dongaiapp.com/" 懂AI
     "https://www.aigc.cn/" AIGC工具导航
     "https://feizhuke.com/" 非猪ai导航
     "https://hao.shenyecg.com/AI" AI导航
-    "https://blog.91aitools.cn/" 91aitools
     "http://www.ainav.cn/" AI导航网
-    "https://ai.tboxn.com/" 图钉AI导航网
+    "https://www.tudingai.com/" 图钉AI导航网
     "https://www.yjpoo.com/" 映技派
     "https://www.aiwht.com/" AI万花筒
-    "https://ai-apps.com.cn/" AI Apps软件导航
-    "https://www.fsl123.com/" AI123导航
     "https://www.amz123.com/ai" AMZ123跨境导航
-    "https://www.aitoolist.cn/" AI工具集合
     "https://www.aihub.cn/" AIHub
     "https://www.aiyjs.com/" AI研究所
-    "https://www.hiailand.com/" 人工智能岛
-    "https://www.phpcms9.com/" AI工具箱
-    "https://zhishi.cool/" AI工具集与提示工程
-    "https://www.aijlp.com/" AI降临派
-    "https://www.tuidog.com/" GPT商店
-    "https://www.aitoolhunt.com/" Best AI Tools
-    "https://nav.cnxiaobai.com/" 网址导航 | 个人网址收藏
-    "https://adzhp.xyz/" 爱达杂货铺
-    "https://www.67tool.com/" 即时工具
-    "http://cxysite.com/" 程序员导航
-## GPT链接汇总            
-    "https://github.com/LiLittleCat/awesome-free-chatgpt" awesome-free-chatgpt
-    "https://www.zhihu.com/question/605912032/answer/3102305397" 国内可以使用的AI助手那个比较好？ - 知乎
-    "https://zhuanlan.zhihu.com/p/644295872?utm_id=0" 免费可用的国内ChatGTP网站汇总（2023/10/06） - 知乎
-    "https://geekerline.com/44352/.html" ChatGPT国内镜像站
-    "https://codenews.cc/ai" AI导航- CodeNews

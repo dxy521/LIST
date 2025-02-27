@@ -382,6 +382,7 @@
     "https://www.wenxiaobai.com/chat/200006" 问小白
     "https://chat.scnet.cn/#/home" 国家超算平台SCNet人工智能助手
     "https://monica.cn/" Monica
+    "https://ai.dangbei.com/chat" 当贝AI
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
     "https://www.n.cn/" 纳米AI搜索
@@ -391,12 +392,10 @@
     "https://search.lepton.run/" Lepton Search
     "https://thinkany.ai/" thinkany.ai
 ## ChatGPT镜像
-    "https://ohmygpt-docs.apifox.cn/" ohmygpt
     "http://124.220.104.235/web/chatgpt" 公益chatgpt导航            
     "https://liaobots.work/" Liaobots UI
     "https://freegpt.tech/" 智能AI聊天
     "https://codenews.cc/chatgpt" CodeNews
-    "https://chat18.aichatos.xyz/#/chat" AIchatOS
 ## 功能性AI
     "https://www.mindshow.fun/#/home" MindShow
     "https://ppt.sankki.com/#/intro" 闪击PPT

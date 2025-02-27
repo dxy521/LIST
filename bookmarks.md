@@ -363,21 +363,23 @@
     "https://ant-design.antgroup.com/index-cn" Ant Design镜像
 ## 国内AI大模型  
     "https://chat.deepseek.com/" DeepSeek
-    "https://kimi.moonshot.cn/" Kimi
-    "https://tongyi.aliyun.com/qianwen/ 通义千问
-    "https://chat.qwenlm.ai/" Qwen2.5
     "https://www.doubao.com/chat/" 豆包
     "https://wukong.com/tool" 小悟空
-    "https://www.coze.cn/" 扣子
+    "https://www.coze.cn/" 扣子  
+    "https://tongyi.aliyun.com/qianwen/ 通义千问
+    "https://chat.qwenlm.ai/" Qwen2.5  
     "https://yiyan.baidu.com/" 文心一言
     "https://xinghuo.xfyun.cn/" 讯飞星火
-    "https://chatglm.cn/main/guest?lang=zh" 智谱清言   
+    "https://kimi.moonshot.cn/" Kimi
+    "https://chatglm.cn/main/guest?lang=zh" 智谱清言    
+    "https://hailuoai.com/" 海螺AI
+    "https://chat.sensetime.com/" 商量-AI生活小帮手
+    "https://ying.baichuan-ai.com/chat" 百小应-懂搜索的AI助手
+## deepseek接入  
     "https://yuanbao.tencent.com/chat" 腾讯元宝
     "https://xiaoyi.huawei.com/chat/" 华为小艺
-    "https://hailuoai.com/" 海螺AI
     "https://yuewen.cn/chats/new" 跃问
     "https://www.wenxiaobai.com/chat/200006" 问小白
-## deepseek接入  
     "https://chat.scnet.cn/#/home" 国家超算平台SCNet人工智能助手
     "https://monica.cn/" Monica
 ## AI搜索

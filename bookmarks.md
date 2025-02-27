@@ -37,6 +37,7 @@
     "https://icons.bootcss.com/" Bootstrap 图标库
     "https://iconpark.oceanengine.com/home" ByteDance IconPark
 ## 画图设计参考
+    "https://www.feishu.cn/community/article?id=7444818740039909395" 【飞行社】Mark的AI产品经理知识库「持续更新」
     "https://www.figma.com/" Figma
     "https://app.axure.cloud/app/fs/recents" Axure Cloud
     "https://data.avuejs.com/" avue-data数据大屏

@@ -112,10 +112,6 @@
     "https://cloudconvert.com/" CloudConvert
     "https://photokit.com/?lang=zh" 免费在线图片编辑器 -PhotoKit.com
     "https://heicjpeg.com/cn" HEIC转JPG转换器– 100％免费
-## SVG在线编辑
-    "https://editor.method.ac" Method Draw Vector Editor
-    "https://unpkg.com/svgedit@7.3.3/dist/editor/index.html" SVG-edit
-    "https://svgedit.netlify.app/editor/index.html" remove.bg
 ## 标准规范
     "http://www.epri.sgcc.com.cn/html/epri/gb/syjc/dzgg/index.shtml" 中国电科院-检测公告
     "https://ecp.sgcc.com.cn/ecp2.0/portal/#/list/list-spe/2018032600289606_1_2018032700291334" 国网电商
@@ -176,10 +172,6 @@
     "https://kinhdown.kinh.cc/" 百度云盘在线解析
     "https://189.ly93.cc/" 天翼云直链解析 - 涟漪
     "https://ctfile.qinlili.bid/" 城通网盘解析器
-## GitHub 文件加速
-    "http://gh.ddlc.top/" GitHub 文件加速
-    "https://gh.kkdy.link/" GitHub 文件加速
-    "https://gitmirror.com/" GitMirror | Services
 ## 翻墙ssr分享
     "https://freefq.com/free-ssr/" 免费ssr节点分享
     "https://www.youneed.win/free-ssr" 免费SSR
@@ -204,7 +196,6 @@
     "https://blog.ruancang.net" 软仓
     "www.ziyuanshare.cc/?p=40" 小q轻创日记
     "https://github.com/lyswhut/lx-music-desktop/issues/5" 音乐无法加载的问题
-    "https://tool.liumingye.cn/music/#" MyFreeMP3
 ## 网盘资源下载
     "https://hunhepan.com" 混合盘搜索
     "https://ssgo.app/" SearchSearchGo
@@ -279,14 +270,6 @@
 ## 壁纸下载
     "https://bz.zzzmh.cn/" 极简壁纸
     "https://qingbizhi.com/" 轻壁纸
-## PPT模板资源
-    "https://www.heiniaokeji.com/"黑鸟科技技术库
-    "https://qinggongju.com/" 轻工具
-    "https://www.1ppt.com/" 第一PPT
-## 视频剪辑模板资源
-    "https://www.tukuppt.com/" 熊猫办公
-    "https://699pic.com/" 摄图网
-    "https://www.aigei.com/" 爱给网
 ## 视频学习网站
     "https://basic.smartedu.cn/" 国家中小学智慧教育平台
     "http://le.ouchn.cn/home" 终身教育平台
@@ -327,12 +310,10 @@
     "https://rs.jshrss.jiangsu.gov.cn/web/login" 江苏人社网办大厅
     "https://m.mynj.cn:11097/commlogin/" 南京市网上公共服务平台
     "http://gjj.nanjing.gov.cn/wsbsdt/" 南京住房公积金管理中心
-## 翻译
-    "https://www.deepl.com/translator" DeepL翻译
+## 文件翻译
     "https://yi.qq.com/zh-CN/index" 腾讯交互翻译TranSmart
     "https://www.onlinedoctranslator.com/" 在线文档翻译器
     "https://dogetranslator.com/" Doge Translator
-    "https://fanyi.pdf365.cn/" 福昕翻译
 ## pdf工具网站
     "https://tool.browser.qq.com/" 帮小忙
     "https://www.ilovepdf.com/zh-cn" iLovePDF
@@ -345,6 +326,7 @@
     "https://myzye.com/" LAOYEE
     "https://adzhp.cc/" 爱达杂货铺
     "https://nav.cnxiaobai.com/" 个人网址收藏
+    "https://qinggongju.com/" 轻工具
 ## 在线文档处理
     "https://fp.scofd.com/" OFD阅读器（免费版）
     "https://doc.idjams.top/" 文档下载助手
@@ -363,24 +345,22 @@
     "https://ant.design/index-cn" Ant Design
     "https://ant-design.antgroup.com/index-cn" Ant Design镜像
 ## 国内AI大模型  
-    "https://chat.deepseek.com/" DeepSeek
+    "https://tongyi.aliyun.com/qianwen/ 通义千问
+    "https://chat.qwenlm.ai/" Qwen2.5 
     "https://www.doubao.com/chat/" 豆包
     "https://wukong.com/tool" 小悟空
     "https://www.coze.cn/" 扣子  
-    "https://tongyi.aliyun.com/qianwen/ 通义千问
-    "https://chat.qwenlm.ai/" Qwen2.5  
     "https://yiyan.baidu.com/" 文心一言
     "https://xinghuo.xfyun.cn/" 讯飞星火
     "https://kimi.moonshot.cn/" Kimi
     "https://chatglm.cn/main/guest?lang=zh" 智谱清言    
     "https://hailuoai.com/" 海螺AI
-    "https://chat.sensetime.com/" 商量-AI生活小帮手
-    "https://ying.baichuan-ai.com/chat" 百小应-懂搜索的AI助手
 ## deepseek接入  
+    "https://chat.deepseek.com/" DeepSeek
     "https://yuanbao.tencent.com/chat" 腾讯元宝
     "https://xiaoyi.huawei.com/chat/" 华为小艺
-    "https://yuewen.cn/chats/new" 跃问
     "https://www.wenxiaobai.com/chat/200006" 问小白
+    "https://yuewen.cn/chats/new" 跃问
     "https://chat.scnet.cn/#/home" 国家超算平台SCNet人工智能助手
     "https://monica.cn/" Monica
     "https://ai.dangbei.com/chat" 当贝AI
@@ -397,17 +377,23 @@
     "https://liaobots.work/" Liaobots UI
     "https://freegpt.tech/" 智能AI聊天
     "https://codenews.cc/chatgpt" CodeNews
+## AI视频
+    "https://jimeng.jianying.com/ai-tool/home" 即梦AI
+    "https://klingai.kuaishou.com/" 可灵AI
+    "https://zenvideo.qq.com/" 腾讯智影
+    "https://tongyi.aliyun.com/wanxiang/" 通义万相
+    "https://chatglm.cn/main/alltoolsdetail?redirect=/video&lang=zh" 智谱清影
+    "https://typemovie.art/#/dashboard" 讯飞绘镜
+    "https://aigc.baidu.com/home" 度加创作工具
+    "https://hailuoai.com/video" 海螺视频
+    "https://yuewen.cn/videos" 跃问视频
 ## 功能性AI
     "https://www.mindshow.fun/#/home" MindShow
     "https://ppt.sankki.com/#/intro" 闪击PPT
     "https://gezhe.com/" 歌者 PPT
     "https://www.aippt.cn/" AiPPT
     "https://www.pm-ai.cn/" PMAI—产品经理的AI助手
-    "https://aint.top/" 智简未来-AI简历创作
     "https://ai.sohu.com/pc/home" 简单AI-AI绘图
-    "https://jimeng.jianying.com/ai-tool/home" 即梦AI
-    "https://klingai.kuaishou.com/" 可灵AI
-    "https://zenvideo.qq.com/" 腾讯智影
     "https://raphael.app/zh" Raphael AI-免费无限制 AI 图像生成器
 ## 网站导航
     "https://openi.cn/" OpenI - AI时代

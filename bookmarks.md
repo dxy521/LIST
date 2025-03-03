@@ -239,9 +239,6 @@
     "https://www.qileso.com/" 奇乐搜
     "https://qssily.com/" 趣导航
     "http://www.xgsoso.com/" 西瓜搜搜
-## 网络视频下载
-    "https://youtube.online-downloader.com/index-Chinese" YouTube视频下载器
-    "https://tool.liumingye.cn/music/#" MyFreeMP3
 ## 远程工具下载
     "https://www.todesk.com/" ToDesk
     "https://anydesk.com/zhs" AnyDesk
@@ -327,6 +324,7 @@
     "https://adzhp.cc/" 爱达杂货铺
     "https://nav.cnxiaobai.com/" 个人网址收藏
     "https://qinggongju.com/" 轻工具
+    "https://tool.liumingye.cn/" 刘明野的工具箱
 ## 在线文档处理
     "https://fp.scofd.com/" OFD阅读器（免费版）
     "https://doc.idjams.top/" 文档下载助手
@@ -348,7 +346,6 @@
     "https://tongyi.aliyun.com/qianwen/ 通义千问
     "https://chat.qwenlm.ai/" Qwen2.5 
     "https://www.doubao.com/chat/" 豆包
-    "https://wukong.com/tool" 小悟空
     "https://www.coze.cn/" 扣子  
     "https://yiyan.baidu.com/" 文心一言
     "https://xinghuo.xfyun.cn/" 讯飞星火
@@ -362,8 +359,8 @@
     "https://www.wenxiaobai.com/chat/200006" 问小白
     "https://yuewen.cn/chats/new" 跃问
     "https://chat.scnet.cn/#/home" 国家超算平台SCNet人工智能助手
-    "https://monica.cn/" Monica
     "https://ai.dangbei.com/chat" 当贝AI
+    "https://monica.cn/" Monica
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
     "https://www.n.cn/" 纳米AI搜索

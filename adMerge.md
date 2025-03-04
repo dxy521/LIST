@@ -1,21 +1,13 @@
 # GitHub的raw文件镜像
-      https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt 可以转化为  
-    https://raw.fastgit.org/o0HalfLife0o/list/master/ad3.txt
-    https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad3.txt 
-    https://cdn.staticaly.io/gh/o0HalfLife0o/list/master/ad3.txt
-    https://ghproxy.com/https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt
-    https://external.githubfast.com/https/raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt
-    https://raw.kgithub.com/o0HalfLife0o/list/master/ad3.txt
-    https://raw.iqiq.io/o0HalfLife0o/list/master/ad3.txt
-# GitHub网站镜像
-    https://hub.fastgit.org/
-    https://githubfast.com/
-
-# halflife系列
-    ad-pc.txt：合并自乘风视频、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance，以及补充的一些规则；
-    ad.txt：合并自乘风视频、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则；
-      https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt
-    ad3.txt：合并自乘风视频、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy。
+      https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt 可以转化为
+    https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad.txt
+    https://slink.ltd/https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
+    https://raw.fastgit.org/o0HalfLife0o/list/master/ad.txt
+    https://cdn.staticaly.io/gh/o0HalfLife0o/list/master/ad.txt
+    https://ghproxy.com/https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
+    https://external.githubfast.com/https/raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
+    https://raw.kgithub.com/o0HalfLife0o/list/master/ad.txt
+    https://raw.iqiq.io/o0HalfLife0o/list/master/ad.txt
 # uniartisan系列
     adblock_basic 是主要面向于中文网站而制作的过滤列表。
       https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt
@@ -23,6 +15,16 @@
     adblock_lite 是面向于中文网站且针对移动设备优化的过滤列表。
     adblock_plus 是针对于中文及绝大部分常用网站的过滤列表，提供了高质量的去广告服务。
     adblock_privacy 阻止互联网常见的隐私跟踪，日志搜集器。
+# Cats-Team系列
+     adguard整合，AdGuard广告过滤器，AdGuard移动设备过滤器，AdGuard隐私保护过滤器，AdGuardURL跟踪保护器，AdGuard社交过滤器，AdGuard烦人过滤器，AdGuard中文过滤器，AdGuard实验过滤器
+      https://raw.githubusercontent.com/Cats-Team/AdRules/main/adguard.txt
+     整合规则，EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则等
+      https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
+# halflife系列
+    ad-pc.txt：合并自乘风视频、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance，以及补充的一些规则。
+    ad.txt：合并自乘风视频、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则。
+      https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
+    ad3.txt：合并自乘风视频、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy。
 # AdGuard系列
     AdGuard隐私规则
       https://filters.adtidy.org/android/filters/3.txt
@@ -69,20 +71,6 @@
 # 酷安：大萌主系列
      jiekouAD，针对手机端盗版网站广告的拦截规则
       https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
-# Cats-Team系列
-     adguard整合，AdGuard广告过滤器，AdGuard移动设备过滤器，AdGuard隐私保护过滤器，AdGuardURL跟踪保护器，AdGuard社交过滤器，AdGuard烦人过滤器，AdGuard中文过滤器，AdGuard实验过滤器
-      https://raw.githubusercontent.com/Cats-Team/AdRules/main/adguard.txt
-     整合规则，EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则等
-      https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
-# adgk手机去广告规则
-    https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
-# anti-AD系列
-     AdGuardHome
-      https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
-      https://anti-ad.net/easylist.txt
-     adguard专用
-      https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt
-      https://anti-ad.net/adguard.txt
 # host系列
      yhosts,国内维护者屏蔽国内网站广告
     https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt

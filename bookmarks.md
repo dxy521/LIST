@@ -36,71 +36,56 @@
     "https://iconmonstr.com/" iconmonstr
     "https://icons.bootcss.com/" Bootstrap 图标库
     "https://iconpark.oceanengine.com/home" ByteDance IconPark
-## 画图设计参考
-    "https://www.feishu.cn/community/article?id=7444818740039909395" 【飞行社】Mark的AI产品经理知识库「持续更新」
-    "https://www.figma.com/" Figma
-    "https://app.axure.cloud/app/fs/recents" Axure Cloud
-    "https://data.avuejs.com/" avue-data数据大屏
-    "https://dp.alibaba.com/product/quickbi/activity?spm=a2c4g.11174283.0.0.16f82b5eJxBI55" Quick BI 数据可视化分析平台
+## 设计图分享社区
     "https://www.figma.cool/" Figma 中文社区
     "https://figmachina.com/" FigmaChina
     "https://oursketch.com/" OurSketch
     "http://www.sketchcn.com/" Sketch中文网
-    "https://modao.cc/community?source=nav&page=1&category=project_basic" 素材广场-墨刀
-    "https://www.xiaopiu.com/square" 精选广场-即时原型
+    "https://modao.cc/com24/home?category=project_basic" 素材广场-墨刀
+    "https://js.design/community?category=explore" 探索 - 即时设计
     "https://www.mockplus.cn/example/rp" 精美的原型模版和设计例子 - 摹客
     "https://mastergo.com/community/" MasterGo资源社区
-    "https://axure6.com/" 匠心原型
-    "https://www.axured.cn/" Axure工坊
-    "https://www.axureux.com/home/default.html" AxureUX
-    "https://axhub.im/" Axhub
-    "https://www.axureshop.com/all-price" AxureShop产品原型网
-    "https://www.xiangtianchi.com/" 象天尺官网
-    "https://www.axure9.com/" Axure模板网
-    "http://www.demojishi.com/" Demo集市
-    "https://axhub.im/ax9/2706bd78f450eaed/#p=可视化长图模板（深色系）&id=d99wnc&g=1" 可视化长图模板（深色系）
-    "https://cdn7.axureshop.com/demo/1061921/#g=1&p=蓝色清新登录注册页面模板" 蓝色清新登录注册页面模板
-    "https://www.uimaker.com/" Uimaker
-    "https://www.zcool.com.cn/" 站酷ZCOOL
-    "http://demo.bigemap.com/" BIGEMAP项目展示
-    "https://www.xiongze.net/viewdata/index.html" 可视化大数据展示中心
-    "https://www.toutiao.com/article/7337568775220675084/?app=news_article&timestamp=1708425629&use_new_style=1&req_id=20240220184028306A2E4B08C7BFB3E116&group_id=7337568775220675084&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=9ce45321-d484-452c-a6e0-7a0d3ceed93a&source=m_redirect&wid=1708478032847" 实时监测电力系统-今日头条
-    "https://www.toutiao.com/article/7277440394378478116/?app=news_article&timestamp=1695040494&use_new_style=1&req_id=2023091820345491B81A78DB43C12BE718&group_id=7277440394378478116&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=eba2cc44-e6d0-4598-bdc2-f61309511052&source=m_redirect&wid=1695040560615" 能源综合监控界面设计合集-今日头条
-    "https://rqzygyh38pg.feishu.cn/docx/UarLd3wtEoSKCdxWXShc626Hnch" 数据可视化+模板分享（帆软） - 飞书云文档
-    "https://3zkayd.axshare.com/#id=k5dls8&p=%E8%AE%BE%E8%AE%A1%E8%A7%84%E5%88%92" EMS智慧能源管理系统
-    "http://demo.iotopo.com/static/topv/public/portal/cases" 智能组态平台
-    "https://www.hightopo.com/demos/" 图扑软件
-    "http://www.zkview.com/" WEB组态
+    "https://www.xiaopiu.com/square" 精选广场-即时原型
     "https://pixso.cn/community/home/" Pixso资源社区
-    "https://js.design/community?category=explore" 探索 - 即时设计
     "https://boardmix.cn/community/" boardmix模板社区
-    "https://v3.processon.com/diagrams/new#template" 模板首页 - ProcessOn
+    "https://www.processon.com/template" 模板首页 - ProcessOn
     "https://www.edrawmax.cn/templates/" 亿图图示模板社区
     "https://www.zhixi.com/space" 免费思维导图模板大全_知犀官网
     "https://zhimap.com/gallery" ZhiMap知识导图社区
-    "https://shuffle.dev/" Shuffle
-    "https://www.ui.net.cn/" UI素材网
+## axure原型分享
+    "https://axhub.im/" Axhub
     "https://axmax.cn/" Axmax
+    "https://axure6.com/" 匠心原型
+    "https://www.axured.cn/" Axure工坊
+    "https://axured.cn/" Axure工坊
+    "https://www.axureux.com/home/default.html" AxureUX
+    "https://www.axureshop.com/all-price" AxureShop产品原型网
+    "https://www.xiangtianchi.com/" 象天尺官网
+    "https://www.axure9.com/" Axure模板网
     "http://daisyaxure.com/index.html" Daisy Axure高保真原型网
     "https://www.youzhifang.net/" 优职坊
-    "https://axured.cn/" Axure工坊
     "https://axurehub.com/" AxureHub产品经理原型资源站
     "http://www.xmsumi.com/" 苏米客XMSUMI
-    "https://www.axureux.com/demo/Templates027/%E7%B3%BB%E7%BB%9F%E6%A1%86%E6%9E%B610.html" Axure大屏原型模板 - AxureUX
-    "https://www.meiye.art/" 美叶
-    "https://www.uisdc.com/" 优设网官网
-    "http://www.cssmoban.com/cssthemes/" 模板之家
     "https://ilovemockup.club/" 交互设计汁源小站
-    "https://www.psd.cn/" PSD素材网
-    "https://uiverse.io/" uiverse.io
-    "https://50projects50days.com/" Traversy Media
-    "https://htmlrev.com/" HTMLrev
-    "https://www.recraft.ai/" Recraft
-    "https://coverpaint.xiaole.site/zh" Cover Paint
-    "https://www.figma.com/ai/" Figma AI
-    "https://mastergo.com/ai" MasterGo/莫高设计AI
-    "https://modao.cc/feature/ai.html" 墨刀AI
-    "https://jsai.cc/ai/create" 即时 AI
+## 画图设计参考
+    "https://www.axureux.com/demo/Templates027/%E7%B3%BB%E7%BB%9F%E6%A1%86%E6%9E%B610.html" Axure大屏原型模板 - AxureUX
+    "https://axhub.im/ax9/2706bd78f450eaed/#p=可视化长图模板（深色系）&id=d99wnc&g=1" 可视化长图模板（深色系）
+    "https://cdn7.axureshop.com/demo/1061921/#g=1&p=蓝色清新登录注册页面模板" 蓝色清新登录注册页面模板
+    "https://www.feishu.cn/community/article?id=7444818740039909395" 【飞行社】Mark的AI产品经理知识库「持续更新」
+    "https://data.avuejs.com/" avue-data数据大屏
+    "https://bi.aliyun.com/template/nl/public" Quick BI
+    "https://www.xiongze.net/viewdata/index.html" 可视化大数据展示中心 
+    "https://www.uimaker.com/" Uimaker
+    "https://www.zcool.com.cn/discover?cate=17" 站酷ZCOOL
+    "http://demo.bigemap.com/" BIGEMAP项目展示
+    "https://www.toutiao.com/article/7337568775220675084/?app=news_article&timestamp=1708425629&use_new_style=1&req_id=20240220184028306A2E4B08C7BFB3E116&group_id=7337568775220675084&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=9ce45321-d484-452c-a6e0-7a0d3ceed93a&source=m_redirect&wid=1708478032847" 实时监测电力系统-今日头条
+    "https://rqzygyh38pg.feishu.cn/docx/UarLd3wtEoSKCdxWXShc626Hnch" 数据可视化+模板分享（帆软） - 飞书云文档
+    "http://demo.iotopo.com/static/topv/public/portal/cases" 智能组态平台
+    "https://www.hightopo.com/demos/" 图扑软件
+    "http://www.zkview.com/" WEB组态
+    "https://www.ui.net.cn/" UI素材网
+    "https://www.meiye.art/InspirationAlbum" 美叶
+    "https://www.psd.cn/ui/" PSD素材网
 ## 在线抠图网站
     "https://www.iloveimg.com/zh-cn/convert-to-jpg" 图像转JPG
     "https://arc.tencent.com/zh/ai-demos/faceRestoration" ARC官网
@@ -192,7 +177,7 @@
     "http://www.aichunjing.com/" 爱纯净
     "https://www.ghxi.com/" 果核剥壳
     "http://www.sixyin.com/" 六音软件
-    "[https://www.bianshengruanjian.com/](https://rmsys.top/)" 入梦资源站
+    "https://rmsys.top/" 入梦资源站
     "https://blog.ruancang.net" 软仓
     "www.ziyuanshare.cc/?p=40" 小q轻创日记
     "https://github.com/lyswhut/lx-music-desktop/issues/5" 音乐无法加载的问题
@@ -337,8 +322,8 @@
     "http://www.ip33.com/crc.html" CRC在线计算
     "https://www.23bei.com/tool/59.html" MODBUS校验码在线计算器
 ## 前端设计参考
-    "https://www.runoob.com/cssref/css-selectors.html" CSS 选择器
-    "https://www.w3school.com.cn/cssref/css_selectors.asp" CSS 选择器参考手册
+    "https://www.runoob.com/cssref/css-selectors.html" CSS选择器
+    "https://www.w3school.com.cn/cssref/css_selectors.asp" CSS选择器参考手册
     "https://element.eleme.cn/#/zh-CN" Element-网站快速成型 
     "https://ant.design/index-cn" Ant Design
     "https://ant-design.antgroup.com/index-cn" Ant Design镜像
@@ -356,6 +341,8 @@
     "https://chat.deepseek.com/" DeepSeek
     "https://yuanbao.tencent.com/chat" 腾讯元宝
     "https://xiaoyi.huawei.com/chat/" 华为小艺
+    "https://chat.baidu.com/search?" 百度AI搜索
+    "https://zhida.zhihu.com/" 知乎直答
     "https://www.wenxiaobai.com/chat/200006" 问小白
     "https://yuewen.cn/chats/new" 跃问
     "https://chat.scnet.cn/#/home" 国家超算平台SCNet人工智能助手
@@ -384,10 +371,16 @@
     "https://aigc.baidu.com/home" 度加创作工具
     "https://hailuoai.com/video" 海螺视频
     "https://yuewen.cn/videos" 跃问视频
+## AI原型图
+    "https://www.figma.com/ai/" Figma AI
+    "https://modao.cc/feature/ai.html" 墨刀AI
+    "https://mastergo.com/ai" MasterGo/莫高设计AI
+    "https://jsai.cc/ai/create" 即时AI
+    "https://www.mockplus.cn/ai" 摹客AI
 ## 功能性AI
     "https://www.mindshow.fun/#/home" MindShow
     "https://ppt.sankki.com/#/intro" 闪击PPT
-    "https://gezhe.com/" 歌者 PPT
+    "https://gezhe.com/" 歌者PPT
     "https://www.aippt.cn/" AiPPT
     "https://www.pm-ai.cn/" PMAI—产品经理的AI助手
     "https://ai.sohu.com/pc/home" 简单AI-AI绘图
@@ -406,5 +399,6 @@
     "https://www.yjpoo.com/" 映技派
     "https://www.aiwht.com/" AI万花筒
     "https://www.amz123.com/ai" AMZ123跨境导航
+    "https://hao.uisdc.com/ai/" 优设AI导航
     "https://www.aihub.cn/" AIHub
     "https://www.aiyjs.com/" AI研究所

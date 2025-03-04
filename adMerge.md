@@ -9,12 +9,13 @@
     https://raw.kgithub.com/o0HalfLife0o/list/master/ad.txt
     https://raw.iqiq.io/o0HalfLife0o/list/master/ad.txt
 # uniartisan系列
-    adblock_basic 是主要面向于中文网站而制作的过滤列表。
+    adblock_basic 是主要面向于中文网站而制作的过滤列表，整合EasylistLite + AdGuard中文 + EasylistChina + CJX'sAnnoyance。
       https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt
-      https://gitee.com/uniartisan2018/adblock_list/raw/master/adblock.txt
-    adblock_lite 是面向于中文网站且针对移动设备优化的过滤列表。
-    adblock_plus 是针对于中文及绝大部分常用网站的过滤列表，提供了高质量的去广告服务。
-    adblock_privacy 阻止互联网常见的隐私跟踪，日志搜集器。
+    adblock_lite 是面向于中文网站且针对移动设备优化的过滤列表，整合AdGuard中文 + EasylistChina + CJX'sAnnoyance。
+    adblock_plus 是针对于中文及绝大部分常用网站的过滤列表，提供了高质量的去广告服务，整合Easylist + AdGuard中文 + EasylistChina + CJX'sAnnoyance + AdGuard Base + AdGuard Annoyances 。
+      https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
+    adblock_privacy 阻止互联网常见的隐私跟踪，日志搜集器，整合EasyPrivacy + AdGuard Tracking Protection + AdGuard URL Tracking 。
+      https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt
 # Cats-Team系列
      adguard整合，AdGuard广告过滤器，AdGuard移动设备过滤器，AdGuard隐私保护过滤器，AdGuardURL跟踪保护器，AdGuard社交过滤器，AdGuard烦人过滤器，AdGuard中文过滤器，AdGuard实验过滤器
       https://raw.githubusercontent.com/Cats-Team/AdRules/main/adguard.txt

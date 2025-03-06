@@ -132,7 +132,8 @@
     "https://github.com/robotze/GithubDesktopZhTool" robotze/GithubDesktopZhTool
     "https://github.com/ant-design/ant-design/releases/resource/" Releases · ant-design/ant-design
     "https://gitee.com/bosenger" bosenger (bosenger) - Gitee.com
-    "https://lxmusic.toside.cn/download" 软件下载 | LX Music
+    "https://lxmusic.toside.cn/download" LX Music
+    "https://musicfree.catcat.work/" MusicFree
 ## 浏览器扩展包下载
     "https://www.crxsoso.com/" Crx搜搜
     "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home/" Edge 加载项
@@ -147,6 +148,7 @@
     "https://sleazyfork.org/zh-CN/" Sleazy Fork
     "https://scriptcat.org/zh-CN/" ScriptCat
 ## 开源阅读app书源分享
+    "https://github.com/Huibq/keep-alive" 洛雪音乐音源、MusicFree音源
     "https://source.zgqinc.gq/" 各种源大型整合
     "https://yuedu.miaogongzi.net/" 阅读书源
     "https://www.yckceo.com/yuedu/shuyuans/index.html" 阅读 - 源仓库

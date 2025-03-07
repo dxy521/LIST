@@ -12,15 +12,18 @@
     adblock_basic 是主要面向于中文网站而制作的过滤列表，整合EasylistLite + AdGuard中文 + EasylistChina + CJX'sAnnoyance。
       https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt
     adblock_lite 是面向于中文网站且针对移动设备优化的过滤列表，整合AdGuard中文 + EasylistChina + CJX'sAnnoyance。
+      https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt
     adblock_plus 是针对于中文及绝大部分常用网站的过滤列表，提供了高质量的去广告服务，整合Easylist + AdGuard中文 + EasylistChina + CJX'sAnnoyance + AdGuard Base + AdGuard Annoyances 。
       https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
     adblock_privacy 阻止互联网常见的隐私跟踪，日志搜集器，整合EasyPrivacy + AdGuard Tracking Protection + AdGuard URL Tracking 。
       https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt
 # Cats-Team系列
-     adguard整合，AdGuard广告过滤器，AdGuard移动设备过滤器，AdGuard隐私保护过滤器，AdGuardURL跟踪保护器，AdGuard社交过滤器，AdGuard烦人过滤器，AdGuard中文过滤器，AdGuard实验过滤器
-      https://raw.githubusercontent.com/Cats-Team/AdRules/main/adguard.txt
-     整合规则，EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则等
+     整合jiekouAD、AdGuard中文、NoAppDownload、cjx-annoyance、anti-adblock-killer-filters、antiadblockfilters、abp-filters-anti-cv
+      https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt
+     整合AdGuard隐私,clear_urls_uboified、EasyPrivacy + jiekouAD、AdGuard中文、NoAppDownload、cjx-annoyance、anti-adblock-killer-filters、antiadblockfilters、abp-filters-anti-cv
       https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
+     整合AdGuard Base和Easylist + AdGuard隐私、clear_urls_uboified、EasyPrivacy + jiekouAD、AdGuard中文、NoAppDownload、cjx-annoyance、anti-adblock-killer-filters、antiadblockfilters、abp-filters-anti-cv
+      https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt
 # halflife系列
     ad-pc.txt：合并自乘风视频、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance，以及补充的一些规则。
     ad.txt：合并自乘风视频、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则。

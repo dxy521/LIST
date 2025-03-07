@@ -75,6 +75,8 @@
 # 酷安：大萌主系列
      jiekouAD，针对手机端盗版网站广告的拦截规则
       https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
+# X浏览器社区分享
+    https://www.xbext.com/mobile/share_ad_rules?locale=zh
 # host系列
      yhosts,国内维护者屏蔽国内网站广告
     https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt

@@ -349,7 +349,8 @@
     "https://yuewen.cn/chats/new" 跃问
     "https://chat.scnet.cn/#/home" 国家超算平台SCNet人工智能助手
     "https://ai.dangbei.com/chat" 当贝AI
-    "https://monica.cn/" Monica
+    "https://monica.cn/home/chat/Monica/monica" Monica
+    "https://botgroup.chat/" AI机器人群聊
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
     "https://www.n.cn/" 纳米AI搜索

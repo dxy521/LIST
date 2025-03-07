@@ -39,6 +39,7 @@
 ## 设计图分享社区
     "https://www.figma.cool/" Figma 中文社区
     "https://figmachina.com/" FigmaChina
+    "https://penpot.app/penpothub/libraries-templates" Penpot
     "https://oursketch.com/" OurSketch
     "http://www.sketchcn.com/" Sketch中文网
     "https://modao.cc/com24/home?category=project_basic" 素材广场-墨刀
@@ -351,6 +352,7 @@
     "https://ai.dangbei.com/chat" 当贝AI
     "https://monica.cn/home/chat/Monica/monica" Monica
     "https://botgroup.chat/" AI机器人群聊
+    "https://www.giz.ai/" GizAI
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
     "https://www.n.cn/" 纳米AI搜索

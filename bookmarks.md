@@ -352,10 +352,7 @@
     "https://www.wenxiaobai.com/chat/200006" 问小白
     "https://yuewen.cn/chats/new" 跃问
     "https://chat.scnet.cn/#/home" 国家超算平台SCNet人工智能助手
-    "https://ai.dangbei.com/chat" 当贝AI
     "https://monica.cn/home/chat/Monica/monica" Monica
-    "https://botgroup.chat/" AI机器人群聊
-    "https://www.giz.ai/" GizAI
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
     "https://www.n.cn/" 纳米AI搜索
@@ -364,11 +361,18 @@
     "https://iask.ai/" iAsk.Ai
     "https://search.lepton.run/" Lepton Search
     "https://thinkany.ai/" thinkany.ai
-## ChatGPT镜像
+## 聚合AI
     "http://124.220.104.235/web/chatgpt" 公益chatgpt导航            
     "https://liaobots.work/" Liaobots UI
     "https://freegpt.tech/" 智能AI聊天
     "https://codenews.cc/chatgpt" CodeNews
+    "https://github.com/ai-shifu/ChatALL" ai-shifu/ChatALL
+    "https://botgroup.chat/" AI机器人群聊
+    "https://www.giz.ai/" GizAI
+    "https://ai.dangbei.com/chat" 当贝AI
+    "https://www.blackbox.ai/" BLACKBOX.AI
+    "https://qwq.aigpu.cn/" Free QWQ-免费分布式AI算力平台
+    "https://chatboxai.app/zh" Chatbox AI
 ## AI视频
     "https://jimeng.jianying.com/ai-tool/home" 即梦AI
     "https://klingai.kuaishou.com/" 可灵AI

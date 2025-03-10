@@ -356,12 +356,11 @@
     "https://monica.cn/home/chat/Monica/monica" Monica
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
-    "https://www.n.cn/" 纳米AI搜索
-    "https://bot.n.cn/" 纳米AI
     "https://www.tiangong.cn/" 天工AI搜索
+    "https://www.n.cn/ & https://so.n.cn/" 纳米AI搜索
+    "https://bot.n.cn/" 纳米AI
     "https://iask.ai/" iAsk.Ai
     "https://search.lepton.run/" Lepton Search
-    "https://thinkany.ai/" thinkany.ai
 ## 聚合AI
     "http://124.220.104.235/web/chatgpt" 公益chatgpt导航            
     "https://liaobots.work/" Liaobots UI

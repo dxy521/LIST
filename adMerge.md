@@ -3,7 +3,7 @@
     https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad.txt
     https://slink.ltd/https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
     https://raw.fastgit.org/o0HalfLife0o/list/master/ad.txt
-    https://cdn.staticaly.io/gh/o0HalfLife0o/list/master/ad.txt
+    https://cdn.statically.io/gh/o0HalfLife0o/list/master/ad.txt
     https://ghproxy.com/https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
     https://external.githubfast.com/https/raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
     https://raw.kgithub.com/o0HalfLife0o/list/master/ad.txt

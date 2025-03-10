@@ -79,6 +79,7 @@
     "https://www.uimaker.com/" Uimaker
     "https://www.zcool.com.cn/discover?cate=17" 站酷ZCOOL
     "http://demo.bigemap.com/" BIGEMAP项目展示
+    "https://account.usr.cn/#/ViewExperience?type=1" 有人通行证
     "https://www.toutiao.com/article/7337568775220675084/?app=news_article&timestamp=1708425629&use_new_style=1&req_id=20240220184028306A2E4B08C7BFB3E116&group_id=7337568775220675084&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=9ce45321-d484-452c-a6e0-7a0d3ceed93a&source=m_redirect&wid=1708478032847" 实时监测电力系统-今日头条
     "https://rqzygyh38pg.feishu.cn/docx/UarLd3wtEoSKCdxWXShc626Hnch" 数据可视化+模板分享（帆软） - 飞书云文档
     "http://demo.iotopo.com/static/topv/public/portal/cases" 智能组态平台
@@ -87,7 +88,7 @@
     "https://www.ui.net.cn/" UI素材网
     "https://www.meiye.art/InspirationAlbum" 美叶
     "https://www.psd.cn/ui/" PSD素材网
-## 在线抠图网站
+## 在线抠图
     "https://www.iloveimg.com/zh-cn/convert-to-jpg" 图像转JPG
     "https://arc.tencent.com/zh/ai-demos/faceRestoration" ARC官网
     "https://www.hama.app/" AI 图像擦除器 - hama.app
@@ -129,15 +130,16 @@
     "https://gitee.com/huajicloud/hydrogen" Hydrogen: 第三方知乎安卓客户端
     "https://github.com/lucinhu/bili_you" lucinhu/bili_you: 第三方B站客户端
     "https://github.com/sunhanaix/dedup_files" sunhanaix/dedup_files: 文件去重
-    "https://github.com/fork-maintainers/iceraven-browser" fork-maintainers/iceraven-browser
-    "https://github.com/robotze/GithubDesktopZhTool" robotze/GithubDesktopZhTool
-    "https://github.com/ant-design/ant-design/releases/resource/" Releases · ant-design/ant-design
+    "https://github.com/fork-maintainers/iceraven-browser" iceraven-browser
+    "https://github.com/robotze/GithubDesktopZhTool" GithubDesktopZhTool
+    "https://github.com/ant-design/ant-design/releases/resource/" ant-design
     "https://gitee.com/bosenger" bosenger (bosenger) - Gitee.com
     "https://lxmusic.toside.cn/download" LX Music
     "https://musicfree.catcat.work/" MusicFree
+    "https://github.com/jgraph/drawio" draw.io流程图
 ## 浏览器扩展包下载
-    "https://www.crxsoso.com/" Crx搜搜
     "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home/" Edge 加载项
+    "https://www.crxsoso.com/" Crx搜搜
     "https://chrome.zzzmh.cn/index" 极简插件
     "https://crxdl.com/" CrxDL
     "https://www.crx4chrome.com/" Crx4Chrome
@@ -150,6 +152,7 @@
     "https://scriptcat.org/zh-CN/" ScriptCat
 ## 开源阅读app书源分享
     "https://github.com/Huibq/keep-alive" 洛雪音乐音源、MusicFree音源
+    "https://github.com/lyswhut/lx-music-desktop/issues/5" 音乐无法加载的问题
     "https://source.zgqinc.gq/" 各种源大型整合
     "https://yuedu.miaogongzi.net/" 阅读书源
     "https://www.yckceo.com/yuedu/shuyuans/index.html" 阅读 - 源仓库
@@ -183,7 +186,6 @@
     "https://rmsys.top/" 入梦资源站
     "https://blog.ruancang.net" 软仓
     "www.ziyuanshare.cc/?p=40" 小q轻创日记
-    "https://github.com/lyswhut/lx-music-desktop/issues/5" 音乐无法加载的问题
 ## 网盘资源下载
     "https://hunhepan.com" 混合盘搜索
     "https://ssgo.app/" SearchSearchGo
@@ -265,14 +267,13 @@
     "https://pss-system.cponline.cnipa.gov.cn/conventionalSearch" 专利检索及分析
     "https://register.ccopyright.com.cn/login.html?linkBackUrl="https://register.ccopyright.com.cn/manage.html" 软著
 ## 专利论文下载
-    "http://m.jw99.top/lit/"  微学术
+    "http://dl.cnki.net/" 电力科技创新知识服务平台
     "http://w.s99s.top/lit/"  微学术-数字资源
     "https://www.patent9.com/" Patent9专利在线
     "https://www.baiten.cn/" 佰腾网查专利
     "http://www.soopat.com/" SooPAT 专利搜索
     "https://lib.cqvip.com/" 【维普期刊官网】- 中文期刊服务平台
     "www.chinaqking.com/column-sort/news-list/search?value=配电线路行波故障测距方法与系统的研究应用" 期刊网
-    "http://dl.cnki.net/" 电力科技创新知识服务平台
 ## 论文检索
     "https://scholar.xmsoushu.com/##/" 熊猫学术搜索
     "https://panda985.com/" 熊猫学术

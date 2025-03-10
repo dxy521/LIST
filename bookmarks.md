@@ -359,6 +359,7 @@
     "https://www.tiangong.cn/" 天工AI搜索
     "https://www.n.cn/ & https://so.n.cn/" 纳米AI搜索
     "https://bot.n.cn/" 纳米AI
+    "https://aisearch.qq.com" DeepSeek模型-QQ浏览器专线版
     "https://iask.ai/" iAsk.Ai
     "https://search.lepton.run/" Lepton Search
 ## 聚合AI

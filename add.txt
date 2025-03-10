@@ -1,19 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: add
-! Version: 2023/11/30
+! Version: 2025/03/10
 ddys.*##+js(set, Object.prototype.ads, null)
 ||ddrk.me/vjs-plugins/videojs.das.min.js
 ##.dplayer-logo
 ##.llqplayer-logo
 ##.leleplayer-logo
 max.book118.com##div.re.webpreview-recommend
-data.avuejs.com##.el-dialog__wrapper,.v-modal
-s.weibo.com##.card-pic-a.card
-www.mvcat.com##.wxfollow
-https://m.2shuquge.net/static/88ds/ttss.js
 mail.163.com##[title="企业邮箱"]
 mail.163.com##.txt-info.tI0
 mail.163.com##[title="首页"]
-www.1ppt.com##li.miz
-www.1ppt.com##li.ibt
-adc.shiwaiyun.com

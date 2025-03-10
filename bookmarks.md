@@ -349,6 +349,7 @@
     "https://xiaoyi.huawei.com/chat/" 华为小艺
     "https://chat.baidu.com/search?" 百度AI搜索
     "https://zhida.zhihu.com/" 知乎直答
+    "https://so.csdn.net/chat" C知道
     "https://www.wenxiaobai.com/chat/200006" 问小白
     "https://yuewen.cn/chats/new" 跃问
     "https://chat.scnet.cn/#/home" 国家超算平台SCNet人工智能助手

@@ -322,6 +322,8 @@
     "https://z-lib.id/" z-lib
     "https://zlib.app/" 基于zlib安卓客户端的检索接口
 ## 开发资料
+    "https://www.runoob.com/" 菜鸟教程
+    "https://www.bookstack.cn/" 书栈网
     "https://github.com/jaywcjlove/reference" 为开发人员分享快速参考备忘清单(速查表)
     "http://www.ip33.com/crc.html" CRC在线计算
     "https://www.23bei.com/tool/59.html" MODBUS校验码在线计算器

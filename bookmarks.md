@@ -121,6 +121,7 @@
     "http://app.weboos.com/updateLog.shtml" 标准百事通
     "https://www.kqqw.com/" 库七七
 ## 实用软件开源地址
+    "https://gitee.com/yearstrong/xtu" xtu: 物联网化的配电终端模型库与协议库
     "https://gitee.com/wanglifree/tianruoocr-cl" tianruoocr-cl: 天若ocr开源版本的本地版
     "https://github.com/hiroi-sora/Umi-OCR" hiroi-sora/Umi-OCR: OCR图片转文字识别软件
     "https://gitee.com/huajicloud/hydrogen" Hydrogen: 第三方知乎安卓客户端

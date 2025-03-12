@@ -84,6 +84,17 @@
     "https://www.ui.net.cn/" UI素材网
     "https://www.meiye.art/InspirationAlbum" 美叶
     "https://www.psd.cn/ui/" PSD素材网
+## axure原型托管
+    "https://modao.cc/feature/axure-hosting" 墨刀-Axure托管    
+    "https://lanhuapp.com/prd?formHeader=prd" 蓝湖 - 产品设计协作平台
+    "https://axhub.im/" Axhub - Axure 原型托管与协作平台
+    "https://www.wulihub.com.cn/webapp/home" WuliHub - 文件预览平台
+    "https://www.pmdaniu.com/" 产品大牛（Axure原型托管）
+    "https://moonvy.com/" Moonvy 月维 | 在线管理并交付设计资源
+    "https://www.mockplus.cn/download/idoc-axure" Axure插件下载 - 摹客
+    "https://axmax.cn/" Axmax - 产品设计资源库与Axure增强服务
+    "https://js.design/tutorial/63d8fb2cdb1619752d598839"  即时设计-导入Axure
+    "https://pixso.cn/axure-file-import/" Pixso官网 - Axure文件导入
 ## 在线抠图
     "https://www.iloveimg.com/zh-cn/convert-to-jpg" 图像转JPG
     "https://arc.tencent.com/zh/ai-demos/faceRestoration" ARC官网

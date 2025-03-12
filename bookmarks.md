@@ -1,19 +1,15 @@
 ## 图表在线编辑
+    "https://markmap.js.org/" markmap思维导图
+    "https://app.diagrams.net/" draw.io流程图
     "https://www.isqqw.com/" 图表集isqqw.com
     "https://echarts.apache.org/zh/index.html" Apache ECharts
     "https://antv.antgroup.com/" AntV | 蚂蚁数据可视化
     "https://g2.antv.antgroup.com/examples" 所有图表 | G2 - AntV
-    "https://hiplot.cn/?lang=zh_cn" Hiplot (ORG) | 生物医学数据
-    "https://flourish.studio/" Flourish
-    "https://www.bic.ac.cn/#/" BIC - Bioinfo Intelligent Cloud
-    "http://www.bic.ac.cn/#/" BIC - Bioinfo Intelligent Cloud
     "https://chartcube.alipay.com/" ChartCube - 在线图表制作工具
+    "https://hiplot.cn/?lang=zh_cn" Hiplot (ORG) | 生物医学数据
     "https://www.pslkzs.com/chart/charts.php" NB 3D Charts
-    "https://www.hcharts.cn/demo/highcharts#hc-others" Highcharts 演示 | Highcharts
 ## 设计调色盘
     "https://mycolor.space" ColorSpace
-    "https://color.adobe.com/zh/" Adobe Color
-    "https://likexia.gitee.io/tools/peise/index.html" 网页设计常用色彩搭配表 - 配色表
     "https://webgradients.com/" Fresh Background Gradients
     "https://www.webdesignrankings.com/resources/lolcolors/" LOL Colors
     "http://colormind.io/" Colormind

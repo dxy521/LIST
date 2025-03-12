@@ -352,6 +352,7 @@
     "https://so.csdn.net/chat" C知道
     "https://www.wenxiaobai.com/chat/200006" 问小白
     "https://yuewen.cn/chats/new" 跃问
+    "https://tbox.alipay.com/pro-about" 支付宝百宝箱
     "https://chat.scnet.cn/#/home" 国家超算平台SCNet人工智能助手
     "https://monica.cn/home/chat/Monica/monica" Monica
 ## AI搜索

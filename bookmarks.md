@@ -53,8 +53,7 @@
     "https://axhub.im/" Axhub
     "https://axmax.cn/" Axmax
     "https://axure6.com/" 匠心原型
-    "https://www.axured.cn/" Axure工坊
-    "https://axured.cn/" Axure工坊
+    "https://www.axured.cn/ & https://axured.cn/" Axure工坊
     "https://www.axureux.com/home/default.html" AxureUX
     "https://www.axureshop.com/all-price" AxureShop产品原型网
     "https://www.xiangtianchi.com/" 象天尺官网
@@ -341,33 +340,35 @@
     "https://element.eleme.cn/#/zh-CN" Element-网站快速成型 
     "https://ant.design/index-cn" Ant Design
     "https://ant-design.antgroup.com/index-cn" Ant Design镜像
-## 国内AI大模型  
+## 国内AI大模型对话  
     "https://tongyi.aliyun.com/qianwen/ 通义千问
-    "https://chat.qwenlm.ai/" Qwen2.5 
+    "https://chat.qwen.ai/" Qwen2.5 
     "https://www.doubao.com/chat/" 豆包
-    "https://www.coze.cn/" 扣子  
     "https://yiyan.baidu.com/" 文心一言
-    "https://xinghuo.xfyun.cn/" 讯飞星火
-    "https://kimi.moonshot.cn/" Kimi
-    "https://chatglm.cn/main/guest?lang=zh" 智谱清言    
-    "https://hailuoai.com/" 海螺AI
-## deepseek接入  
-    "https://chat.deepseek.com/" DeepSeek
     "https://yuanbao.tencent.com/chat" 腾讯元宝
+    "https://xinghuo.xfyun.cn/" 讯飞星火
+    "https://chat.deepseek.com/" DeepSeek
+    "https://kimi.moonshot.cn/" Kimi
     "https://xiaoyi.huawei.com/chat/" 华为小艺
-    "https://chat.baidu.com/search?" 百度AI搜索
-    "https://zhida.zhihu.com/" 知乎直答
-    "https://so.csdn.net/chat" C知道
-    "https://www.wenxiaobai.com/chat/200006" 问小白
+    "https://chatglm.cn/main/guest?lang=zh" 智谱清言    
+    "https://hailuoai.com/" 海螺AI 
+    "https://www.wenxiaobai.com/chat/" 问小白
     "https://yuewen.cn/chats/new" 跃问
-    "https://tbox.alipay.com/pro-about" 支付宝百宝箱
     "https://chat.scnet.cn/#/home" 国家超算平台SCNet人工智能助手
     "https://monica.cn/home/chat/Monica/monica" Monica
+## AI智能体平台
+    "https://www.coze.cn/" 扣子
+    "https://agents.baidu.com/center" 文心智能体平台AgentBuilder
+    "https://yuanqi.tencent.com/agent-shop" 腾讯元器
+    "https://manus.monica.cn/" Manus 中文版
+    "https://tbox.alipay.com/pro-about" 支付宝百宝箱
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
     "https://www.tiangong.cn/" 天工AI搜索
-    "https://www.n.cn/ & https://so.n.cn/" 纳米AI搜索
-    "https://bot.n.cn/" 纳米AI
+    "https://www.n.cn/ & https://so.n.cn/ & https://bot.n.cn/" 纳米AI搜索
+    "https://chat.baidu.com/search" 百度AI搜索
+    "https://zhida.zhihu.com/" 知乎直答
+    "https://so.csdn.net/chat" C知道
     "https://aisearch.qq.com" DeepSeek模型-QQ浏览器专线版
     "https://iask.ai/" iAsk.Ai
     "https://search.lepton.run/" Lepton Search

@@ -2,6 +2,9 @@
       https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt 可以转化为
     https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad.txt
     https://slink.ltd/https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
+    https://gh.llkk.cc/https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
+    https://gh-proxy.ygxz.in/https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
+    https://gh-proxy.com/raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
     https://raw.fastgit.org/o0HalfLife0o/list/master/ad.txt
     https://cdn.statically.io/gh/o0HalfLife0o/list/master/ad.txt
     https://ghproxy.com/https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt

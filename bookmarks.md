@@ -83,6 +83,7 @@
     "https://www.ui.net.cn/" UI素材网
     "https://www.meiye.art/InspirationAlbum" 美叶
     "https://www.psd.cn/ui/" PSD素材网
+    "https://www.yiqimoyu.com/#/contents" mo鱼网
 ## axure原型托管
     "https://modao.cc/feature/axure-hosting" 墨刀-Axure托管    
     "https://lanhuapp.com/prd?formHeader=prd" 蓝湖 - 产品设计协作平台
@@ -134,8 +135,6 @@
     "https://gitee.com/yearstrong/xtu" xtu: 物联网化的配电终端模型库与协议库
     "https://gitee.com/wanglifree/tianruoocr-cl" tianruoocr-cl: 天若ocr开源版本的本地版
     "https://github.com/hiroi-sora/Umi-OCR" hiroi-sora/Umi-OCR: OCR图片转文字识别软件
-    "https://gitee.com/huajicloud/hydrogen" Hydrogen: 第三方知乎安卓客户端
-    "https://github.com/lucinhu/bili_you" lucinhu/bili_you: 第三方B站客户端
     "https://github.com/sunhanaix/dedup_files" sunhanaix/dedup_files: 文件去重
     "https://github.com/fork-maintainers/iceraven-browser" iceraven-browser
     "https://github.com/robotze/GithubDesktopZhTool" GithubDesktopZhTool
@@ -144,6 +143,7 @@
     "https://lxmusic.toside.cn/download" LX Music
     "https://musicfree.catcat.work/" MusicFree
     "https://github.com/jgraph/drawio" draw.io流程图
+    "https://github.com/Hiram-Wong/ZyPlayer/releases" ZyPlayer
 ## 浏览器扩展包下载
     "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home/" Edge 加载项
     "https://www.crxsoso.com/" Crx搜搜
@@ -354,7 +354,7 @@
     "https://hailuoai.com/" 海螺AI 
     "https://www.wenxiaobai.com/chat/" 问小白
     "https://yuewen.cn/chats/new" 跃问
-    "https://chat.scnet.cn/#/home" 国家超算平台SCNet人工智能助手
+    "https://www.scnet.cn/ui/chatbot/" 国家超算平台SCNet人工智能助手
     "https://monica.cn/home/chat/Monica/monica" Monica
 ## AI智能体平台
     "https://www.coze.cn/" 扣子
@@ -384,6 +384,7 @@
     "https://www.blackbox.ai/" BLACKBOX.AI
     "https://qwq.aigpu.cn/" Free QWQ-免费分布式AI算力平台
     "https://chatboxai.app/zh" Chatbox AI
+    "https://dify.ai/zh" Dify.AI · 生成式 AI 应用创新引擎
 ## AI视频
     "https://jimeng.jianying.com/ai-tool/home" 即梦AI
     "https://klingai.kuaishou.com/" 可灵AI

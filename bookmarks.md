@@ -354,6 +354,7 @@
     "https://hailuoai.com/" 海螺AI 
     "https://www.wenxiaobai.com/chat/" 问小白
     "https://yuewen.cn/chats/new" 跃问
+    "https://bot.n.cn/" 纳米AI
     "https://www.scnet.cn/ui/chatbot/" 国家超算平台SCNet人工智能助手
     "https://monica.cn/home/chat/Monica/monica" Monica
     "https://udify.app/chat/6ufeJOm56J9ZoMT6" DeepGemini
@@ -368,7 +369,7 @@
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
     "https://www.tiangong.cn/" 天工AI搜索
-    "https://www.n.cn/ & https://so.n.cn/ & https://bot.n.cn/" 纳米AI搜索
+    "https://www.n.cn/ & https://so.n.cn/" 纳米AI搜索
     "https://chat.baidu.com/search" 百度AI搜索
     "https://zhida.zhihu.com/" 知乎直答
     "https://so.csdn.net/chat" C知道

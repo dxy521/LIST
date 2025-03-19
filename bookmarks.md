@@ -356,12 +356,15 @@
     "https://yuewen.cn/chats/new" 跃问
     "https://www.scnet.cn/ui/chatbot/" 国家超算平台SCNet人工智能助手
     "https://monica.cn/home/chat/Monica/monica" Monica
+    "https://udify.app/chat/6ufeJOm56J9ZoMT6" DeepGemini
 ## AI智能体平台
     "https://www.coze.cn/" 扣子
     "https://agents.baidu.com/center" 文心智能体平台AgentBuilder
     "https://yuanqi.tencent.com/agent-shop" 腾讯元器
     "https://manus.monica.cn/" Manus 中文版
     "https://tbox.alipay.com/pro-about" 支付宝百宝箱
+    "https://dify.ai/zh" Dify.AI · 生成式 AI 应用创新引擎
+    "https://chatboxai.app/zh" Chatbox AI
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
     "https://www.tiangong.cn/" 天工AI搜索
@@ -383,8 +386,6 @@
     "https://ai.dangbei.com/chat" 当贝AI
     "https://www.blackbox.ai/" BLACKBOX.AI
     "https://qwq.aigpu.cn/" Free QWQ-免费分布式AI算力平台
-    "https://chatboxai.app/zh" Chatbox AI
-    "https://dify.ai/zh" Dify.AI · 生成式 AI 应用创新引擎
 ## AI视频
     "https://jimeng.jianying.com/ai-tool/home" 即梦AI
     "https://klingai.kuaishou.com/" 可灵AI

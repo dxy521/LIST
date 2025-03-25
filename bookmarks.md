@@ -261,6 +261,7 @@
     "https://gv.163.com/" GameViewer远程
     "https://www.asklink.com/" 连连控
     "https://github.com/luckjiawei/frpc-desktop" luckjiawei/frpc-desktop: frp跨平台桌面客户端
+    "https://uuyc.163.com/" 网易UU远程（原GameViewer远程）
 ## 壁纸下载
     "https://bz.zzzmh.cn/" 极简壁纸
     "https://qingbizhi.com/" 轻壁纸

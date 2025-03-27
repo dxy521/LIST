@@ -95,6 +95,7 @@
     "https://axmax.cn/" Axmax - 产品设计资源库与Axure增强服务
     "https://js.design/tutorial/63d8fb2cdb1619752d598839"  即时设计-导入Axure
     "https://pixso.cn/axure-file-import/" Pixso官网 - Axure文件导入
+    "https://codesign.qq.com/download?tab=axure" CoDesign - 插件下载
 ## 在线抠图
     "https://www.iloveimg.com/zh-cn/convert-to-jpg" 图像转JPG
     "https://arc.tencent.com/zh/ai-demos/faceRestoration" ARC官网
@@ -157,6 +158,7 @@
     "https://greasyfork.org/zh-CN" Greasy Fork
     "https://sleazyfork.org/zh-CN/" Sleazy Fork
     "https://scriptcat.org/zh-CN/" ScriptCat
+    "https://soujiaoben.org/#/" 搜脚本加速站-全网搜脚本
 ## 开源阅读app书源分享
     "https://github.com/Huibq/keep-alive" 洛雪音乐音源、MusicFree音源
     "https://github.com/lyswhut/lx-music-desktop/issues/5" 音乐无法加载的问题

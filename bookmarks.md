@@ -159,6 +159,8 @@
     "https://sleazyfork.org/zh-CN/" Sleazy Fork
     "https://scriptcat.org/zh-CN/" ScriptCat
     "https://soujiaoben.org/#/" 搜脚本加速站-全网搜脚本
+    "https://gfork.dahi.icu/" GFork | GreasyFork 脚本加速镜像站 - Dahi
+    "https://greasyfork.zh-cn.eu.org/" GFork | GreasyFork镜像站
 ## 开源阅读app书源分享
     "https://github.com/Huibq/keep-alive" 洛雪音乐音源、MusicFree音源
     "https://github.com/lyswhut/lx-music-desktop/issues/5" 音乐无法加载的问题

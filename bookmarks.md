@@ -383,6 +383,7 @@
     "https://iask.ai/" iAsk.Ai
     "https://search.lepton.run/" Lepton Search
     "https://www.phind.com/" Phind
+    "https://reddo.cloud/search_home" Reddo
 ## 聚合AI
     "http://124.220.104.235/web/chatgpt" 公益chatgpt导航            
     "https://liaobots.work/" Liaobots UI
@@ -394,6 +395,9 @@
     "https://ai.dangbei.com/chat" 当贝AI
     "https://www.blackbox.ai/" BLACKBOX.AI
     "https://qwq.aigpu.cn/" Free QWQ-免费分布式AI算力平台
+    "https://www.opkfc.com/list" 数字玩家-免费共享的GPT4镜像
+    "https://home.cutim.top/" GPT公益站导航页面
+    "https://heck.ai/zh" Heck.ai免费的ChatGPT联网AI搜索引擎
 ## AI视频
     "https://jimeng.jianying.com/ai-tool/home" 即梦AI
     "https://klingai.kuaishou.com/" 可灵AI

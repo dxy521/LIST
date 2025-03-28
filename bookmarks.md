@@ -382,6 +382,7 @@
     "https://aisearch.qq.com" DeepSeek模型-QQ浏览器专线版
     "https://iask.ai/" iAsk.Ai
     "https://search.lepton.run/" Lepton Search
+    "https://www.phind.com/" Phind
 ## 聚合AI
     "http://124.220.104.235/web/chatgpt" 公益chatgpt导航            
     "https://liaobots.work/" Liaobots UI

@@ -1,6 +1,6 @@
 # GitHub的raw文件镜像
       https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt 可以转化为
-    https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad.txt
+    https://gcore.jsdelivr.net/gh/o0HalfLife0o/list@master/ad.txt
     https://slink.ltd/https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
     https://gh.llkk.cc/https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
     https://gh-proxy.ygxz.in/https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
@@ -11,6 +11,7 @@
     https://external.githubfast.com/https/raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
     https://raw.kgithub.com/o0HalfLife0o/list/master/ad.txt
     https://raw.iqiq.io/o0HalfLife0o/list/master/ad.txt
+    https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad.txt
 # uniartisan系列
     adblock_basic 是主要面向于中文网站而制作的过滤列表，整合EasylistLite + AdGuard中文 + EasylistChina + CJX'sAnnoyance。
       https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt

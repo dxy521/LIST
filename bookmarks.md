@@ -397,10 +397,28 @@
     "https://colorhunt.co/" Color Hunt
     "https://www.radix-ui.com/colors" Radix Colors
 ## 部署的系统
-    "https://ukrd.synology.me:5001/" 悠阔251外网服务器
+    "https://ukrd.synology.me:5001/" 悠阔251外网服务器l
     "http://211.159.168.84:7474/browser/" 知识图谱课题
     "http://122.9.65.95:81/" 悠阔OA
     "http://nxpc.fw-ant.com/#/index" 能效智控智慧节能管理平台
     "http://ems.acrelcloud.cn/PVWEB/InverterMonitor" 光伏运维云平台
     "https://modao.cc/app/KaOebrUTr8bhhcGdJTitk#screen=sl0f31m0fmerlx7" 象鼻岭PC端
     "https://ycllp0.axshare.com/#id=ohlsxq&p=%E5%85%A8%E7%AB%99%E6%80%BB%E8%A7%88&g=1" 辅控系统_V2版本
+## 浏览器搜索引擎配置
+    百度AI搜索    https://chat.baidu.com/search?word=%s
+    纳米AI搜索    https://www.n.cn/search?q=%s
+    秘塔AI搜索    https://metaso.cn/?q=%s
+    Reddo        https://reddo.cloud/search?q=%s
+    百度搜索    https://www.baidu.com/s?wd=%s
+    必应搜索    https://cn.bing.com/search?q=%s
+    4必应    https://www4.bing.com/search?q=%s
+    Yandex搜索    https://yandex.com/search/?text=%s
+    头条搜索    https://so.toutiao.com/search?dvpf=pc&keyword=%s
+    夸克搜索    https://quark.sm.cn/s?q=%s
+    神马搜索    https://m.sm.cn/s?q=%s
+    360搜索    https://www.so.com/s?q=%s
+    搜狗搜索    https://www.sogou.com/web?query=%s
+    Backdata搜索    https://backdata.net/search.html?q=%s
+    中国搜索    http://www.chinaso.com/newssearch/all/allResults?q=%s
+    聚合搜索    http://www.17so.cn/
+    

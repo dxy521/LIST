@@ -179,6 +179,7 @@
     "https://musicfree.catcat.work/" MusicFree
     "https://github.com/jgraph/drawio" draw.io流程图
     "https://github.com/Hiram-Wong/ZyPlayer/releases" ZyPlayer
+    "https://www.runningcheese.com/firefox" 奔跑中的奶酪
 ## 浏览器扩展包下载
     "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home/" Edge 加载项
     "https://www.crxsoso.com/" Crx搜搜

@@ -398,9 +398,11 @@
     "https://colorhunt.co/" Color Hunt
     "https://www.radix-ui.com/colors" Radix Colors
 ## 部署的系统
-    "https://ukrd.synology.me:5001/" 悠阔251外网服务器l
-    "http://211.159.168.84:7474/browser/" 知识图谱课题
+    "https://ukrd.synology.me:5001/" 悠阔251外网服务器
     "http://122.9.65.95:81/" 悠阔OA
+    "\\10.10.1.210" CSG合肥内网服务器
+    "oa.csg.com.cn:8089" 科大智能OA系统
+    "http://211.159.168.84:7474/browser/" 知识图谱课题
     "http://nxpc.fw-ant.com/#/index" 能效智控智慧节能管理平台
     "http://ems.acrelcloud.cn/PVWEB/InverterMonitor" 光伏运维云平台
     "https://modao.cc/app/KaOebrUTr8bhhcGdJTitk#screen=sl0f31m0fmerlx7" 象鼻岭PC端

@@ -14,26 +14,26 @@
     "https://ecp.sgcc.com.cn/ecp2.0/portal/#/list/list-spe/2018032600289606_1_2018032700291334" 国网电商
     "https://www.bidding.csg.cn/zbcg/index.jhtml" 南网供应链
     "https://std.samr.gov.cn/" 全国标准信息公共服务平台
+    "https://openstd.samr.gov.cn/bzgk/gb/" 国家标准全文公开
     "http://www.bzfxw.com/biaozhun.html" 标准规范免费下载网
-    "http://www.upbz.net/StandardInfo.htm" UPBZ免费标准下载网
+    "http://www.upbz.net/" UPBZ免费标准下载网
     "https://www.biaozhun.org/" 标准网
     "http://www.bzmfxz.com/" 建筑工程资料范本
     "http://www.bzxzk.net/" 标准下载库
     "http://www.bzko.com/" 标准库
     "http://gb99.cn/" 国标久久
-    "http://chadoc.com/" 茶豆文库
     "http://worksatlas.com/#/index" 工程随身宝
     "https://www.wdfxw.net/" WDFXW文档分享网
-    "https://scjgj.beijing.gov.cn/cxfw/" 查询服务_北京市市场监督管理局
-    "https://openstd.samr.gov.cn/bzgk/gb/" 国家标准全文公开
     "http://www.csres.com/" 查标准上工标网
     "http://www.standardcn.com/" 欢迎光临标准网
     "https://www.cssn.net.cn/cssn/index" 中国标准服务网
-    "https://bz.zjamr.zj.gov.cn/" 浙江标准在线
+    "https://zlzx.zjamr.zj.gov.cn/bzzx/" 浙江标准在线
     "http://www.bzton.com/" 标准通
-    "http://www.rainsome.cn/" 标准百事通
     "http://app.weboos.com/updateLog.shtml" 标准百事通
     "https://www.kqqw.com/" 库七七
+    "https://www.guifan.net/" 规范网
+    "https://www.wendang.net/" 文档网
+    "https://www.zhulouren.com/" 筑楼人
 ## 视频学习网站
     "https://basic.smartedu.cn/" 国家中小学智慧教育平台
     "http://le.ouchn.cn/home" 终身教育平台

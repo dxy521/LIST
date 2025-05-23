@@ -402,6 +402,7 @@
     "http://122.9.65.95:81/" 悠阔OA
     "\\10.10.1.210" CSG合肥内网服务器
     "oa.csg.com.cn:8089" 科大智能OA系统
+    "47.101.166.119:60100" SCU知识库系统
     "http://211.159.168.84:7474/browser/" 知识图谱课题
     "http://nxpc.fw-ant.com/#/index" 能效智控智慧节能管理平台
     "http://ems.acrelcloud.cn/PVWEB/InverterMonitor" 光伏运维云平台

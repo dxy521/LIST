@@ -15,6 +15,11 @@
     "https://www.bidding.csg.cn/zbcg/index.jhtml" 南网供应链
     "https://std.samr.gov.cn/" 全国标准信息公共服务平台
     "https://openstd.samr.gov.cn/bzgk/gb/" 国家标准全文公开
+    "https://dbba.sacinfo.org.cn/" 地方标准信息服务平台
+    "https://hbba.sacinfo.org.cn/" 行业标准信息服务平台
+    "https://www.cnsis.org.cn/" 上海市质量和标准化研究院
+    "https://zlzx.zjamr.zj.gov.cn/bzzx/" 浙江标准在线
+    "https://www.cssn.net.cn/cssn/index" 中国标准服务网
     "http://www.bzfxw.com/biaozhun.html" 标准规范免费下载网
     "http://www.upbz.net/" UPBZ免费标准下载网
     "https://www.biaozhun.org/" 标准网
@@ -26,8 +31,8 @@
     "https://www.wdfxw.net/" WDFXW文档分享网
     "http://www.csres.com/" 查标准上工标网
     "http://www.standardcn.com/" 欢迎光临标准网
-    "https://www.cssn.net.cn/cssn/index" 中国标准服务网
-    "https://zlzx.zjamr.zj.gov.cn/bzzx/" 浙江标准在线
+    "https://www.bzxz.net/" 标准下载网
+    "https://www.11bz.com/" 标准网
     "http://www.bzton.com/" 标准通
     "http://app.weboos.com/updateLog.shtml" 标准百事通
     "https://www.kqqw.com/" 库七七

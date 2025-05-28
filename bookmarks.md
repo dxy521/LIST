@@ -239,16 +239,20 @@
     "www.ziyuanshare.cc/?p=40" 小q轻创日记
 ## 远程工具下载
     "https://www.todesk.com/" ToDesk
-    "https://anydesk.com/zhs" AnyDesk
     "https://sunlogin.oray.com/" 向日葵
+    "https://uuyc.163.com/" 网易UU远程（原GameViewer远程）
+    "https://anydesk.com/zhs" AnyDesk
+    "https://www.teamviewer.cn/cn/" TeamViewer
     "https://github.com/rustdesk/rustdesk-server/releases" Releases · rustdesk/rustdesk-server
     "https://github.com/rustdesk/rustdesk/releases" Releases · rustdesk/rustdesk
+    "https://www.hoptodesk.com/cn" HopToDesk
     "https://deeplink.cloud/" DeepLink
+    "https://www.asklink.com/" 连连控
+    "https://www.os-os.com/" 无界趣连
     "https://www.raylink.live/" RayLink
     "https://www.realvnc.com/en/connect/download/viewer/" VNC® Connect
     "https://1remote.org/zh-cn/" 1Remote
     "https://gitee.com/mirrors/FreeRDP" FreeRDP
-    "https://www.hoptodesk.com/cn" HopToDesk
     "https://guacamole.apache.org/" Apache Guacamole™
     "https://apps.kde.org/zh-cn/" KDE 应用程序
     "https://github.com/FreeRDP/FreeRDP/" GitHub - FreeRDP/FreeRDP
@@ -257,12 +261,8 @@
     "https://www.remmina.org/" Remmina
     "https://github.com/amidaware/tacticalrmm" GitHub - amidaware/tacticalrmm
     "https://github.com/TigerVNC/tigervnc" GitHub - TigerVNC/tigervnc
-    "https://www.teamviewer.cn/cn/" TeamViewer
     "https://wiki.x2go.org/doku.php" X2Go
-    "https://gv.163.com/" GameViewer远程
-    "https://www.asklink.com/" 连连控
     "https://github.com/luckjiawei/frpc-desktop" luckjiawei/frpc-desktop: frp跨平台桌面客户端
-    "https://uuyc.163.com/" 网易UU远程（原GameViewer远程）
 ## 壁纸下载
     "https://bz.zzzmh.cn/" 极简壁纸
     "https://qingbizhi.com/" 轻壁纸

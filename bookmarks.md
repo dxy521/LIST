@@ -245,6 +245,7 @@
     "https://www.teamviewer.cn/cn/" TeamViewer
     "https://github.com/rustdesk/rustdesk-server/releases" Releases · rustdesk/rustdesk-server
     "https://github.com/rustdesk/rustdesk/releases" Releases · rustdesk/rustdesk
+    "https://gitcode.com/gh_mirrors/bi/billd-desk &  https://github.com/galaxy-s10/billd-desk" billd-desk
     "https://www.hoptodesk.com/cn" HopToDesk
     "https://deeplink.cloud/" DeepLink
     "https://www.asklink.com/" 连连控

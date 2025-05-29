@@ -79,14 +79,15 @@
     "https://m.mynj.cn:11097/commlogin/" 南京市网上公共服务平台
     "http://gjj.nanjing.gov.cn/wsbsdt/" 南京住房公积金管理中心
 ## 国内AI大模型对话  
+    "https://chat.deepseek.com/" DeepSeek
     "https://tongyi.aliyun.com/qianwen/ 通义千问
-    "https://chat.qwen.ai/" Qwen2.5 
+    "https://chat.qwen.ai/" Qwen2.5
     "https://www.doubao.com/chat/" 豆包
+    "https://kimi.moonshot.cn/" Kimi
     "https://yiyan.baidu.com/" 文心一言
     "https://yuanbao.tencent.com/chat" 腾讯元宝
     "https://xinghuo.xfyun.cn/" 讯飞星火
-    "https://chat.deepseek.com/" DeepSeek
-    "https://kimi.moonshot.cn/" Kimi
+    "https://www.tiangong.cn/" 天工AI
     "https://xiaoyi.huawei.com/chat/" 华为小艺
     "https://chatglm.cn/main/guest?lang=zh" 智谱清言    
     "https://hailuoai.com/" 海螺AI 
@@ -98,20 +99,20 @@
     "https://udify.app/chat/6ufeJOm56J9ZoMT6" DeepGemini
 ## AI智能体平台
     "https://www.coze.cn/" 扣子
-    "https://agents.baidu.com/center" 文心智能体平台AgentBuilder
+    "https://agents.baidu.com/center" 文心智能体平台
     "https://yuanqi.tencent.com/agent-shop" 腾讯元器
     "https://manus.monica.cn/" Manus 中文版
     "https://tbox.alipay.com/pro-about" 支付宝百宝箱
-    "https://dify.ai/zh" Dify.AI · 生成式 AI 应用创新引擎
+    "https://dify.ai/zh" Dify.AI
     "https://chatboxai.app/zh" Chatbox AI
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
-    "https://www.tiangong.cn/" 天工AI搜索
     "https://www.n.cn/ & https://so.n.cn/" 纳米AI搜索
     "https://chat.baidu.com/search" 百度AI搜索
+    "https://ai.quark.cn/" 夸克
     "https://zhida.zhihu.com/" 知乎直答
     "https://so.csdn.net/chat" C知道
-    "https://aisearch.qq.com" DeepSeek模型-QQ浏览器专线版
+    "https://aisearch.qq.com" QQ浏览器专线版
     "https://iask.ai/" iAsk.Ai
     "https://search.lepton.run/" Lepton Search
     "https://www.phind.com/" Phind

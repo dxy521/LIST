@@ -78,7 +78,7 @@
     "https://rs.jshrss.jiangsu.gov.cn/web/login" 江苏人社网办大厅
     "https://m.mynj.cn:11097/commlogin/" 南京市网上公共服务平台
     "http://gjj.nanjing.gov.cn/wsbsdt/" 南京住房公积金管理中心
-## 国内AI大模型对话  
+## AI对话  
     "https://chat.deepseek.com/" DeepSeek
     "https://tongyi.aliyun.com/qianwen/ 通义千问
     "https://chat.qwen.ai/" Qwen2.5
@@ -97,14 +97,6 @@
     "https://www.scnet.cn/ui/chatbot/" 国家超算平台SCNet人工智能助手
     "https://monica.cn/home/chat/Monica/monica" Monica
     "https://udify.app/chat/6ufeJOm56J9ZoMT6" DeepGemini
-## AI智能体平台
-    "https://www.coze.cn/" 扣子
-    "https://agents.baidu.com/center" 文心智能体平台
-    "https://yuanqi.tencent.com/agent-shop" 腾讯元器
-    "https://manus.monica.cn/" Manus 中文版
-    "https://tbox.alipay.com/pro-about" 支付宝百宝箱
-    "https://dify.ai/zh" Dify.AI
-    "https://chatboxai.app/zh" Chatbox AI
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
     "https://www.n.cn/ & https://so.n.cn/" 纳米AI搜索
@@ -117,6 +109,35 @@
     "https://search.lepton.run/" Lepton Search
     "https://www.phind.com/" Phind
     "https://reddo.cloud/search_home" Reddo
+## AI智能体
+    "https://www.coze.cn/" 扣子
+    "https://agents.baidu.com/center" 文心智能体平台
+    "https://yuanqi.tencent.com/agent-shop" 腾讯元器
+    "https://manus.monica.cn/" Manus 中文版
+    "https://tbox.alipay.com/pro-about" 支付宝百宝箱
+    "https://dify.ai/zh" Dify.AI
+## AI原型
+    "https://www.figma.com/ai/" Figma AI
+    "https://modao.cc/feature/ai.html" 墨刀AI
+    "https://mastergo.com/ai" MasterGo/莫高设计AI
+    "https://jsai.cc/ai/create" 即时AI
+    "https://www.mockplus.cn/ai" 摹客AI
+## AI文档
+    "https://www.mindshow.fun/#/home" MindShow
+    "https://ppt.sankki.com/#/intro" 闪击PPT
+    "https://gezhe.com/" 歌者PPT
+    "https://www.aippt.cn/" AiPPT
+    "https://www.pm-ai.cn/" PMAI—产品经理的AI助手
+## AI视频
+    "https://jimeng.jianying.com/ai-tool/home" 即梦AI
+    "https://klingai.kuaishou.com/" 可灵AI
+    "https://zenvideo.qq.com/" 腾讯智影
+    "https://tongyi.aliyun.com/wanxiang/" 通义万相
+    "https://chatglm.cn/main/alltoolsdetail?redirect=/video&lang=zh" 智谱清影
+    "https://typemovie.art/#/dashboard" 讯飞绘镜
+    "https://aigc.baidu.com/home" 度加创作工具
+    "https://hailuoai.com/video" 海螺视频
+    "https://yuewen.cn/videos" 跃问视频
 ## 聚合AI
     "http://124.220.104.235/web/chatgpt" 公益chatgpt导航            
     "https://liaobots.work/" Liaobots UI
@@ -131,31 +152,7 @@
     "https://www.opkfc.com/list" 数字玩家-免费共享的GPT4镜像
     "https://home.cutim.top/" GPT公益站导航页面
     "https://heck.ai/zh" Heck.ai免费的ChatGPT联网AI搜索引擎
-## AI视频
-    "https://jimeng.jianying.com/ai-tool/home" 即梦AI
-    "https://klingai.kuaishou.com/" 可灵AI
-    "https://zenvideo.qq.com/" 腾讯智影
-    "https://tongyi.aliyun.com/wanxiang/" 通义万相
-    "https://chatglm.cn/main/alltoolsdetail?redirect=/video&lang=zh" 智谱清影
-    "https://typemovie.art/#/dashboard" 讯飞绘镜
-    "https://aigc.baidu.com/home" 度加创作工具
-    "https://hailuoai.com/video" 海螺视频
-    "https://yuewen.cn/videos" 跃问视频
-## AI原型图
-    "https://www.figma.com/ai/" Figma AI
-    "https://modao.cc/feature/ai.html" 墨刀AI
-    "https://mastergo.com/ai" MasterGo/莫高设计AI
-    "https://jsai.cc/ai/create" 即时AI
-    "https://www.mockplus.cn/ai" 摹客AI
-## 功能性AI
-    "https://www.mindshow.fun/#/home" MindShow
-    "https://ppt.sankki.com/#/intro" 闪击PPT
-    "https://gezhe.com/" 歌者PPT
-    "https://www.aippt.cn/" AiPPT
-    "https://www.pm-ai.cn/" PMAI—产品经理的AI助手
-    "https://ai.sohu.com/pc/home" 简单AI-AI绘图
-    "https://raphael.app/zh" Raphael AI-免费无限制 AI 图像生成器
-## AI网站导航
+## AI导航
     "https://openi.cn/" OpenI - AI时代
     "https://www.faxianai.com/" 发现AI
     "https://designnotes.cn/" Design Notes
@@ -425,10 +422,11 @@
     4必应    https://www4.bing.com/search?q=%s
     Yandex搜索    https://yandex.com/search/?text=%s
     头条搜索    https://so.toutiao.com/search?dvpf=pc&keyword=%s
-    夸克搜索    https://quark.sm.cn/s?q=%s
-    神马搜索    https://m.sm.cn/s?q=%s
     360搜索    https://www.so.com/s?q=%s
     搜狗搜索    https://www.sogou.com/web?query=%s
+    微信搜索    https://weixin.sogou.com/weixin?type=2&query=%s
+    夸克搜索    https://quark.sm.cn/s?q=%s
+    神马搜索    https://m.sm.cn/s?q=%s
     Backdata搜索    https://backdata.net/search.html?q=%s
     中国搜索    http://www.chinaso.com/newssearch/all/allResults?q=%s
     聚合搜索    http://www.17so.cn/

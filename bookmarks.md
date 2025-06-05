@@ -83,20 +83,18 @@
     "https://tongyi.aliyun.com/qianwen/ 通义千问
     "https://chat.qwen.ai/" Qwen2.5
     "https://www.doubao.com/chat/" 豆包
-    "https://kimi.moonshot.cn/" Kimi
     "https://yiyan.baidu.com/" 文心一言
-    "https://yuanbao.tencent.com/chat" 腾讯元宝
-    "https://xinghuo.xfyun.cn/" 讯飞星火
-    "https://www.tiangong.cn/" 天工AI
+    "https://yuanbao.tencent.com/chat" 腾讯元宝 
+    "https://kimi.moonshot.cn/" Kimi
+    "https://chatglm.cn/main/alltoolsdetail?lang=zh" 智谱清言
+    "https://yuewen.cn/chats/new" 阶跃AI
     "https://xiaoyi.huawei.com/chat/" 华为小艺
-    "https://chatglm.cn/main/guest?lang=zh" 智谱清言    
-    "https://hailuoai.com/" 海螺AI 
-    "https://www.wenxiaobai.com/chat/" 问小白
-    "https://yuewen.cn/chats/new" 跃问
+    "https://www.wenxiaobai.com/" 问小白
+    "https://chat.minimaxi.com/" MiniMax
     "https://bot.n.cn/" 纳米AI
-    "https://www.scnet.cn/ui/chatbot/" 国家超算平台SCNet人工智能助手
+    "https://www.tiangong.cn/" 天工AI
+    "https://xinghuo.xfyun.cn/" 讯飞星火
     "https://monica.cn/home/chat/Monica/monica" Monica
-    "https://udify.app/chat/6ufeJOm56J9ZoMT6" DeepGemini
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
     "https://www.n.cn/ & https://so.n.cn/" 纳米AI搜索
@@ -113,9 +111,17 @@
     "https://www.coze.cn/" 扣子
     "https://agents.baidu.com/center" 文心智能体平台
     "https://yuanqi.tencent.com/agent-shop" 腾讯元器
+    "https://tbox.alipay.com/about" 支付宝百宝箱
     "https://manus.monica.cn/" Manus 中文版
-    "https://tbox.alipay.com/pro-about" 支付宝百宝箱
-    "https://dify.ai/zh" Dify.AI
+## AI视频
+    "https://jimeng.jianying.com/ai-tool/home" 即梦AI
+    "https://klingai.kuaishou.com/" 可灵AI
+    "https://zenvideo.qq.com/" 腾讯智影
+    "https://tongyi.aliyun.com/wanxiang/" 通义万相
+    "https://aigc.baidu.com/home" 度加创作工具
+    "https://hailuoai.com/" 海螺视频
+    "https://yuewen.cn/videos" 跃问视频
+    "https://typemovie.art/#/dashboard" 讯飞绘镜
 ## AI原型
     "https://www.figma.com/ai/" Figma AI
     "https://modao.cc/feature/ai.html" 墨刀AI
@@ -128,45 +134,24 @@
     "https://gezhe.com/" 歌者PPT
     "https://www.aippt.cn/" AiPPT
     "https://www.pm-ai.cn/" PMAI—产品经理的AI助手
-## AI视频
-    "https://jimeng.jianying.com/ai-tool/home" 即梦AI
-    "https://klingai.kuaishou.com/" 可灵AI
-    "https://zenvideo.qq.com/" 腾讯智影
-    "https://tongyi.aliyun.com/wanxiang/" 通义万相
-    "https://chatglm.cn/main/alltoolsdetail?redirect=/video&lang=zh" 智谱清影
-    "https://typemovie.art/#/dashboard" 讯飞绘镜
-    "https://aigc.baidu.com/home" 度加创作工具
-    "https://hailuoai.com/video" 海螺视频
-    "https://yuewen.cn/videos" 跃问视频
-## 聚合AI
+## 第三方聚合AI
+    "https://www.scnet.cn/ui/chatbot/" 国家超算平台
+    "https://ai.dangbei.com/chat" 当贝AI
     "http://124.220.104.235/web/chatgpt" 公益chatgpt导航            
-    "https://liaobots.work/" Liaobots UI
-    "https://freegpt.tech/" 智能AI聊天
     "https://codenews.cc/chatgpt" CodeNews
-    "https://github.com/ai-shifu/ChatALL" ai-shifu/ChatALL
     "https://botgroup.chat/" AI机器人群聊
     "https://www.giz.ai/" GizAI
-    "https://ai.dangbei.com/chat" 当贝AI
-    "https://www.blackbox.ai/" BLACKBOX.AI
     "https://qwq.aigpu.cn/" Free QWQ-免费分布式AI算力平台
-    "https://www.opkfc.com/list" 数字玩家-免费共享的GPT4镜像
-    "https://home.cutim.top/" GPT公益站导航页面
-    "https://heck.ai/zh" Heck.ai免费的ChatGPT联网AI搜索引擎
 ## AI导航
     "https://openi.cn/" OpenI - AI时代
     "https://www.faxianai.com/" 发现AI
-    "https://designnotes.cn/" Design Notes
     "https://ai.hao.360.com" 360AI导航
     "https://ai-bot.cn/" AI工具集导航
     "https://www.aigc.cn/" AIGC工具导航
     "https://feizhuke.com/" 非猪ai导航
-    "https://hao.shenyecg.com/AI" AI导航
     "http://www.ainav.cn/" AI导航网
     "https://www.tudingai.com/" 图钉AI导航网
     "https://www.yjpoo.com/" 映技派
-    "https://www.aiwht.com/" AI万花筒
-    "https://www.amz123.com/ai" AMZ123跨境导航
-    "https://hao.uisdc.com/ai/" 优设AI导航
     "https://www.aihub.cn/" AIHub
     "https://www.aiyjs.com/" AI研究所
 ## 实用软件开源地址

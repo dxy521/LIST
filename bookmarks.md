@@ -81,7 +81,7 @@
 ## AI对话  
     "https://chat.deepseek.com/" DeepSeek
     "https://tongyi.aliyun.com/qianwen/ 通义千问
-    "https://chat.qwen.ai/" Qwen2.5
+    "https://chat.qwen.ai/" Qwen
     "https://www.doubao.com/chat/" 豆包
     "https://yiyan.baidu.com/" 文心一言
     "https://yuanbao.tencent.com/chat" 腾讯元宝 
@@ -156,19 +156,22 @@
     "https://www.aiyjs.com/" AI研究所
 ## 实用软件开源地址
     "https://gitee.com/yearstrong/xtu" xtu: 物联网化的配电终端模型库与协议库
-    "https://gitee.com/wanglifree/tianruoocr-cl" tianruoocr-cl: 天若ocr开源版本的本地版
-    "https://github.com/hiroi-sora/Umi-OCR" hiroi-sora/Umi-OCR: OCR图片转文字识别软件
-    "https://github.com/sunhanaix/dedup_files" sunhanaix/dedup_files: 文件去重
+    "https://gitee.com/wanglifree/tianruoocr-cl" 天若ocr开源版本的本地版
+    "https://github.com/hiroi-sora/Umi-OCR" Umi-OCR图片转文字识别软件
+    "https://github.com/sunhanaix/dedup_files" 文件去重
     "https://github.com/fork-maintainers/iceraven-browser" iceraven-browser
     "https://github.com/robotze/GithubDesktopZhTool" GithubDesktopZhTool
     "https://github.com/ant-design/ant-design/releases/resource/" ant-design
-    "https://gitee.com/bosenger" bosenger (bosenger) - Gitee.com
+    "https://gitee.com/bosenger" bosenger
     "https://lxmusic.toside.cn/download" LX Music
     "https://musicfree.catcat.work/" MusicFree
     "https://github.com/jgraph/drawio" draw.io流程图
     "https://github.com/Hiram-Wong/ZyPlayer/releases" ZyPlayer
     "https://www.runningcheese.com/firefox" 奔跑中的奶酪
 ## 浏览器扩展包下载
+    "https://www.centbrowser.cn/" 百分浏览器
+    "https://www.catsxp.com/" 猫眼浏览器
+    "https://win32subsystem.live/supermium/" Supermium Web Browser
     "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home/" Edge 加载项
     "https://www.crxsoso.com/" Crx搜搜
     "https://chrome.zzzmh.cn/index" 极简插件
@@ -182,8 +185,7 @@
     "https://sleazyfork.org/zh-CN/" Sleazy Fork
     "https://scriptcat.org/zh-CN/" ScriptCat
     "https://soujiaoben.org/#/" 搜脚本加速站-全网搜脚本
-    "https://gfork.dahi.icu/" GFork | GreasyFork 脚本加速镜像站 - Dahi
-    "https://greasyfork.zh-cn.eu.org/" GFork | GreasyFork镜像站
+    "https://home.greasyfork.org.cn/zh-hans" GreasyFork代理加速脚本下载工具站
 ## 开源阅读app书源分享
     "https://github.com/Huibq/keep-alive" 洛雪音乐音源、MusicFree音源
     "https://github.com/lyswhut/lx-music-desktop/issues/5" 音乐无法加载的问题
@@ -223,7 +225,7 @@
 ## 远程工具下载
     "https://www.todesk.com/" ToDesk
     "https://sunlogin.oray.com/" 向日葵
-    "https://uuyc.163.com/" 网易UU远程（原GameViewer远程）
+    "https://uuyc.163.com/" 网易UU远程
     "https://anydesk.com/zhs" AnyDesk
     "https://www.teamviewer.cn/cn/" TeamViewer
     "https://github.com/rustdesk/rustdesk-server/releases" Releases · rustdesk/rustdesk-server
@@ -415,4 +417,3 @@
     Backdata搜索    https://backdata.net/search.html?q=%s
     中国搜索    http://www.chinaso.com/newssearch/all/allResults?q=%s
     聚合搜索    http://www.17so.cn/
-    

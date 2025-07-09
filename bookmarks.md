@@ -389,10 +389,11 @@
     "https://colorhunt.co/" Color Hunt
     "https://www.radix-ui.com/colors" Radix Colors
 ## 部署的系统
-    "https://ukrd.synology.me:5001/" 悠阔251外网服务器
-    "http://122.9.65.95:81/" 悠阔OA
     "\\10.10.1.210" CSG合肥内网服务器
-    "oa.csg.com.cn:8089" 科大智能OA系统
+    "http://oa.csg.com.cn:8089/" 科大智能OA系统
+    "http://pdm.csgpower.com.cn:8399/index" CSG项目管理平台（差旅报销用）
+    "http://220.180.239.202:10144/damx/statics/#/home" CSG配自主站
+    "https://ukrd.synology.me:5001/" 悠阔251外网服务器
     "47.101.166.119:60100" SCU知识库系统
     "http://211.159.168.84:7474/browser/" 知识图谱课题
     "http://nxpc.fw-ant.com/#/index" 能效智控智慧节能管理平台
@@ -404,16 +405,16 @@
     纳米AI搜索    https://www.n.cn/search?q=%s
     秘塔AI搜索    https://metaso.cn/?q=%s
     Reddo        https://reddo.cloud/search?q=%s
-    百度搜索    https://www.baidu.com/s?wd=%s
-    必应搜索    https://cn.bing.com/search?q=%s
-    4必应    https://www4.bing.com/search?q=%s
+    百度搜索      https://www.baidu.com/s?wd=%s
+    必应搜索      https://cn.bing.com/search?q=%s
+    4必应         https://www4.bing.com/search?q=%s
     Yandex搜索    https://yandex.com/search/?text=%s
-    头条搜索    https://so.toutiao.com/search?dvpf=pc&keyword=%s
-    360搜索    https://www.so.com/s?q=%s
-    搜狗搜索    https://www.sogou.com/web?query=%s
-    微信搜索    https://weixin.sogou.com/weixin?type=2&query=%s
-    夸克搜索    https://quark.sm.cn/s?q=%s
-    神马搜索    https://m.sm.cn/s?q=%s
+    头条搜索      https://so.toutiao.com/search?dvpf=pc&keyword=%s
+    360搜索       https://www.so.com/s?q=%s
+    搜狗搜索      https://www.sogou.com/web?query=%s
+    微信搜索      https://weixin.sogou.com/weixin?type=2&query=%s
+    夸克搜索      https://quark.sm.cn/s?q=%s
+    神马搜索      https://m.sm.cn/s?q=%s
     Backdata搜索    https://backdata.net/search.html?q=%s
-    中国搜索    http://www.chinaso.com/newssearch/all/allResults?q=%s
-    聚合搜索    http://www.17so.cn/
+    中国搜索      http://www.chinaso.com/newssearch/all/allResults?q=%s
+    聚合搜索      http://www.17so.cn/

@@ -20,11 +20,12 @@
     AdGuard Base
       https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
       https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/AdGuard_Base_filter.txt
-# ublock主规则
+# cjxlist系列
+    ublock主规则
       https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
       https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
       https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
-    EasyList (反广告主规则列表)
+    EasyList (反广告主规则列表，主要面向英文网站，包含大量通用规则)
       https://easylist-downloads.adblockplus.org/easylist.txt
       https://easylist.to/easylist/easylist.txt
     EasyList Lite(反广告主规则列表的精简版)

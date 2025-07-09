@@ -1,11 +1,10 @@
 # GitHub的raw文件镜像
-      https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt 可以转化为
-    https://gcore.jsdelivr.net/gh/o0HalfLife0o/list@master/ad.txt
-    https://ghfast.top/https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
-    https://gh.llkk.cc/https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
-    https://gh-proxy.com/raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
-    https://cdn.statically.io/gh/o0HalfLife0o/list/master/ad.txt
-    https://slink.ltd/https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
+            https://raw.githubusercontent.com/dxy521/LIST/main/AdRule.txt 可以转化为
+      https://gcore.jsdelivr.net/gh/dxy521/LIST@main/AdRule.txt
+      https://ghfast.top/https://raw.githubusercontent.com/dxy521/LIST/main/AdRule.txt
+      https://gh.llkk.cc/https://raw.githubusercontent.com/dxy521/LIST/main/AdRule.txt
+      https://gh-proxy.com/raw.githubusercontent.com/dxy521/LIST/main/AdRule.txt
+      https://cdn.statically.io/gh/dxy521/LIST/main/AdRule.txt
 # AdGuard系列
     AdGuard隐私规则
       https://filters.adtidy.org/android/filters/3.txt

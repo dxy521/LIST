@@ -92,6 +92,7 @@
     "https://www.wenxiaobai.com/" 问小白
     "https://chat.minimaxi.com/" MiniMax
     "https://bot.n.cn/" 纳米AI
+    "https://cp.baidu.com/" 橙篇AI
     "https://www.tiangong.cn/" 天工AI
     "https://xinghuo.xfyun.cn/" 讯飞星火
     "https://monica.cn/home/chat/Monica/monica" Monica

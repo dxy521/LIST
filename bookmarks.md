@@ -387,6 +387,14 @@
     "http://colormind.io/" Colormind
     "https://colorhunt.co/" Color Hunt
     "https://www.radix-ui.com/colors" Radix Colors
+## 看电视
+    "https://ddys.pro/" 低端影视
+    "https://ixkw.cc/"  星空影院
+    "https://sigu.app/"  思古导航
+    "https://www.zjnav.cc/dy"  终极网址库
+    "http://www.549.tv/" 影视森林
+    "http://www.25hjw.com/hanju/vod33.html" 20韩剧网
+    "https://www.aijujitv.cc/list/9.html" 剧集TV
 ## 部署的系统
     "\\10.10.1.210" CSG合肥内网服务器
     "http://oa.csg.com.cn:8089/" 科大智能OA系统

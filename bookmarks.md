@@ -54,8 +54,6 @@
     "https://www.patent9.com/" Patent9专利在线
     "https://www.baiten.cn/" 佰腾网查专利
     "http://www.soopat.com/" SooPAT 专利搜索
-    "https://lib.cqvip.com/" 【维普期刊官网】- 中文期刊服务平台
-    "www.chinaqking.com/column-sort/news-list/search?value=配电线路行波故障测距方法与系统的研究应用" 期刊网
 ## 论文检索
     "https://scholar.xmsoushu.com/##/" 熊猫学术搜索
     "https://panda985.com/" 熊猫学术
@@ -113,7 +111,6 @@
     "https://agents.baidu.com/center" 文心智能体平台
     "https://yuanqi.tencent.com/agent-shop" 腾讯元器
     "https://tbox.alipay.com/about" 支付宝百宝箱
-    "https://manus.monica.cn/" Manus 中文版
 ## AI视频
     "https://jimeng.jianying.com/ai-tool/home" 即梦AI
     "https://klingai.kuaishou.com/" 可灵AI
@@ -187,6 +184,7 @@
     "https://scriptcat.org/zh-CN/" ScriptCat
     "https://soujiaoben.org/#/" 搜脚本加速站-全网搜脚本
     "https://home.greasyfork.org.cn/zh-hans" GreasyFork代理加速脚本下载工具站
+    "https://github.akams.cn/" Github Proxy加速
 ## 开源阅读app书源分享
     "https://github.com/Huibq/keep-alive" 洛雪音乐音源、MusicFree音源
     "https://github.com/lyswhut/lx-music-desktop/issues/5" 音乐无法加载的问题

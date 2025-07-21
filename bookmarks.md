@@ -167,7 +167,7 @@
     "https://github.com/Hiram-Wong/ZyPlayer/releases" ZyPlayer
     "https://www.runningcheese.com/firefox" 奔跑中的奶酪
 ## 浏览器扩展包下载
-    "https://www.centbrowser.cn/" 百分浏览器
+    "https://www.centbrowser.cn/ & https://static.centbrowser.com/" 百分浏览器
     "https://www.catsxp.com/" 猫眼浏览器
     "https://win32subsystem.live/supermium/" Supermium Web Browser
     "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home/" Edge 加载项

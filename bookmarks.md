@@ -48,6 +48,7 @@
 ## 知识产权官方网站
     "https://pss-system.cponline.cnipa.gov.cn/conventionalSearch" 专利检索及分析
     "https://register.ccopyright.com.cn/login.html?linkBackUrl="https://register.ccopyright.com.cn/manage.html" 软著
+    "cx.zju.edu.cn/kycgfwptweb/home" 浙大图书馆科技查新
 ## 专利论文下载
     "http://dl.cnki.net/" 电力科技创新知识服务平台
     "http://w.s99s.top/lit/"  微学术-数字资源

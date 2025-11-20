@@ -1,8 +1,8 @@
 ## 在线抠图
     "https://www.iloveimg.com/zh-cn/convert-to-jpg" 图像转JPG
+    "https://www.remove.bg/zh" remove.bg
     "https://arc.tencent.com/zh/ai-demos/faceRestoration" ARC官网
     "https://www.hama.app/" AI 图像擦除器 - hama.app
-    "https://www.remove.bg/zh" remove.bg
     "https://www.miankoutupian.com/" 免抠图片网
     "https://bgsub.cn/webapp/" BgSub
     "https://pixian.ai/" Pixian.AI
@@ -79,22 +79,22 @@
     "http://gjj.nanjing.gov.cn/wsbsdt/" 南京住房公积金管理中心
 ## AI对话  
     "https://chat.deepseek.com/" DeepSeek
-    "https://tongyi.aliyun.com/qianwen/ 通义千问
+    "https://www.tongyi.com/" 通义千问
     "https://chat.qwen.ai/" Qwen
     "https://www.doubao.com/chat/" 豆包
     "https://yiyan.baidu.com/" 文心一言
+    "https://cp.baidu.com/" 橙篇AI
     "https://yuanbao.tencent.com/chat" 腾讯元宝 
-    "https://kimi.moonshot.cn/" Kimi
-    "https://chatglm.cn/main/alltoolsdetail?lang=zh" 智谱清言
-    "https://yuewen.cn/chats/new" 阶跃AI
+    "https://www.kimi.com/" Kimi
+    "https://chatglm.cn" 智谱清言
+    "https://www.stepfun.com/" 阶跃AI
     "https://xiaoyi.huawei.com/chat/" 华为小艺
     "https://www.wenxiaobai.com/" 问小白
-    "https://chat.minimaxi.com/" MiniMax
+    "https://agent.minimaxi.com/" MiniMax
     "https://bot.n.cn/" 纳米AI
-    "https://cp.baidu.com/" 橙篇AI
     "https://www.tiangong.cn/" 天工AI
     "https://xinghuo.xfyun.cn/" 讯飞星火
-    "https://monica.cn/home/chat/Monica/monica" Monica
+    "https://monica.cn" Monica
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
     "https://www.n.cn/ & https://so.n.cn/" 纳米AI搜索

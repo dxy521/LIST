@@ -92,21 +92,16 @@
     "https://www.wenxiaobai.com/" 问小白
     "https://www.stepfun.com/" 阶跃AI
     "https://xiaoyi.huawei.com/chat/" 华为小艺
-    "https://bot.n.cn/" 纳米AI
-    "https://www.tiangong.cn/" 天工AI
-    "https://monica.cn" Monica
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
-    "https://www.n.cn/ & https://so.n.cn/" 纳米AI搜索
+    "https://www.n.cn/ & https://so.n.cn/ & https://bot.n.cn/" 纳米AI搜索
     "https://chat.baidu.com/search" 百度AI搜索
     "https://ai.quark.cn/" 夸克
     "https://zhida.zhihu.com/" 知乎直答
     "https://so.csdn.net/chat" C知道
     "https://aisearch.qq.com" QQ浏览器专线版
-    "https://iask.ai/" iAsk.Ai
-    "https://search.lepton.run/" Lepton Search
-    "https://www.phind.com/" Phind
-    "https://reddo.cloud/search_home" Reddo
+    "https://www.tiangong.cn/" 天工AI
+    "https://monica.cn" Monica
 ## AI智能体
     "https://www.coze.cn/" 扣子
     "https://agents.baidu.com/center" 文心智能体平台
@@ -144,15 +139,10 @@
 ## AI导航
     "https://openi.cn/" OpenI - AI时代
     "https://www.faxianai.com/" 发现AI
-    "https://ai.hao.360.com" 360AI导航
     "https://ai-bot.cn/" AI工具集导航
     "https://www.aigc.cn/" AIGC工具导航
     "https://feizhuke.com/" 非猪ai导航
-    "http://www.ainav.cn/" AI导航网
     "https://www.tudingai.com/" 图钉AI导航网
-    "https://www.yjpoo.com/" 映技派
-    "https://www.aihub.cn/" AIHub
-    "https://www.aiyjs.com/" AI研究所
 ## 实用软件开源地址
     "https://gitee.com/yearstrong/xtu" xtu: 物联网化的配电终端模型库与协议库
     "https://gitee.com/wanglifree/tianruoocr-cl" 天若ocr开源版本的本地版

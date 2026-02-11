@@ -242,6 +242,12 @@
 ## 壁纸下载
     "https://bz.zzzmh.cn/" 极简壁纸
     "https://qingbizhi.com/" 轻壁纸
+## 免费PPT模板下载
+    "https://www.pptsupermarket.com/" PPT超级市场官网
+    "https://www.pptmianfei.com/" PPT免费网
+    "https://www.51pptmoban.com/" 51PPT模板网
+    "https://www.ypppt.com/" 优品PPT
+    "https://www.1ppt.com/" 第一PPT
 ## 文件翻译
     "https://yi.qq.com/zh-CN/index" 腾讯交互翻译TranSmart
     "https://www.onlinedoctranslator.com/" 在线文档翻译器

@@ -84,14 +84,14 @@
     "https://www.doubao.com/chat/" 豆包
     "https://www.kimi.com/" Kimi
     "https://chatglm.cn" 智谱清言
-    "https://agent.minimaxi.com/" MiniMax
     "https://yiyan.baidu.com/" 文心一言
     "https://cp.baidu.com/" 橙篇AI
     "https://yuanbao.tencent.com/chat" 腾讯元宝 
     "https://xinghuo.xfyun.cn/" 讯飞星火
+    "https://xiaoyi.huawei.com/chat/" 华为小艺
+    "https://agent.minimaxi.com/" MiniMax
     "https://www.wenxiaobai.com/" 问小白
     "https://www.stepfun.com/" 阶跃AI
-    "https://xiaoyi.huawei.com/chat/" 华为小艺
     "https://monica.cn" Monica
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索

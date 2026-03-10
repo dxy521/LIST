@@ -79,7 +79,7 @@
     "http://gjj.nanjing.gov.cn/wsbsdt/" 南京住房公积金管理中心
 ## AI对话  
     "https://chat.deepseek.com/" DeepSeek
-    "https://www.tongyi.com/" 通义千问
+    "https://www.qianwen.com/" 千问
     "https://chat.qwen.ai/" Qwen
     "https://www.doubao.com/chat/" 豆包
     "https://www.kimi.com/" Kimi
@@ -92,6 +92,7 @@
     "https://www.wenxiaobai.com/" 问小白
     "https://www.stepfun.com/" 阶跃AI
     "https://xiaoyi.huawei.com/chat/" 华为小艺
+    "https://monica.cn" Monica
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
     "https://www.n.cn/ & https://so.n.cn/ & https://bot.n.cn/" 纳米AI搜索
@@ -101,12 +102,10 @@
     "https://so.csdn.net/chat" C知道
     "https://aisearch.qq.com" QQ浏览器专线版
     "https://www.tiangong.cn/" 天工AI
-    "https://monica.cn" Monica
 ## AI智能体
     "https://www.coze.cn/" 扣子
     "https://agents.baidu.com/center" 文心智能体平台
     "https://yuanqi.tencent.com/agent-shop" 腾讯元器
-    "https://tbox.alipay.com/about" 支付宝百宝箱
 ## AI视频
     "https://jimeng.jianying.com/ai-tool/home" 即梦AI
     "https://klingai.kuaishou.com/" 可灵AI

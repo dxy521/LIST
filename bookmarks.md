@@ -87,6 +87,7 @@
     "https://chat.z.ai/" 智谱AI
     "https://agent.minimaxi.com/" MiniMax
     "https://yiyan.baidu.com/" 文心一言
+    "https://wenxin.baidu.com/" 文心
     "https://cp.baidu.com/" 橙篇AI
     "https://yuanbao.tencent.com/chat" 腾讯元宝
     "https://xinghuo.xfyun.cn/" 讯飞星火

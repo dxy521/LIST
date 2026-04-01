@@ -87,54 +87,36 @@
     "https://chat.z.ai/" 智谱AI
     "https://agent.minimaxi.com/" MiniMax
     "https://yiyan.baidu.com/" 文心一言
-    "https://wenxin.baidu.com/" 文心
+    "https://chat.baidu.com/" 百度文心助手
     "https://cp.baidu.com/" 橙篇AI
     "https://yuanbao.tencent.com/chat" 腾讯元宝
     "https://xinghuo.xfyun.cn/" 讯飞星火
     "https://xiaoyi.huawei.com/chat/" 华为小艺
+    "https://www.tiangong.cn/" 天工AI
     "https://www.wenxiaobai.com/" 问小白
     "https://www.stepfun.com/" 阶跃AI
 ## AI搜索
     "https://metaso.cn/" 秘塔AI搜索
     "https://www.n.cn/ & https://so.n.cn/ & https://bot.n.cn/" 纳米AI搜索
-    "https://chat.baidu.com/search" 百度AI搜索
-    "https://ai.quark.cn/" 夸克
     "https://zhida.zhihu.com/" 知乎直答
     "https://so.csdn.net/chat" C知道
-    "https://aisearch.qq.com" QQ浏览器专线版
-    "https://www.tiangong.cn/" 天工AI
 ## AI智能体
     "https://www.coze.cn/" 扣子
     "https://agents.baidu.com/center" 文心智能体平台
     "https://yuanqi.tencent.com/agent-shop" 腾讯元器
 ## AI视频
-    "https://jimeng.jianying.com/ai-tool/home" 即梦AI
+    "https://jimeng.jianying.com/" 即梦AI
     "https://klingai.kuaishou.com/" 可灵AI
-    "https://zenvideo.qq.com/" 腾讯智影
-    "https://tongyi.aliyun.com/wanxiang/" 通义万相
-    "https://aigc.baidu.com/home" 度加创作工具
-    "https://hailuoai.com/" 海螺视频
-    "https://yuewen.cn/videos" 跃问视频
-    "https://typemovie.art/#/dashboard" 讯飞绘镜
 ## AI原型
     "https://www.figma.com/ai/" Figma AI
     "https://modao.cc/feature/ai.html" 墨刀AI
     "https://mastergo.com/ai" MasterGo/莫高设计AI
     "https://jsai.cc/ai/create" 即时AI
     "https://www.mockplus.cn/ai" 摹客AI
-## AI文档
-    "https://www.mindshow.fun/#/home" MindShow
-    "https://ppt.sankki.com/#/intro" 闪击PPT
-    "https://gezhe.com/" 歌者PPT
-    "https://www.aippt.cn/" AiPPT
-    "https://www.pm-ai.cn/" PMAI—产品经理的AI助手
 ## 第三方聚合AI
-    "https://www.scnet.cn/ui/chatbot/" 国家超算平台
     "https://ai.dangbei.com/chat" 当贝AI
     "http://124.220.104.235/web/chatgpt" 公益chatgpt导航            
     "https://codenews.cc/chatgpt" CodeNews
-    "https://botgroup.chat/" AI机器人群聊
-    "https://www.giz.ai/" GizAI
     "https://qwq.aigpu.cn/" Free QWQ-免费分布式AI算力平台
 ## AI导航
     "https://openi.cn/" OpenI - AI时代
